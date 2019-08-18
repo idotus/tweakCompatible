@@ -2372,6 +2372,39 @@
       ]
     },
     {
+      "id": "com.thireus.untrustedhostsblocker9",
+      "name": "iOS 9/10 - Untrusted Hosts Blocker",
+      "latest": "1.7.1",
+      "repository": "Thireus Repository",
+      "url": "http://repo.thireus.com",
+      "shortDescription": "READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. IPv4 support only.",
+      "category": "Security",
+      "author": "Thireus",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.7.1",
+          "iOSVersion": "12.4",
+          "repository": "repo.thireus.com",
+          "date": "2019-08-18T22:55:58Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "xyz.royalapps.jellyfish",
       "name": "Jellyfish",
       "latest": "1.2.1",
@@ -4552,22 +4585,21 @@
       ]
     },
     {
-      "id": "com.yourepo.jpet26.youtubetools",
+      "id": "com.justinpetkovic.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
-      "repository": "jpet26 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
       "shortDescription": "Essential toolbox for YouTube app.",
       "category": "Tweaks",
       "author": "Justin Petkovic",
       "commercial": false,
-      "date": "2019-05-25T17:07:36Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "12.4",
-          "repository": "jpet26 Source - YouRepo",
-          "date": "2019-08-18T22:57:43Z",
+          "repository": "(null)",
+          "date": "2019-08-18T18:45:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4586,21 +4618,22 @@
       ]
     },
     {
-      "id": "com.justinpetkovic.youtubetools",
+      "id": "com.yourepo.jpet26.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
+      "repository": "jpet26 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
       "shortDescription": "Essential toolbox for YouTube app.",
       "category": "Tweaks",
       "author": "Justin Petkovic",
       "commercial": false,
+      "date": "2019-05-25T17:07:36Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-18T18:45:33Z",
+          "repository": "jpet26 Source - YouRepo",
+          "date": "2019-08-18T22:57:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
