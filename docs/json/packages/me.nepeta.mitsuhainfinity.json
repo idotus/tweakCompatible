@@ -1122,6 +1122,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.1.7",
+      "iOSVersion": "12.1.1",
+      "repository": "Nepeta",
+      "date": "2019-08-14T19:48:42Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone11,6",
+          "issues": "Works in Music app but not on lock screen. ",
+          "date": "2019-08-14T19:48:42Z",
+          "userName": "edmechem",
+          "issueNumber": 93922,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
