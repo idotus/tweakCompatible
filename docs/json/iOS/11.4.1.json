@@ -396,7 +396,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.13~beta6",
+      "latest": "1.9.13~beta5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -1803,6 +1803,40 @@
       ]
     },
     {
+      "id": "com.repo.xarold.com.uaupdatetools",
+      "name": "App Admin",
+      "latest": "1.0r-101",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.uaupdatetools/",
+      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
+      "category": "System",
+      "author": "UnlimApps Inc.",
+      "commercial": false,
+      "date": "2019-02-23T01:40:48Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0r-101",
+          "iOSVersion": "11.4.1",
+          "repository": "(null)",
+          "date": "2019-02-23T01:40:48Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
       "latest": "1.0r-61",
@@ -1858,40 +1892,6 @@
           "iOSVersion": "11.4.1",
           "repository": "UnlimApps",
           "date": "2019-05-02T05:56:01Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.repo.xarold.com.uaupdatetools",
-      "name": "App Admin",
-      "latest": "1.0r-101",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.uaupdatetools/",
-      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
-      "category": "System",
-      "author": "UnlimApps Inc.",
-      "commercial": false,
-      "date": "2019-02-23T01:40:48Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0r-101",
-          "iOSVersion": "11.4.1",
-          "repository": "(null)",
-          "date": "2019-02-23T01:40:48Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3957,6 +3957,40 @@
       ]
     },
     {
+      "id": "com.shiftcmdk.awesomepagedots",
+      "name": "AwesomePageDots",
+      "latest": "1.1.2",
+      "repository": "shiftcmdk",
+      "url": "http://cydia.saurik.com/package/com.shiftcmdk.awesomepagedots/",
+      "shortDescription": "Animated page control for the home screen.",
+      "category": "Tweaks",
+      "author": "shiftcmdk",
+      "commercial": false,
+      "date": "2019-07-31T12:00:26Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.2",
+          "iOSVersion": "11.4.1",
+          "repository": "shiftcmdk",
+          "date": "2019-08-18T16:04:55Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.nepeta.axon",
       "name": "Axon",
       "latest": "0.1.9",
@@ -4812,6 +4846,40 @@
       ]
     },
     {
+      "id": "com.yourepo.dizzy.betterccx",
+      "name": "BetterCCXI",
+      "latest": "1.4.8",
+      "repository": "Dizzy Source",
+      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.betterccx/",
+      "shortDescription": "Enhance your control center on iOS 11 and iOS 12",
+      "category": "Tweaks",
+      "author": "Dizzy",
+      "commercial": false,
+      "date": "2019-03-22T13:56:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.8",
+          "iOSVersion": "11.4.1",
+          "repository": "Dizzy Source",
+          "date": "2019-03-22T13:56:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.10",
@@ -4848,40 +4916,6 @@
           "iOSVersion": "11.4.1",
           "repository": "Packix",
           "date": "2019-02-03T23:05:18Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.yourepo.dizzy.betterccx",
-      "name": "BetterCCXI",
-      "latest": "1.4.8",
-      "repository": "Dizzy Source",
-      "url": "http://cydia.saurik.com/package/com.yourepo.dizzy.betterccx/",
-      "shortDescription": "Enhance your control center on iOS 11 and iOS 12",
-      "category": "Tweaks",
-      "author": "Dizzy",
-      "commercial": false,
-      "date": "2019-03-22T13:56:01Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.8",
-          "iOSVersion": "11.4.1",
-          "repository": "Dizzy Source",
-          "date": "2019-03-22T13:56:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18774,7 +18808,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-270",
+      "latest": "1.8r-274",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -34596,22 +34630,22 @@
       ]
     },
     {
-      "id": "ch.mdaus.sylph",
+      "id": "com.repo.xarold.com.iomdaussylph",
       "name": "Sylph",
-      "latest": "1.1~Beta.3",
+      "latest": "0.0.1.4-1+debug",
       "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ch.mdaus.sylph/",
-      "shortDescription": "Customize your LS music player",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.iomdaussylph/",
+      "shortDescription": "Mini Media-player in LS",
       "category": "Tweaks",
       "author": "Max Dausch",
       "commercial": false,
-      "date": "2018-07-30T08:56:50Z",
+      "date": "2019-04-13T18:43:24Z",
       "versions": [
         {
-          "tweakVersion": "1.1~Beta.1",
+          "tweakVersion": "0.0.1.4-1+debug",
           "iOSVersion": "11.4.1",
-          "repository": "Maxwell Dausch's Repo",
-          "date": "2019-04-14T11:41:09Z",
+          "repository": "(null)",
+          "date": "2019-04-13T18:43:24Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -34630,22 +34664,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.iomdaussylph",
+      "id": "ch.mdaus.sylph",
       "name": "Sylph",
-      "latest": "0.0.1.4-1+debug",
+      "latest": "1.1~Beta.3",
       "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.iomdaussylph/",
-      "shortDescription": "Mini Media-player in LS",
+      "url": "http://cydia.saurik.com/package/ch.mdaus.sylph/",
+      "shortDescription": "Customize your LS music player",
       "category": "Tweaks",
       "author": "Max Dausch",
       "commercial": false,
-      "date": "2019-04-13T18:43:24Z",
+      "date": "2018-07-30T08:56:50Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1.4-1+debug",
+          "tweakVersion": "1.1~Beta.1",
           "iOSVersion": "11.4.1",
-          "repository": "(null)",
-          "date": "2019-04-13T18:43:24Z",
+          "repository": "Maxwell Dausch's Repo",
+          "date": "2019-04-14T11:41:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
