@@ -88,10 +88,10 @@
       "date": "2019-02-25T07:39:43Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -117,6 +117,15 @@
           "date": "2019-04-13T01:16:21Z",
           "userName": "ghendricks2",
           "issueNumber": 84055,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-16T23:18:11Z",
+          "userName": "SaifeeMir",
+          "issueNumber": 93990,
           "arch32": false
         }
       ]
