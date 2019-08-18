@@ -4172,9 +4172,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -4191,6 +4191,15 @@
           "date": "2019-08-18T20:21:02Z",
           "userName": "snehasishwtf",
           "issueNumber": 94150,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-18T21:22:13Z",
+          "userName": "RaulGonzalezPortillo",
+          "issueNumber": 94166,
           "arch32": false
         }
       ]
