@@ -1,10 +1,10 @@
 {
   "id": "com.unlimapps.uaupdatetools",
   "name": "App Admin",
-  "latest": "1.0r-61",
+  "latest": "1.0r-102",
   "repository": "beta.unlimapps.com",
   "url": "https://beta.unlimapps.com/",
-  "shortDescription": "Downgrade apps to any previous version! No AppSync needed!!!",
+  "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
   "category": "System",
   "author": "UnlimApps Inc.",
   "commercial": false,
@@ -5152,7 +5152,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5196,6 +5196,15 @@
           "date": "2019-07-18T04:30:46Z",
           "userName": "ROK5TAR",
           "issueNumber": 91834,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "AppStore Crashes",
+          "date": "2019-08-16T14:00:30Z",
+          "userName": "humzariaz",
+          "issueNumber": 93969,
           "arch32": false
         }
       ]
