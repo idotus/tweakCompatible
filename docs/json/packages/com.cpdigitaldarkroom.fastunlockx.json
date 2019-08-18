@@ -2282,10 +2282,10 @@
       "date": "2019-07-16T18:25:58Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2311,6 +2311,15 @@
           "date": "2019-07-19T12:08:46Z",
           "userName": "bobsyihabuddin",
           "issueNumber": 91946,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-15T07:36:35Z",
+          "userName": "delon5",
+          "issueNumber": 93943,
           "arch32": false
         }
       ]
