@@ -930,11 +930,11 @@
       "repository": "tateu's repo",
       "date": "2019-07-22T19:58:55Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -951,6 +951,15 @@
           "date": "2019-07-22T19:58:55Z",
           "userName": "pedropaulopop",
           "issueNumber": 92289,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-08-16T07:48:27Z",
+          "userName": "iiea1025",
+          "issueNumber": 93968,
           "arch32": false
         }
       ]
