@@ -71,7 +71,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.13~beta6",
+      "latest": "1.9.13~beta5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -6229,7 +6229,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-270",
+      "latest": "1.8r-274",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -10082,7 +10082,7 @@
       "latest": "3.5.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-      "shortDescription": "Save posts and view stories anonymously and do much more",
+      "shortDescription": "posts and view stories anonymously and do much more",
       "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
@@ -10153,6 +10153,26 @@
           "iOSVersion": "12.1.4",
           "repository": "Alfhaily APT",
           "date": "2019-07-29T18:31:32Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "3.5.3",
+          "iOSVersion": "12.1.4",
+          "repository": "BigBoss",
+          "date": "2019-08-17T15:20:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -11828,10 +11848,10 @@
     {
       "id": "com.iky1e.swipeselection",
       "name": "SwipeSelection",
-      "latest": "1.5.2-1",
+      "latest": "1.5.6",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection/",
-      "shortDescription": "keyboard swipes move cursor & select text",
+      "shortDescription": "Swipe along the keyboard to move the cursor and select text.",
       "category": "Tweaks",
       "author": "iKy1e (Kyle Howells)",
       "commercial": false,
@@ -12432,22 +12452,22 @@
       ]
     },
     {
-      "id": "com.unlimapps.uasharedtools.nostash",
+      "id": "org.cydia.kiimo.nostash",
       "name": "uasharedtools (iOS 11)",
-      "latest": "2.2r-87",
-      "repository": "test.unlimapps.com",
-      "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
+      "latest": "2.2r-76",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.nostash/",
       "shortDescription": "shared tools for unlimapps tweaks",
       "category": "Development",
       "author": "UnlimApps Inc.",
       "commercial": false,
-      "date": "2018-07-22T22:24:24Z",
+      "date": "2019-07-14T06:59:22Z",
       "versions": [
         {
           "tweakVersion": "2.2r-76",
           "iOSVersion": "12.1.4",
-          "repository": "UnlimApps",
-          "date": "2019-07-23T17:25:03Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-14T06:59:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12466,22 +12486,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.nostash",
+      "id": "com.unlimapps.uasharedtools.nostash",
       "name": "uasharedtools (iOS 11)",
-      "latest": "2.2r-76",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.nostash/",
+      "latest": "2.2r-87",
+      "repository": "test.unlimapps.com",
+      "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
       "shortDescription": "shared tools for unlimapps tweaks",
       "category": "Development",
       "author": "UnlimApps Inc.",
       "commercial": false,
-      "date": "2019-07-14T06:59:22Z",
+      "date": "2018-07-22T22:24:24Z",
       "versions": [
         {
           "tweakVersion": "2.2r-76",
           "iOSVersion": "12.1.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-14T06:59:22Z",
+          "repository": "UnlimApps",
+          "date": "2019-07-23T17:25:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12903,40 +12923,6 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.xenhtml",
-      "name": "Xen HTML",
-      "latest": "0.5-2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
-      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-07-28T21:20:26Z",
-      "versions": [
-        {
-          "tweakVersion": "0.5-2",
-          "iOSVersion": "12.1.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-28T21:20:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
       "latest": "0.5.4",
@@ -12979,6 +12965,40 @@
             "good": 1,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cydia.kiiimo.org.xenhtml",
+      "name": "Xen HTML",
+      "latest": "0.5-2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
+      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-07-28T21:20:26Z",
+      "versions": [
+        {
+          "tweakVersion": "0.5-2",
+          "iOSVersion": "12.1.4",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-28T21:20:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -13061,7 +13081,7 @@
     {
       "id": "com.spicat.youpip",
       "name": "YouPip",
-      "latest": "0.0.4.7",
+      "latest": "0.0.4.8",
       "repository": "Spica T Repo",
       "url": "http://cydia.saurik.com/package/com.spicat.youpip/",
       "shortDescription": "Enable PIP in native YouTube app.",

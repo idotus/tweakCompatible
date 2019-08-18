@@ -1,7 +1,7 @@
 {
   "id": "me.nepeta.nereid",
   "name": "Nereid",
-  "latest": "0.1.7-1",
+  "latest": "0.1.8-1",
   "repository": "Nepeta",
   "url": "http://cydia.saurik.com/package/me.nepeta.nereid/",
   "shortDescription": "Lock screen music player redesign",
@@ -440,6 +440,37 @@
           "date": "2019-07-22T21:25:06Z",
           "userName": "ancross6",
           "issueNumber": 92295,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.8-1",
+      "iOSVersion": "12.2",
+      "repository": "Nepeta",
+      "date": "2019-08-17T13:32:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-17T13:32:02Z",
+          "userName": "mac-user669",
+          "issueNumber": 94019,
           "arch32": false
         }
       ]
