@@ -49,9 +49,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -77,6 +77,15 @@
           "date": "2019-08-15T23:23:49Z",
           "userName": "d8vedmg",
           "issueNumber": 93957,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-15T21:47:07Z",
+          "userName": "basicide",
+          "issueNumber": 93952,
           "arch32": false
         }
       ]
