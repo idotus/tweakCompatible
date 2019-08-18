@@ -798,22 +798,22 @@
       ]
     },
     {
-      "id": "com.ps.amber",
+      "id": "com.shiarahmed.amber",
       "name": "Amber",
       "latest": "0.0.3.1",
-      "repository": "PoomSmart's Repo",
-      "url": "http://cydia.saurik.com/package/com.ps.amber/",
+      "repository": "Shiar's Repo",
+      "url": "http://cydia.saurik.com/package/com.shiarahmed.amber/",
       "shortDescription": "Amber-ify your LED torch.",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
-      "date": "2018-07-11T06:24:58Z",
+      "date": "2019-07-13T17:48:33Z",
       "versions": [
         {
           "tweakVersion": "0.0.3.1",
           "iOSVersion": "12.2",
-          "repository": "PoomSmart's Repo",
-          "date": "2019-07-26T17:00:27Z",
+          "repository": "Shiar's Repo",
+          "date": "2019-07-13T17:48:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -832,22 +832,22 @@
       ]
     },
     {
-      "id": "com.shiarahmed.amber",
+      "id": "com.ps.amber",
       "name": "Amber",
       "latest": "0.0.3.1",
-      "repository": "Shiar's Repo",
-      "url": "http://cydia.saurik.com/package/com.shiarahmed.amber/",
+      "repository": "PoomSmart's Repo",
+      "url": "http://cydia.saurik.com/package/com.ps.amber/",
       "shortDescription": "Amber-ify your LED torch.",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
-      "date": "2019-07-13T17:48:33Z",
+      "date": "2018-07-11T06:24:58Z",
       "versions": [
         {
           "tweakVersion": "0.0.3.1",
           "iOSVersion": "12.2",
-          "repository": "Shiar's Repo",
-          "date": "2019-07-13T17:48:33Z",
+          "repository": "PoomSmart's Repo",
+          "date": "2019-07-26T17:00:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1312,6 +1312,40 @@
       ]
     },
     {
+      "id": "com.shiarahmed.uaupdatetools",
+      "name": "App Admin",
+      "latest": "1.0r-102",
+      "repository": "Shiar's Repo",
+      "url": "http://cydia.saurik.com/package/com.shiarahmed.uaupdatetools/",
+      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
+      "category": "System",
+      "author": "UnlimApps Inc.",
+      "commercial": false,
+      "date": "2019-03-07T09:16:38Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0r-102",
+          "iOSVersion": "12.2",
+          "repository": "Shiar's Repo",
+          "date": "2019-07-13T17:49:57Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 50,
+            "good": 1,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.unlimapps.uaupdatetools",
       "name": "App Admin",
       "latest": "1.0r-102",
@@ -1353,40 +1387,6 @@
             "good": 0,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.shiarahmed.uaupdatetools",
-      "name": "App Admin",
-      "latest": "1.0r-102",
-      "repository": "Shiar's Repo",
-      "url": "http://cydia.saurik.com/package/com.shiarahmed.uaupdatetools/",
-      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
-      "category": "System",
-      "author": "UnlimApps Inc.",
-      "commercial": false,
-      "date": "2019-03-07T09:16:38Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0r-102",
-          "iOSVersion": "12.2",
-          "repository": "Shiar's Repo",
-          "date": "2019-07-13T17:49:57Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 50,
-            "good": 1,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -2975,9 +2975,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 1,
+            "good": 2,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -16630,22 +16630,21 @@
       ]
     },
     {
-      "id": "me.nepeta.libcolorpicker",
+      "id": "org.thebigboss.libcolorpicker",
       "name": "libcolorpicker",
-      "latest": "1.6.2-2",
-      "repository": "Nepeta",
-      "url": "http://cydia.saurik.com/package/me.nepeta.libcolorpicker/",
-      "shortDescription": "libcolorpicker with arm64e (A12) support",
-      "category": "System",
-      "author": "Bailey Seymour",
+      "latest": "1.6.3-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/",
+      "shortDescription": "color picker library for developers",
+      "category": "Development",
+      "author": "PixelFire",
       "commercial": false,
-      "date": "2019-04-23T12:35:57Z",
       "versions": [
         {
-          "tweakVersion": "1.6.2-3",
+          "tweakVersion": "1.6.3-1",
           "iOSVersion": "12.2",
           "repository": "BigBoss",
-          "date": "2019-07-23T22:31:52Z",
+          "date": "2019-07-19T04:05:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -16664,21 +16663,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.libcolorpicker",
+      "id": "me.nepeta.libcolorpicker",
       "name": "libcolorpicker",
-      "latest": "1.6.3-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/",
-      "shortDescription": "color picker library for developers",
-      "category": "Development",
-      "author": "PixelFire",
+      "latest": "1.6.2-2",
+      "repository": "Nepeta",
+      "url": "http://cydia.saurik.com/package/me.nepeta.libcolorpicker/",
+      "shortDescription": "libcolorpicker with arm64e (A12) support",
+      "category": "System",
+      "author": "Bailey Seymour",
       "commercial": false,
+      "date": "2019-04-23T12:35:57Z",
       "versions": [
         {
-          "tweakVersion": "1.6.3-1",
+          "tweakVersion": "1.6.2-3",
           "iOSVersion": "12.2",
           "repository": "BigBoss",
-          "date": "2019-07-19T04:05:54Z",
+          "date": "2019-07-23T22:31:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20877,40 +20877,6 @@
       ]
     },
     {
-      "id": "com.adamseiter.nolargetitles",
-      "name": "NoLargeTitles",
-      "latest": "1.1",
-      "repository": "SEITERSEITER's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
-      "shortDescription": "Removes ugly large titles from apps.",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-03-01T19:59:25Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "12.2",
-          "repository": "eXqusic's Repo",
-          "date": "2019-07-25T16:03:56Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.coolstar.nolargetitles",
       "name": "NoLargeTitles",
       "latest": "1.0-1",
@@ -20931,6 +20897,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.adamseiter.nolargetitles",
+      "name": "NoLargeTitles",
+      "latest": "1.1",
+      "repository": "SEITERSEITER's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
+      "shortDescription": "Removes ugly large titles from apps.",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-03-01T19:59:25Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "12.2",
+          "repository": "eXqusic's Repo",
+          "date": "2019-07-25T16:03:56Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -24675,40 +24675,6 @@
       ]
     },
     {
-      "id": "com.matchstic.reprovision",
-      "name": "ReProvision",
-      "latest": "0.4.2",
-      "repository": "Matchstic",
-      "url": "http://cydia.saurik.com/package/com.matchstic.reprovision/",
-      "shortDescription": "Re-sign applications on your device",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2018-08-12T19:47:47Z",
-      "versions": [
-        {
-          "tweakVersion": "0.4.2",
-          "iOSVersion": "12.2",
-          "repository": "repo.incendo.ws",
-          "date": "2019-07-12T23:32:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 12,
-            "bad": 0,
-            "total": 12,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.cydia.kiimo.reprovision",
       "name": "ReProvision",
       "latest": "0.4.2",
@@ -24731,6 +24697,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.matchstic.reprovision",
+      "name": "ReProvision",
+      "latest": "0.4.2",
+      "repository": "Matchstic",
+      "url": "http://cydia.saurik.com/package/com.matchstic.reprovision/",
+      "shortDescription": "Re-sign applications on your device",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2018-08-12T19:47:47Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4.2",
+          "iOSVersion": "12.2",
+          "repository": "repo.incendo.ws",
+          "date": "2019-07-12T23:32:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 12,
+            "bad": 0,
+            "total": 12,
             "arch32": {
               "total": 0,
               "good": 0,
