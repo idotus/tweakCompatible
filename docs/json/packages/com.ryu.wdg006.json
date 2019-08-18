@@ -878,11 +878,11 @@
       "repository": "Packix",
       "date": "2019-07-22T23:56:45Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -899,6 +899,15 @@
           "date": "2019-07-22T23:56:45Z",
           "userName": "IOExeption",
           "issueNumber": 92309,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-14T02:34:42Z",
+          "userName": "Mr-Meeno",
+          "issueNumber": 93901,
           "arch32": false
         }
       ]
