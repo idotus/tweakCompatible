@@ -2793,6 +2793,40 @@
       ]
     },
     {
+      "id": "com.samgisaninja.nocturnal",
+      "name": "nocturnal",
+      "latest": "1.1.1",
+      "repository": "Samg_is_a_Ninja Repo",
+      "url": "http://cydia.saurik.com/package/com.samgisaninja.nocturnal/",
+      "shortDescription": "Control Center Module for Eclipse!",
+      "category": "Control Center (Modules)",
+      "author": "Samg_is_a_Ninja",
+      "commercial": false,
+      "date": "2019-02-27T23:15:44Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.1",
+          "iOSVersion": "12.4",
+          "repository": "Samg_is_a_Ninja's Repo",
+          "date": "2019-08-18T23:02:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.posdorfer.noliveclock",
       "name": "NoLiveClock",
       "latest": "0.0.2",
