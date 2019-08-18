@@ -1,7 +1,7 @@
 {
   "id": "com.spicat.youpip",
   "name": "YouPip",
-  "latest": "0.0.4.7",
+  "latest": "0.0.4.8",
   "repository": "Spica T Repo",
   "url": "http://cydia.saurik.com/package/com.spicat.youpip/",
   "shortDescription": "Enable PIP in native YouTube app.",
@@ -1348,6 +1348,37 @@
           "date": "2019-08-11T11:22:22Z",
           "userName": "Valaisin",
           "issueNumber": 93809,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.4.8",
+      "iOSVersion": "12.1.2",
+      "repository": "Spica T Repo",
+      "date": "2019-08-18T01:30:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-08-18T01:30:24Z",
+          "userName": "Idontreallyknowwhattoputhere",
+          "issueNumber": 94030,
           "arch32": false
         }
       ]
