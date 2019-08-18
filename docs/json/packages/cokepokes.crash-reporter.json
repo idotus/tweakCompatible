@@ -1,7 +1,7 @@
 {
   "id": "cokepokes.crash-reporter",
   "name": "CrashReporter (arm64/arm64e)",
-  "latest": "1.16.0-4",
+  "latest": "1.16.0-6",
   "repository": "CokePokes",
   "url": "http://cydia.saurik.com/package/cokepokes.crash-reporter/",
   "shortDescription": "Send useful crash info to developers.",
@@ -161,6 +161,37 @@
           "date": "2019-08-02T01:43:38Z",
           "userName": "delon5",
           "issueNumber": 93342,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.16.0-6",
+      "iOSVersion": "12.2",
+      "repository": "CokePokes",
+      "date": "2019-08-16T06:54:39Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-16T06:54:39Z",
+          "userName": "Skodal99",
+          "issueNumber": 93967,
           "arch32": false
         }
       ]
