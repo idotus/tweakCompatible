@@ -1,10 +1,10 @@
 {
   "id": "com.iarrays.copic2",
   "name": "Copic 2",
-  "latest": "1.0.11",
+  "latest": "1.0.12-beta-1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.iarrays.copic2/",
-  "shortDescription": "Display the Contact pictures everywhere on your iPhone",
+  "shortDescription": "The new Copic 2 is totally redesigned, optimized and rebuild from the scratch. Now brings the ability to display the Contact pictures everywhere on your iPhone.Integrates seamlessly with stock Contacts, FaceTime, Mail, Messages and Phone apps. The best part of this tweak is it also integrates with WhatsApp & infamous tweak Recents 2 too. Also integrates with locks screen and Notification Center. Brings ability to turn on or off monograms or show rounded or rectangular images and many more features.",
   "category": "Tweaks",
   "author": "IArrays",
   "commercial": false,
@@ -1618,6 +1618,37 @@
           "date": "2019-07-31T12:04:58Z",
           "userName": "FaisalBiyari",
           "issueNumber": 93185,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.12-beta-1",
+      "iOSVersion": "11.3.1",
+      "repository": "IArrays",
+      "date": "2019-08-17T22:55:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "Working on iOS 11.3.1",
+          "date": "2019-08-17T22:55:00Z",
+          "userName": "muzzaa",
+          "issueNumber": 94026,
           "arch32": false
         }
       ]
