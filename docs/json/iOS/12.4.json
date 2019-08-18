@@ -271,6 +271,40 @@
       ]
     },
     {
+      "id": "org.thebigboss.byethirdparty",
+      "name": "ByeThirdParty",
+      "latest": "1.0-3",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.byethirdparty/",
+      "shortDescription": "hide third parties in phone history",
+      "category": "Tweaks",
+      "author": "Mohammad Ghzayel",
+      "commercial": false,
+      "date": "2018-05-19T12:26:54Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-3",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-18T19:51:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.pulandres.callbarxs",
       "name": "CallBar XS Cracked",
       "latest": "2.2-5",
@@ -795,9 +829,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 2,
+            "good": 3,
             "bad": 0,
-            "total": 2,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
