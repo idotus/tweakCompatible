@@ -409,7 +409,7 @@
     {
       "id": "libactivator",
       "name": "Activator",
-      "latest": "1.9.13~beta6",
+      "latest": "1.9.13~beta5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/libactivator/",
       "shortDescription": "Centralized gestures, button and shortcut management for iOS",
@@ -2134,10 +2134,10 @@
     {
       "id": "ch.mdaus.artsy",
       "name": "Artsy",
-      "latest": "2.0~Beta.8",
+      "latest": "1.2",
       "repository": "Maxwell Dausch's Repo",
       "url": "http://cydia.saurik.com/package/ch.mdaus.artsy/",
-      "shortDescription": "Color your music stuff",
+      "shortDescription": "Colorize and customize  your music players",
       "category": "Tweaks",
       "author": "Maxwell Dausch",
       "commercial": false,
@@ -3230,7 +3230,7 @@
     {
       "id": "com.spark.batterypercentx",
       "name": "BatteryPercentX [Public]",
-      "latest": "1.3.7-1",
+      "latest": "1.3.8-1",
       "repository": "Spark's Beta Repo",
       "url": "http://beta.sparkservers.co.uk/",
       "shortDescription": "Replaces the battery icon with percentage on the iPhone X",
@@ -6757,22 +6757,22 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop64",
+      "id": "cydia.kiiimo.org.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2-1+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
+      "latest": "2.0.2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2018-03-13T11:14:04Z",
+      "date": "2019-07-31T23:15:46Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2-1+debug",
+          "tweakVersion": "2.0.2",
           "iOSVersion": "12.2",
-          "repository": "(null)",
-          "date": "2019-07-23T18:04:03Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-31T23:15:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6791,22 +6791,22 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.cocoatop64",
+      "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cocoatop64/",
+      "latest": "2.0.2-1+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2019-07-31T23:15:46Z",
+      "date": "2018-03-13T11:14:04Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2",
+          "tweakVersion": "2.0.2-1+debug",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-31T23:15:46Z",
+          "repository": "(null)",
+          "date": "2019-07-23T18:04:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13623,6 +13623,40 @@
       ]
     },
     {
+      "id": "com.vitataf.homegesturelite",
+      "name": "HomeGesture Lite",
+      "latest": "1.3",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.vitataf.homegesturelite/",
+      "shortDescription": "Enable iPhone X home gesture on other devices.",
+      "category": "Tweaks",
+      "author": "VitaTaf",
+      "commercial": false,
+      "date": "2018-07-12T16:46:12Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3",
+          "iOSVersion": "12.2",
+          "repository": "Packix",
+          "date": "2019-08-18T16:20:19Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.level3tjg.hometime",
       "name": "hometime",
       "latest": "1.1",
@@ -14401,7 +14435,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-270",
+      "latest": "1.8r-274",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -15781,7 +15815,7 @@
     {
       "id": "com.ps.letmeblock",
       "name": "LetMeBlock",
-      "latest": "0.0.6.5",
+      "latest": "0.0.6.8",
       "repository": "PoomSmart's Repo",
       "url": "http://cydia.saurik.com/package/com.ps.letmeblock/",
       "shortDescription": "Make mDNSResponder care more about /etc/hosts",
@@ -19332,22 +19366,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:38:31Z",
+          "date": "2019-07-23T22:37:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19366,22 +19400,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:37:30Z",
+          "date": "2019-07-23T22:38:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -26232,7 +26266,7 @@
     {
       "id": "org.thebigboss.smoothcursor",
       "name": "SmoothCursor",
-      "latest": "1.1.3",
+      "latest": "1.1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/org.thebigboss.smoothcursor/",
       "shortDescription": "Office 2013-styled cursor animation.",
@@ -27656,7 +27690,7 @@
     {
       "id": "com.samgisaninja.successionrestore",
       "name": "Succession [beta]",
-      "latest": "1.3.4",
+      "latest": "1.3.5",
       "repository": "Samg_is_a_Ninja Repo",
       "url": "http://cydia.saurik.com/package/com.samgisaninja.successionrestore/",
       "shortDescription": "Restore without updating via rootfilesystem DMG",
@@ -27966,10 +28000,10 @@
     {
       "id": "com.iky1e.swipeselection",
       "name": "SwipeSelection",
-      "latest": "1.5.6",
+      "latest": "1.5.2-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection/",
-      "shortDescription": "Swipe along the keyboard to move the cursor and select text.",
+      "shortDescription": "keyboard swipes move cursor & select text",
       "category": "Tweaks",
       "author": "iKy1e (Kyle Howells)",
       "commercial": false,
@@ -31671,22 +31705,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "4.32.7-2",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:36:47Z",
+          "date": "2019-07-23T22:52:23Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31705,22 +31739,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "4.32.7-2",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:52:23Z",
+          "date": "2019-07-23T22:36:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31829,7 +31863,7 @@
     {
       "id": "com.justinpetkovic.youtubetools",
       "name": "YouTube Tools",
-      "latest": "1.7",
+      "latest": "2.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
       "shortDescription": "Essential toolbox for YouTube app.",
@@ -32037,7 +32071,7 @@
     {
       "id": "xyz.willy.zebra",
       "name": "Zebra (BETA)",
-      "latest": "1.0~beta20-2",
+      "latest": "1.0~beta19",
       "repository": "xTM3x Repo",
       "url": "http://cydia.saurik.com/package/xyz.willy.zebra/",
       "shortDescription": "A Useful Package Manager",
