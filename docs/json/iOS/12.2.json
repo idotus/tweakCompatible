@@ -16479,40 +16479,6 @@
       ]
     },
     {
-      "id": "com.ryleyangus.libertylite",
-      "name": "Liberty Lite",
-      "latest": "0.2.10",
-      "repository": "Ryley's Repo",
-      "url": "http://cydia.saurik.com/package/com.ryleyangus.libertylite/",
-      "shortDescription": "A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.",
-      "category": "Tweaks",
-      "author": "Ryley Angus",
-      "commercial": false,
-      "date": "2018-03-11T22:28:04Z",
-      "versions": [
-        {
-          "tweakVersion": "0.2.10",
-          "iOSVersion": "12.2",
-          "repository": "Ryley's Repo",
-          "date": "2019-07-12T20:11:30Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.s3ud.alshaman.libertylite",
       "name": "Liberty Lite",
       "latest": "0.2.10",
@@ -16535,6 +16501,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ryleyangus.libertylite",
+      "name": "Liberty Lite",
+      "latest": "0.2.10",
+      "repository": "Ryley's Repo",
+      "url": "http://cydia.saurik.com/package/com.ryleyangus.libertylite/",
+      "shortDescription": "A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.",
+      "category": "Tweaks",
+      "author": "Ryley Angus",
+      "commercial": false,
+      "date": "2018-03-11T22:28:04Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2.10",
+          "iOSVersion": "12.2",
+          "repository": "Ryley's Repo",
+          "date": "2019-07-12T20:11:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -19468,22 +19468,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:37:30Z",
+          "date": "2019-07-23T22:38:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19502,22 +19502,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:38:31Z",
+          "date": "2019-07-23T22:37:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31262,6 +31262,40 @@
           "iOSVersion": "12.2",
           "repository": "IArrays",
           "date": "2019-07-15T02:33:46Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.booleanmagic.wicarrier",
+      "name": "WiCarrier",
+      "latest": "1.1.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.booleanmagic.wicarrier/",
+      "shortDescription": "Display WiFi network in status bar",
+      "category": "Tweaks",
+      "author": "Ryan Petrich",
+      "commercial": false,
+      "date": "2018-03-01T23:30:35Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.5",
+          "iOSVersion": "12.2",
+          "repository": "rpetrich repo",
+          "date": "2019-08-18T09:16:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
