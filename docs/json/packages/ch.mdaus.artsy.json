@@ -1,10 +1,10 @@
 {
   "id": "ch.mdaus.artsy",
   "name": "Artsy",
-  "latest": "2.0~Beta.8",
+  "latest": "1.2",
   "repository": "Maxwell Dausch's Repo",
   "url": "http://cydia.saurik.com/package/ch.mdaus.artsy/",
-  "shortDescription": "Color your music stuff",
+  "shortDescription": "Colorize and customize  your music players",
   "category": "Tweaks",
   "author": "Maxwell Dausch",
   "commercial": false,
@@ -3356,6 +3356,37 @@
           "date": "2019-07-31T02:20:07Z",
           "userName": "kantarellen",
           "issueNumber": 93135,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-18T18:51:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-08-18T18:51:45Z",
+          "userName": "itsthescallywag",
+          "issueNumber": 94105,
           "arch32": false
         }
       ]
