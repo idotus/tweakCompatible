@@ -1,0 +1,45 @@
+{
+  "id": "org.cydia.kiimo.beta",
+  "name": "Liberty Lite (Beta)",
+  "latest": "0.2.11",
+  "repository": "A kiiimo Repository ",
+  "url": "http://cydia.saurik.com/package/org.cydia.kiimo.beta/",
+  "shortDescription": "A (lite) general purpose jailbreak detection bypass patch. \r",
+  "category": "iOS 12",
+  "author": "Ryley Angus",
+  "commercial": false,
+  "date": "2019-07-20T06:59:21Z",
+  "versions": [
+    {
+      "tweakVersion": "0.2.11",
+      "iOSVersion": "12.1.2",
+      "repository": "A kiiimo Repository ",
+      "date": "2019-07-20T06:59:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-07-20T06:59:21Z",
+          "userName": "thecoldblooded",
+          "issueNumber": 92027,
+          "arch32": false
+        }
+      ]
+    }
+  ]
+}
