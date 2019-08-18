@@ -4514,7 +4514,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.7.0-18",
+      "latest": "3.6.0-31",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -5093,6 +5093,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.cydiageek.fullphotopreview",
+      "name": "FullPhotoPreview",
+      "latest": "1.0.0",
+      "repository": "CydiaGeek Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.fullphotopreview/",
+      "shortDescription": "Show Full Image Previews on Photos App! Not for A12 yet since i am out of home now. Soon also Added to DenyPhotoAlbums! Based on AUSSIE_G4M3R Patch.",
+      "category": "Tweaks",
+      "author": "CydiaGeek",
+      "commercial": false,
+      "date": "2019-08-16T15:02:02Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0",
+          "iOSVersion": "12.1.4",
+          "repository": "CydiaGeek Source - YouRepo",
+          "date": "2019-08-16T15:02:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8194,22 +8228,21 @@
       ]
     },
     {
-      "id": "mterminal",
+      "id": "com.officialscheduler.mterminal",
       "name": "MTerminal",
-      "latest": "1.4-6",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/mterminal/",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
-      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-6",
+          "tweakVersion": "1.4-5",
           "iOSVersion": "12.1.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-07-12T15:09:03Z",
+          "repository": "BigBoss",
+          "date": "2019-07-13T13:39:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8228,21 +8261,22 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
+      "id": "mterminal",
       "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "latest": "1.4-6",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
+      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5",
+          "tweakVersion": "1.4-6",
           "iOSVersion": "12.1.4",
-          "repository": "BigBoss",
-          "date": "2019-07-13T13:39:06Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-07-12T15:09:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12956,9 +12990,43 @@
       ]
     },
     {
+      "id": "cydia.kiiimo.org.xenhtml",
+      "name": "Xen HTML",
+      "latest": "0.5-2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
+      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-07-28T21:20:26Z",
+      "versions": [
+        {
+          "tweakVersion": "0.5-2",
+          "iOSVersion": "12.1.4",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-28T21:20:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.5.4",
+      "latest": "0.5.5",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
@@ -12998,40 +13066,6 @@
             "good": 1,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "cydia.kiiimo.org.xenhtml",
-      "name": "Xen HTML",
-      "latest": "0.5-2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
-      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-07-28T21:20:26Z",
-      "versions": [
-        {
-          "tweakVersion": "0.5-2",
-          "iOSVersion": "12.1.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-28T21:20:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
