@@ -1,7 +1,7 @@
 {
   "id": "com.ichitaso.quickcc",
   "name": "QuickCC",
-  "latest": "1.0.3",
+  "latest": "1.0.4",
   "repository": "ichitaso repository",
   "url": "http://cydia.saurik.com/package/com.ichitaso.quickcc/",
   "shortDescription": "Expands Wifi and Bluetooth connectivity in Control Center",
@@ -303,6 +303,37 @@
           "date": "2019-08-06T18:29:19Z",
           "userName": "percyjk23",
           "issueNumber": 93598,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.4",
+      "iOSVersion": "12.0.1",
+      "repository": "BigBoss",
+      "date": "2019-08-18T14:09:36Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone7,1",
+          "issues": "causes my mfi game controller to lag and almost as if every button press is double tapped? hopefully this can be fixed, i really like this tweak. experienced this problem in every update so far.",
+          "date": "2019-08-18T14:09:36Z",
+          "userName": "bewl87",
+          "issueNumber": 94046,
           "arch32": false
         }
       ]
