@@ -1,10 +1,10 @@
 {
   "id": "com.iky1e.swipeselection",
   "name": "SwipeSelection",
-  "latest": "1.5.2-1",
+  "latest": "1.5.6",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection/",
-  "shortDescription": "keyboard swipes move cursor & select text",
+  "shortDescription": "Swipe along the keyboard to move the cursor and select text.",
   "category": "Tweaks",
   "author": "iKy1e (Kyle Howells)",
   "commercial": false,
@@ -1768,6 +1768,37 @@
           "date": "2019-08-18T18:39:13Z",
           "userName": "TrampLOL",
           "issueNumber": 94063,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5.6",
+      "iOSVersion": "12.2",
+      "repository": "Bruno Andrade's Repo",
+      "date": "2019-08-17T20:27:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-08-17T20:27:30Z",
+          "userName": "Shagakusha",
+          "issueNumber": 94024,
           "arch32": false
         }
       ]
