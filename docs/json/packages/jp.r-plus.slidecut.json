@@ -843,6 +843,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.5",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-18T22:51:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-08-18T22:51:53Z",
+          "userName": "vanko987",
+          "issueNumber": 94230,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
