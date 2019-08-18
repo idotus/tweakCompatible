@@ -1,10 +1,10 @@
 {
   "id": "com.captinc.batchomatic",
   "name": "Batchomatic",
-  "latest": "2.1",
+  "latest": "3.0.1",
   "repository": "Capt Inc",
   "url": "http://cydia.saurik.com/package/com.captinc.batchomatic/",
-  "shortDescription": "Batch-install your installed tweaks and tweak preferences!",
+  "shortDescription": "Batch-install your tweaks, repos, saved .debs, tweak preferences, and hosts file!",
   "category": "Tweaks",
   "author": "Capt Inc",
   "commercial": false,
@@ -37,6 +37,37 @@
           "date": "2019-06-23T17:33:14Z",
           "userName": "starmega",
           "issueNumber": 90490,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.0.1",
+      "iOSVersion": "12.2",
+      "repository": "BigBoss",
+      "date": "2019-08-16T04:02:33Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad4,7",
+          "issues": "",
+          "date": "2019-08-16T04:02:33Z",
+          "userName": "Cucklord420",
+          "issueNumber": 93963,
           "arch32": false
         }
       ]
