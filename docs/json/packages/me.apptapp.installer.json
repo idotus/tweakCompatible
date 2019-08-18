@@ -1,7 +1,7 @@
 {
   "id": "me.apptapp.installer",
   "name": "Installer",
-  "latest": "5.0b7",
+  "latest": "5.0b8~2",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/me.apptapp.installer/",
   "shortDescription": "A modern package manager built specifically for iOS!",
@@ -232,6 +232,37 @@
           "date": "2019-08-07T07:32:29Z",
           "userName": "TomerGamerTV",
           "issueNumber": 93630,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "5.0b8~2",
+      "iOSVersion": "12.1.1",
+      "repository": "AppTapp repo",
+      "date": "2019-08-13T19:52:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone11,6",
+          "issues": "Had to refresh all repos. \"...\" menu (for any particular tweak) doesn't work - shows blank items then dismisses. ",
+          "date": "2019-08-13T19:52:21Z",
+          "userName": "edmechem",
+          "issueNumber": 93890,
           "arch32": false
         }
       ]
