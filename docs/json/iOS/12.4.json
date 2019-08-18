@@ -308,7 +308,7 @@
     {
       "id": "com.shiftcmdk.awesomepagedots",
       "name": "AwesomePageDots",
-      "latest": "1.1.2",
+      "latest": "1.1",
       "repository": "shiftcmdk",
       "url": "http://cydia.saurik.com/package/com.shiftcmdk.awesomepagedots/",
       "shortDescription": "Animated page control for the home screen.",
@@ -1786,6 +1786,40 @@
       ]
     },
     {
+      "id": "com.dunkston.notimask",
+      "name": "NotiMask",
+      "latest": "1.0",
+      "repository": "dunkston's repo",
+      "url": "http://cydia.saurik.com/package/com.dunkston.notimask/",
+      "shortDescription": "Disguise your notifications",
+      "category": "Tweaks",
+      "author": "dunkston",
+      "commercial": false,
+      "date": "2019-02-26T16:46:59Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "12.4",
+          "repository": "dunkston's repo",
+          "date": "2019-08-18T21:47:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "net.limneos.novoicemail",
       "name": "NoVoiceMail",
       "latest": "1.0-32",
@@ -2360,10 +2394,10 @@
     {
       "id": "com.iky1e.swipeselection",
       "name": "SwipeSelection",
-      "latest": "1.5.2-1",
+      "latest": "1.5.6",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection/",
-      "shortDescription": "keyboard swipes move cursor & select text",
+      "shortDescription": "Swipe along the keyboard to move the cursor and select text.",
       "category": "Tweaks",
       "author": "iKy1e (Kyle Howells)",
       "commercial": false,
