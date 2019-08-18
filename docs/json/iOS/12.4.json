@@ -137,6 +137,40 @@
       ]
     },
     {
+      "id": "net.limneos.audiorecorderxs",
+      "name": "AudioRecorder XS (iOS 12)",
+      "latest": "3.0-78",
+      "repository": "limneos.net",
+      "url": "http://cydia.saurik.com/package/net.limneos.audiorecorderxs/",
+      "shortDescription": "Most Advanced iOS Call Recorder Ever!",
+      "category": "Tweaks",
+      "author": "Elias Limneos",
+      "commercial": false,
+      "date": "2019-02-27T07:18:40Z",
+      "versions": [
+        {
+          "tweakVersion": "3.0-78",
+          "iOSVersion": "12.4",
+          "repository": "Limneos Repo",
+          "date": "2019-08-18T18:49:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.spark.autounlockx",
       "name": "AutoUnlockX [Member]",
       "latest": "1.0.6",
