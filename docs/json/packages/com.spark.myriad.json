@@ -554,6 +554,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.2.7-1",
+      "iOSVersion": "12.4",
+      "repository": "SparkDev",
+      "date": "2019-08-18T19:58:33Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Crashes after half swipe in app switcher",
+          "date": "2019-08-18T19:58:33Z",
+          "userName": "bermudalocket",
+          "issueNumber": 94133,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
