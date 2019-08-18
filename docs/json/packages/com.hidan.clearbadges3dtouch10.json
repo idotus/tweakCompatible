@@ -916,9 +916,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -944,6 +944,15 @@
           "date": "2019-07-25T12:43:37Z",
           "userName": "SentientEnigma",
           "issueNumber": 92724,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-14T17:20:01Z",
+          "userName": "Skodal99",
+          "issueNumber": 93919,
           "arch32": false
         }
       ]
