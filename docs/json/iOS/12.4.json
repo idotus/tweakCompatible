@@ -3266,6 +3266,40 @@
       ]
     },
     {
+      "id": "com.patrick.darkkeysxii",
+      "name": "DarkKeysXII",
+      "latest": "1.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.patrick.darkkeysxii/",
+      "shortDescription": "Have a whole new dark universal keyboard with DarkKeysXII!",
+      "category": "Tweaks",
+      "author": "Patrick and Ultra",
+      "commercial": false,
+      "date": "2019-03-05T16:29:06Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T08:38:46Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.sticktron.darkmessages",
       "name": "DarkMessages (iOS 10)",
       "latest": "1.2.0-1",
