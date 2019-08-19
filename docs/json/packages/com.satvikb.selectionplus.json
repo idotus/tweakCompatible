@@ -937,9 +937,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -956,6 +956,15 @@
           "date": "2019-08-19T10:47:05Z",
           "userName": "kronos-99",
           "issueNumber": 94792,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-19T04:28:09Z",
+          "userName": "R-IS-REAL-2041",
+          "issueNumber": 94501,
           "arch32": false
         }
       ]
