@@ -1,7 +1,7 @@
 {
   "id": "com.irepo.boxy3",
   "name": "Boxy3",
-  "latest": "3.6",
+  "latest": "3.6.1",
   "repository": "iOS Creatix",
   "url": "http://cydia.saurik.com/package/com.irepo.boxy3/",
   "shortDescription": "Fully customize your icon layout!",
@@ -2207,6 +2207,37 @@
           "date": "2019-08-19T05:42:03Z",
           "userName": "maikotui",
           "issueNumber": 94586,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.6.1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-19T19:53:17Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPad7,3",
+          "issues": "",
+          "date": "2019-08-19T19:53:17Z",
+          "userName": "kolbicz",
+          "issueNumber": 95330,
           "arch32": false
         }
       ]
