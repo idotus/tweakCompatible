@@ -1291,6 +1291,40 @@
       ]
     },
     {
+      "id": "jp.akusio.backgrounderaction12",
+      "name": "BackgrounderAction for CCSupport",
+      "latest": "0.1.0",
+      "repository": "akusio repo",
+      "url": "http://cydia.saurik.com/package/jp.akusio.backgrounderaction12/",
+      "shortDescription": "Add \"Toggle Background Mode\" action to ControlCenter.",
+      "category": "Tweaks",
+      "author": "akusio",
+      "commercial": false,
+      "date": "2019-03-01T14:46:15Z",
+      "versions": [
+        {
+          "tweakVersion": "0.1.0",
+          "iOSVersion": "12.4",
+          "repository": "akusio repo",
+          "date": "2019-08-19T02:26:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.synnyg.backupaz3",
       "name": "BackupAZ 3 (iOS 10 - 11)",
       "latest": "1.5",
