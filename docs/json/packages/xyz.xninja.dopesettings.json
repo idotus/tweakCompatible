@@ -1,7 +1,7 @@
 {
   "id": "xyz.xninja.dopesettings",
   "name": "DopeSettings",
-  "latest": "0.1.0",
+  "latest": "0.1.0-1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/xyz.xninja.dopesettings/",
   "shortDescription": "Spice up the settings view",
@@ -971,6 +971,37 @@
           "date": "2019-07-23T18:10:35Z",
           "userName": "Night-Raider",
           "issueNumber": 92419,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.0-1",
+      "iOSVersion": "12.4",
+      "repository": "ARX8x's repo",
+      "date": "2019-08-19T12:42:21Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-19T12:42:21Z",
+          "userName": "krmodrowski",
+          "issueNumber": 94947,
           "arch32": false
         }
       ]
