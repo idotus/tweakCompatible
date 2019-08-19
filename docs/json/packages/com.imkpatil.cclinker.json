@@ -1578,9 +1578,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1597,6 +1597,15 @@
           "date": "2019-08-19T11:11:46Z",
           "userName": "RubenHenriques7",
           "issueNumber": 94811,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-19T10:14:02Z",
+          "userName": "tudoapampa",
+          "issueNumber": 94736,
           "arch32": false
         }
       ]
