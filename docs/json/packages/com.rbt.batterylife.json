@@ -2979,9 +2979,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3007,6 +3007,15 @@
           "date": "2019-08-19T05:49:24Z",
           "userName": "jmd-aKBar",
           "issueNumber": 94598,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,1",
+          "issues": "Display options for statusbar like discharging mAh do not work",
+          "date": "2019-08-19T23:08:30Z",
+          "userName": "hostolis",
+          "issueNumber": 95441,
           "arch32": false
         }
       ]
