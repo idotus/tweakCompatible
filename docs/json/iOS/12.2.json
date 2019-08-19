@@ -7277,22 +7277,22 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop64",
+      "id": "cydia.kiiimo.org.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2-1+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
+      "latest": "2.0.2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2018-03-13T11:14:04Z",
+      "date": "2019-07-31T23:15:46Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2-1+debug",
+          "tweakVersion": "2.0.2",
           "iOSVersion": "12.2",
-          "repository": "(null)",
-          "date": "2019-07-23T18:04:03Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-31T23:15:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7311,22 +7311,22 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.cocoatop64",
+      "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cocoatop64/",
+      "latest": "2.0.2-1+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2019-07-31T23:15:46Z",
+      "date": "2018-03-13T11:14:04Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2",
+          "tweakVersion": "2.0.2-1+debug",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-31T23:15:46Z",
+          "repository": "(null)",
+          "date": "2019-07-23T18:04:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -16109,6 +16109,40 @@
       ]
     },
     {
+      "id": "com.tapsharp.jumper",
+      "name": "Jumper",
+      "latest": "1.5.0",
+      "repository": "TapSharp",
+      "url": "http://cydia.saurik.com/package/com.tapsharp.jumper/",
+      "shortDescription": "Jump into an application straight from the lockscreen. Jumper replaces the flashlight and camera lockscreen quick actions with custom applications. Supports iPhones running iOS 11.1.0 and up.",
+      "category": "Tweaks",
+      "author": "Neo Ighodaro",
+      "commercial": false,
+      "date": "2018-04-17T06:39:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.5.0",
+          "iOSVersion": "12.2",
+          "repository": "Packix",
+          "date": "2019-08-19T19:58:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.kadir1009.karatheme",
       "name": "Kara",
       "latest": "1.1.9",
@@ -17587,40 +17621,6 @@
       ]
     },
     {
-      "id": "com.ryleyangus.libertylite",
-      "name": "Liberty Lite",
-      "latest": "0.2.10",
-      "repository": "Ryley's Repo",
-      "url": "http://cydia.saurik.com/package/com.ryleyangus.libertylite/",
-      "shortDescription": "A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.",
-      "category": "Tweaks",
-      "author": "Ryley Angus",
-      "commercial": false,
-      "date": "2018-03-11T22:28:04Z",
-      "versions": [
-        {
-          "tweakVersion": "0.2.10",
-          "iOSVersion": "12.2",
-          "repository": "Ryley's Repo",
-          "date": "2019-07-12T20:11:30Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.s3ud.alshaman.libertylite",
       "name": "Liberty Lite",
       "latest": "0.2.10",
@@ -17643,6 +17643,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ryleyangus.libertylite",
+      "name": "Liberty Lite",
+      "latest": "0.2.10",
+      "repository": "Ryley's Repo",
+      "url": "http://cydia.saurik.com/package/com.ryleyangus.libertylite/",
+      "shortDescription": "A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.",
+      "category": "Tweaks",
+      "author": "Ryley Angus",
+      "commercial": false,
+      "date": "2018-03-11T22:28:04Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2.10",
+          "iOSVersion": "12.2",
+          "repository": "Ryley's Repo",
+          "date": "2019-07-12T20:11:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -30141,10 +30175,10 @@
     {
       "id": "com.iky1e.swipeselection",
       "name": "SwipeSelection",
-      "latest": "1.5.2-1",
+      "latest": "1.5.6",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection/",
-      "shortDescription": "keyboard swipes move cursor & select text",
+      "shortDescription": "Swipe along the keyboard to move the cursor and select text.",
       "category": "Tweaks",
       "author": "iKy1e (Kyle Howells)",
       "commercial": false,

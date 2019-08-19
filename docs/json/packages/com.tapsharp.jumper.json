@@ -1,10 +1,10 @@
 {
   "id": "com.tapsharp.jumper",
   "name": "Jumper",
-  "latest": "1.0.0",
+  "latest": "1.5.0",
   "repository": "TapSharp",
   "url": "http://cydia.saurik.com/package/com.tapsharp.jumper/",
-  "shortDescription": "Jump into an application straight from the lockscreen",
+  "shortDescription": "Jump into an application straight from the lockscreen. Jumper replaces the flashlight and camera lockscreen quick actions with custom applications. Supports iPhones running iOS 11.1.0 and up.",
   "category": "Tweaks",
   "author": "Neo Ighodaro",
   "commercial": false,
@@ -1160,6 +1160,37 @@
           "date": "2019-08-19T00:17:12Z",
           "userName": "Spindale",
           "issueNumber": 94294,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5.0",
+      "iOSVersion": "12.2",
+      "repository": "Packix",
+      "date": "2019-08-19T19:58:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-19T19:58:56Z",
+          "userName": "zdevcon",
+          "issueNumber": 95339,
           "arch32": false
         }
       ]
