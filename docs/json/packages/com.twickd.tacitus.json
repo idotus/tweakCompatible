@@ -4,7 +4,7 @@
   "latest": "1.2.1",
   "repository": "Twickd",
   "url": "http://cydia.saurik.com/package/com.twickd.tacitus/",
-  "shortDescription": "The New Bluetooth Connecting Experience",
+  "shortDescription": "The new Bluetooth Connecting Experience. Available for ALL Bluetooth Devices",
   "category": "Tweaks",
   "author": "Hugo",
   "commercial": true,
@@ -600,6 +600,37 @@
           "date": "2019-07-12T06:41:23Z",
           "userName": "BlackLolo95",
           "issueNumber": 91037,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "12.4",
+      "repository": "Twickd",
+      "date": "2019-08-19T02:06:56Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-19T02:06:56Z",
+          "userName": "ShawnH5",
+          "issueNumber": 94374,
           "arch32": false
         }
       ]
