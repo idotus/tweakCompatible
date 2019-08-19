@@ -1,7 +1,7 @@
 {
   "id": "com.4nni3.coolcc",
   "name": "CoolCC",
-  "latest": "3.1",
+  "latest": "3.2~beta2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.4nni3.coolcc/",
   "shortDescription": "This tweak makes ControlCenter cool!",
@@ -1424,6 +1424,37 @@
           "date": "2019-08-18T18:58:17Z",
           "userName": "xXG0DLessXx",
           "issueNumber": 94114,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.2~beta2",
+      "iOSVersion": "12.4",
+      "repository": "4nni3 Repo",
+      "date": "2019-08-19T03:54:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-19T03:54:46Z",
+          "userName": "flyplt",
+          "issueNumber": 94462,
           "arch32": false
         }
       ]
