@@ -1,7 +1,7 @@
 {
   "id": "com.cydiageek.smoothlockx",
   "name": "SmoothLockX",
-  "latest": "1.2.8",
+  "latest": "1.2.9",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.cydiageek.smoothlockx/",
   "shortDescription": "Give Smooth and Clean Views to the LockScreen on the iPhone X!",
@@ -449,6 +449,37 @@
           "date": "2019-07-18T08:32:34Z",
           "userName": "charbelhamamji",
           "issueNumber": 91861,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.9",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-19T17:37:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-19T17:37:02Z",
+          "userName": "haqq23",
+          "issueNumber": 95187,
           "arch32": false
         }
       ]
