@@ -637,11 +637,11 @@
       "repository": "Nepeta",
       "date": "2019-08-19T11:47:05Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -658,6 +658,15 @@
           "date": "2019-08-19T11:47:05Z",
           "userName": "ladyravioli",
           "issueNumber": 94892,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-08-19T11:43:43Z",
+          "userName": "mastercreeper66",
+          "issueNumber": 94888,
           "arch32": false
         }
       ]
