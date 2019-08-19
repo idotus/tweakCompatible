@@ -1582,9 +1582,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1610,6 +1610,15 @@
           "date": "2019-08-19T07:12:03Z",
           "userName": "Grovre",
           "issueNumber": 94657,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad6,11",
+          "issues": "",
+          "date": "2019-08-18T23:35:14Z",
+          "userName": "saudrache",
+          "issueNumber": 94258,
           "arch32": false
         }
       ]
