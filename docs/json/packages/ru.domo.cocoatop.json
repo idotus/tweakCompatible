@@ -1011,6 +1011,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.0.1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-19T09:47:08Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Crashes",
+          "date": "2019-08-19T09:47:08Z",
+          "userName": "atombayoglu",
+          "issueNumber": 94714,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
