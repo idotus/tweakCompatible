@@ -1,7 +1,7 @@
 {
   "id": "net.angelxwind.appsyncunified",
   "name": "AppSync Unified",
-  "latest": "32.0-1",
+  "latest": "41.0-NoA12-z",
   "repository": "Karen's Repo",
   "url": "http://cydia.angelxwind.net/",
   "shortDescription": "Enables the ability to install unsigned/fakesigned iOS applications.",
@@ -2131,6 +2131,37 @@
           "date": "2019-08-02T02:13:46Z",
           "userName": "sasuke4uchiwa",
           "issueNumber": 93343,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "41.0-NoA12-z",
+      "iOSVersion": "12.4",
+      "repository": "7ⱣÅϟŦ0",
+      "date": "2019-08-19T19:42:23Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-08-19T19:42:23Z",
+          "userName": "sevenpastzeero",
+          "issueNumber": 95301,
           "arch32": false
         }
       ]
