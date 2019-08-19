@@ -1,7 +1,7 @@
 {
   "id": "com.matchstic.reprovision",
   "name": "ReProvision",
-  "latest": "0.4.2-z",
+  "latest": "0.4.2",
   "repository": "Matchstic",
   "url": "http://cydia.saurik.com/package/com.matchstic.reprovision/",
   "shortDescription": "Re-sign applications on your device",
@@ -3361,9 +3361,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 10,
+        "good": 11,
         "bad": 0,
-        "total": 10,
+        "total": 11,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3461,6 +3461,15 @@
           "date": "2019-08-19T15:58:42Z",
           "userName": "mmoroni",
           "issueNumber": 95131,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-19T22:14:16Z",
+          "userName": "gideontong",
+          "issueNumber": 95419,
           "arch32": false
         }
       ]
