@@ -4,7 +4,7 @@
   "latest": "1.0-95+debug",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.dylanduff.nightshade/",
-  "shortDescription": "A systemwide darkmode for iOS",
+  "shortDescription": "An awesome MobileSubstrate tweak!",
   "category": "Tweaks",
   "author": "DylanDuff",
   "commercial": false,
@@ -86,6 +86,37 @@
           "date": "2019-03-10T12:43:11Z",
           "userName": "tomaszpoliszuk",
           "issueNumber": 75861,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0-95+debug",
+      "iOSVersion": "12.4",
+      "repository": "Local Repository",
+      "date": "2019-08-18T23:45:36Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPad5,3",
+          "issues": "",
+          "date": "2019-08-18T23:45:36Z",
+          "userName": "Hamza1299",
+          "issueNumber": 94270,
           "arch32": false
         }
       ]

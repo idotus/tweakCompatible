@@ -10733,6 +10733,40 @@
       ]
     },
     {
+      "id": "com.dylanduff.nightshade",
+      "name": "Nightshade",
+      "latest": "1.0-95+debug",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.dylanduff.nightshade/",
+      "shortDescription": "An awesome MobileSubstrate tweak!",
+      "category": "Tweaks",
+      "author": "DylanDuff",
+      "commercial": false,
+      "date": "2019-02-27T18:06:33Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-95+debug",
+          "iOSVersion": "12.4",
+          "repository": "Local Repository",
+          "date": "2019-08-18T23:45:36Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ikilledappl3.switchhud",
       "name": "NintendoSwitchHUD",
       "latest": "1.1-1",
