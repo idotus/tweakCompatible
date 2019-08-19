@@ -1082,10 +1082,10 @@
         {
           "status": "working",
           "device": "iPhone9,2",
-          "issues": "",
-          "date": "2019-08-19T02:29:07Z",
+          "issues": "Work with Safari Plus installed",
+          "date": "2019-08-19T15:34:45Z",
           "userName": "metoonhathung",
-          "issueNumber": 94395,
+          "issueNumber": 95111,
           "arch32": false
         }
       ]
