@@ -1,7 +1,7 @@
 {
   "id": "com.spark.hyperion",
   "name": "Hyperion [Members Plus]",
-  "latest": "0.4.12-2",
+  "latest": "0.4.16-11",
   "repository": "Spark's Beta Repo",
   "url": "http://cydia.saurik.com/package/com.spark.hyperion/",
   "shortDescription": "OLED notification tweak",
@@ -1213,6 +1213,37 @@
           "date": "2019-05-02T17:44:41Z",
           "userName": "meatyalien",
           "issueNumber": 86558,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.4.16-11",
+      "iOSVersion": "12.4",
+      "repository": "SparkDev",
+      "date": "2019-08-19T13:43:19Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-19T13:43:19Z",
+          "userName": "jdavidrpp",
+          "issueNumber": 95011,
           "arch32": false
         }
       ]
