@@ -1051,7 +1051,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1068,6 +1068,15 @@
           "date": "2019-08-19T10:49:20Z",
           "userName": "fo2sh2",
           "issueNumber": 94793,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Crashes Safari",
+          "date": "2019-08-19T03:08:06Z",
+          "userName": "starmega",
+          "issueNumber": 94437,
           "arch32": false
         }
       ]
