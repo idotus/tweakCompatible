@@ -1,7 +1,7 @@
 {
   "id": "com.bensge.fullsafari",
   "name": "FullSafari",
-  "latest": "1.1.1",
+  "latest": "1.3.1-2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.bensge.fullsafari/",
   "shortDescription": "Enable iPad-like Safari tabs on any device, always.",
@@ -1082,10 +1082,10 @@
         {
           "status": "working",
           "device": "iPhone9,2",
-          "issues": "",
-          "date": "2019-08-19T15:34:10Z",
+          "issues": "Safari Plus",
+          "date": "2019-08-19T18:44:21Z",
           "userName": "metoonhathung",
-          "issueNumber": 95110,
+          "issueNumber": 95277,
           "arch32": false
         }
       ]
