@@ -2532,6 +2532,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.7.3",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-19T15:16:43Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Crashes the app store if enabled for it",
+          "date": "2019-08-19T15:16:43Z",
+          "userName": "ElectronicWizard",
+          "issueNumber": 95095,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
