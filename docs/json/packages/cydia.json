@@ -4627,9 +4627,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 4,
+        "good": 5,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -4673,6 +4673,15 @@
           "date": "2019-08-19T13:08:38Z",
           "userName": "zaf37",
           "issueNumber": 94967,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,3",
+          "issues": "Buttons on Cydia homepage not functional ",
+          "date": "2019-08-19T04:41:56Z",
+          "userName": "ZeldaZach",
+          "issueNumber": 94529,
           "arch32": false
         }
       ]
