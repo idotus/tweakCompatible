@@ -2924,10 +2924,10 @@
       "date": "2019-08-18T20:06:53Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 80,
         "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2971,6 +2971,15 @@
           "date": "2019-08-19T20:26:48Z",
           "userName": "taranjitsinghboparai",
           "issueNumber": 95362,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-08-19T23:11:46Z",
+          "userName": "jinwk00",
+          "issueNumber": 95444,
           "arch32": false
         }
       ]
