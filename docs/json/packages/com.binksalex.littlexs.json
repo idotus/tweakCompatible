@@ -883,9 +883,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -911,6 +911,15 @@
           "date": "2019-08-19T14:50:30Z",
           "userName": "vipzen",
           "issueNumber": 95070,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,2",
+          "issues": "Latest version adds space to top of some apps even when default status bar is selected. Downgraded to 2.3.1 and it works fine.",
+          "date": "2019-08-19T15:55:28Z",
+          "userName": "syzdwin",
+          "issueNumber": 95126,
           "arch32": false
         }
       ]
