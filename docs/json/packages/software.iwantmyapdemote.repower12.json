@@ -51,7 +51,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -68,6 +68,15 @@
           "date": "2019-08-19T06:57:00Z",
           "userName": "mastercreeper66",
           "issueNumber": 94655,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-08-19T14:54:14Z",
+          "userName": "vipzen",
+          "issueNumber": 95083,
           "arch32": false
         }
       ]
