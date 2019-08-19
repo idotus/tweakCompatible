@@ -5309,10 +5309,10 @@
       "date": "2019-08-18T23:05:29Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 33,
+        "percentage": 30,
         "good": 4,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5428,6 +5428,15 @@
           "date": "2019-08-19T19:21:39Z",
           "userName": "skiasaurus",
           "issueNumber": 95292,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "Crashes when attempting to downgrade an app; Configuration menu works fine ",
+          "date": "2019-08-19T21:40:30Z",
+          "userName": "0x426f6f6d",
+          "issueNumber": 95404,
           "arch32": false
         }
       ]
