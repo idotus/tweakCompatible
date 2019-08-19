@@ -392,9 +392,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 1,
+            "good": 2,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -8349,6 +8349,39 @@
           "iOSVersion": "12.4",
           "repository": "Fouad's Repo",
           "date": "2019-08-19T10:18:41Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "openssh",
+      "name": "OpenSSH",
+      "latest": "7.9p1-3",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/openssh/",
+      "shortDescription": "secure remote access between machines",
+      "category": "Networking",
+      "author": "(null)",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "7.9p1-3",
+          "iOSVersion": "12.4",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-08-19T04:43:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
