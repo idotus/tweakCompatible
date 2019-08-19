@@ -572,6 +572,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-19T19:00:30Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,4",
+          "issues": "Opens links in selected browser, but also does so on navigation in web views, and the app blacklist fails to load.",
+          "date": "2019-08-19T19:00:30Z",
+          "userName": "ChlorideCull",
+          "issueNumber": 95288,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
