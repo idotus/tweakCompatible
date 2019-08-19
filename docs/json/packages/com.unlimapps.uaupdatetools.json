@@ -5308,11 +5308,11 @@
       "repository": "UnlimApps",
       "date": "2019-08-18T23:05:29Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 2,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5356,6 +5356,15 @@
           "date": "2019-08-19T07:14:41Z",
           "userName": "jefro108",
           "issueNumber": 94663,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-08-19T03:31:25Z",
+          "userName": "Arselene",
+          "issueNumber": 94455,
           "arch32": false
         }
       ]
