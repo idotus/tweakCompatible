@@ -5309,10 +5309,10 @@
       "date": "2019-08-18T23:05:29Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 33,
+        "percentage": 28,
         "good": 2,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5374,6 +5374,15 @@
           "date": "2019-08-19T02:59:13Z",
           "userName": "Xeecle",
           "issueNumber": 94424,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-08-19T02:30:21Z",
+          "userName": "MoeSivo",
+          "issueNumber": 94401,
           "arch32": false
         }
       ]
