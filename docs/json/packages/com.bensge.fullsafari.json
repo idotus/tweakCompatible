@@ -1048,10 +1048,10 @@
       "date": "2019-08-19T10:49:20Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1077,6 +1077,15 @@
           "date": "2019-08-19T03:08:06Z",
           "userName": "starmega",
           "issueNumber": 94437,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-08-19T02:29:07Z",
+          "userName": "metoonhathung",
+          "issueNumber": 94395,
           "arch32": false
         }
       ]
