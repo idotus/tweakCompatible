@@ -4801,6 +4801,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.colorflow4",
+      "name": "ColorFlow 4 (iOS 11 – 12)",
+      "latest": "1.3.0",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.colorflow4/",
+      "shortDescription": "one colorful boi",
+      "category": "HYI - Tweaks",
+      "author": "David Goldman",
+      "commercial": false,
+      "date": "2019-08-19T17:59:33Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.0",
+          "iOSVersion": "12.4",
+          "repository": "(null)",
+          "date": "2019-08-19T17:59:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.golddavid.colorflow4",
       "name": "ColorFlow 4 (iOS 11)",
       "latest": "1.3.1",
@@ -9043,6 +9077,39 @@
       ]
     },
     {
+      "id": "com.exile90.icleanerpro",
+      "name": "iCleaner Pro",
+      "latest": "7.7.5",
+      "repository": "Karen's Repo",
+      "url": "http://ib-soft.net/icleaner",
+      "shortDescription": "The first real iOS system cleaner & optimizer",
+      "category": "Utilities",
+      "author": "Ivano Bilenchi",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "7.7.5",
+          "iOSVersion": "12.4",
+          "repository": "Ivano Bilenchi's Repo",
+          "date": "2019-08-18T18:12:45Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.rejail.icleanerpro",
       "name": "iCleaner Pro",
       "latest": "7.7.5",
@@ -9065,39 +9132,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.exile90.icleanerpro",
-      "name": "iCleaner Pro",
-      "latest": "7.7.5",
-      "repository": "Karen's Repo",
-      "url": "http://ib-soft.net/icleaner",
-      "shortDescription": "The first real iOS system cleaner & optimizer",
-      "category": "Utilities",
-      "author": "Ivano Bilenchi",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "7.7.5",
-          "iOSVersion": "12.4",
-          "repository": "Ivano Bilenchi's Repo",
-          "date": "2019-08-18T18:12:45Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -11827,22 +11861,21 @@
       ]
     },
     {
-      "id": "mterminal",
+      "id": "com.officialscheduler.mterminal",
       "name": "MTerminal",
-      "latest": "1.4-6",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/mterminal/",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
-      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-6",
+          "tweakVersion": "1.4-5",
           "iOSVersion": "12.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-08-18T22:12:28Z",
+          "repository": "BigBoss",
+          "date": "2019-08-18T23:31:50Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -11861,21 +11894,22 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
+      "id": "mterminal",
       "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "latest": "1.4-6",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
+      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5",
+          "tweakVersion": "1.4-6",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-18T23:31:50Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-08-18T22:12:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12674,40 +12708,6 @@
       ]
     },
     {
-      "id": "org.coolstar.nolargetitles",
-      "name": "NoLargeTitles",
-      "latest": "1.0-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
-      "shortDescription": "Remove the large titles system-wide on iOS 11",
-      "category": "Tweaks",
-      "author": "CoolStar",
-      "commercial": false,
-      "date": "2018-03-08T05:57:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0-1",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T11:25:52Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.adamseiter.nolargetitles",
       "name": "NoLargeTitles",
       "latest": "1.1",
@@ -12730,6 +12730,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.coolstar.nolargetitles",
+      "name": "NoLargeTitles",
+      "latest": "1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
+      "shortDescription": "Remove the large titles system-wide on iOS 11",
+      "category": "Tweaks",
+      "author": "CoolStar",
+      "commercial": false,
+      "date": "2018-03-08T05:57:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T11:25:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
