@@ -1,7 +1,7 @@
 {
   "id": "com.springtomize.st4.new",
   "name": "Springtomize 4",
-  "latest": "4.0.4",
+  "latest": "4.0.7",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.springtomize.st4.new/",
   "shortDescription": "Customize your device like never before.",
@@ -449,6 +449,37 @@
           "date": "2019-08-10T21:04:46Z",
           "userName": "Gerrrhard",
           "issueNumber": 93774,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "4.0.7",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-19T04:03:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-08-19T04:03:24Z",
+          "userName": "UNSCJohn-117",
+          "issueNumber": 94477,
           "arch32": false
         }
       ]
