@@ -1,10 +1,10 @@
 {
   "id": "com.chilaxan.cuboid",
   "name": "Cuboid",
-  "latest": "2.0.1",
+  "latest": "0.1.1",
   "repository": "iDevice Hacked Repo",
   "url": "http://cydia.saurik.com/package/com.chilaxan.cuboid/",
-  "shortDescription": "Lightweight home screen layout manager.",
+  "shortDescription": "An awesome MobileSubstrate tweak!",
   "category": "Tweaks",
   "author": "chilaxan",
   "commercial": false,
@@ -667,6 +667,37 @@
           "date": "2019-08-19T11:43:43Z",
           "userName": "mastercreeper66",
           "issueNumber": 94888,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.1.1",
+      "iOSVersion": "12.4",
+      "repository": "iDevice Hacked Repo",
+      "date": "2019-08-19T10:15:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-19T10:15:43Z",
+          "userName": "ekatuck",
+          "issueNumber": 94741,
           "arch32": false
         }
       ]
