@@ -3313,9 +3313,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3332,6 +3332,15 @@
           "date": "2019-08-19T05:44:00Z",
           "userName": "jkister",
           "issueNumber": 94593,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2019-08-19T13:08:52Z",
+          "userName": "zaf37",
+          "issueNumber": 94969,
           "arch32": false
         }
       ]
