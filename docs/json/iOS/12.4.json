@@ -1081,6 +1081,40 @@
       ]
     },
     {
+      "id": "dev.eskimo.binarypasscode",
+      "name": "BinaryPasscode",
+      "latest": "1.1",
+      "repository": "eskimo",
+      "url": "http://cydia.saurik.com/package/dev.eskimo.binarypasscode/",
+      "shortDescription": "Replace passcode button numbers with pretty dots",
+      "category": "Tweaks",
+      "author": "Jordan Koch",
+      "commercial": false,
+      "date": "2019-05-27T20:19:55Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "12.4",
+          "repository": "eskimo",
+          "date": "2019-08-19T11:24:25Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "net.limneos.bioprotectxs",
       "name": "BioProtect XS (iOS 12)",
       "latest": "4.0-71",
@@ -2274,6 +2308,40 @@
           "iOSVersion": "12.4",
           "repository": "BigBoss",
           "date": "2019-08-18T23:17:05Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.foxfort.deluminator",
+      "name": "Deluminator",
+      "latest": "2.2.12",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.foxfort.deluminator/",
+      "shortDescription": "Night mode for the web",
+      "category": "Tweaks",
+      "author": "FoxfortMobile",
+      "commercial": true,
+      "date": "2018-09-16T14:39:17Z",
+      "versions": [
+        {
+          "tweakVersion": "2.2.12",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-19T11:24:25Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
