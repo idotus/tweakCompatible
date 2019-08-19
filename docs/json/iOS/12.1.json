@@ -2361,40 +2361,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.animationbefast",
-      "name": "AnimationsBeFast",
-      "latest": "1.4.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.animationbefast/",
-      "shortDescription": "Speeds up animations",
-      "category": "HYI - Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2019-02-23T23:53:03Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.1",
-          "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-02-23T23:53:03Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.adamseiter.animationbefast",
       "name": "AnimationsBeFast",
       "latest": "1.4.1",
@@ -2505,6 +2471,40 @@
           "iOSVersion": "12.1",
           "repository": "eXqusic's Repo",
           "date": "2019-05-04T17:40:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.animationbefast",
+      "name": "AnimationsBeFast",
+      "latest": "1.4.1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.animationbefast/",
+      "shortDescription": "Speeds up animations",
+      "category": "HYI - Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2019-02-23T23:53:03Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.1",
+          "iOSVersion": "12.1",
+          "repository": "(null)",
+          "date": "2019-02-23T23:53:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7282,40 +7282,6 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.bazzi",
-      "name": "Bazzi",
-      "latest": "2.0.6",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.bazzi/",
-      "shortDescription": "The ultimate iPhone X battery icon customizer tweak.",
-      "category": "iOS 12",
-      "author": "Blake Boxberger",
-      "commercial": false,
-      "date": "2019-07-04T11:28:29Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0.6",
-          "iOSVersion": "12.1",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-04T11:28:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.neinzedd9.bazzi",
       "name": "Bazzi",
       "latest": "2.0.6",
@@ -7438,6 +7404,40 @@
             "good": 3,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cydia.kiiimo.org.bazzi",
+      "name": "Bazzi",
+      "latest": "2.0.6",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.bazzi/",
+      "shortDescription": "The ultimate iPhone X battery icon customizer tweak.",
+      "category": "iOS 12",
+      "author": "Blake Boxberger",
+      "commercial": false,
+      "date": "2019-07-04T11:28:29Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0.6",
+          "iOSVersion": "12.1",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-04T11:28:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -10344,6 +10344,26 @@
           "iOSVersion": "12.1",
           "repository": "BigBoss",
           "date": "2019-04-09T14:19:19Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.7",
+          "iOSVersion": "12.1",
+          "repository": "BigBoss",
+          "date": "2019-08-19T15:17:19Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17241,22 +17261,22 @@
       ]
     },
     {
-      "id": "ru.rejail.cydown",
+      "id": "cydia.kiiimo.org.cydown",
       "name": "CyDown",
-      "latest": "6.9.7r",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.rejail.cydown/",
-      "shortDescription": "Установка платных пакетов в Cydia бесплатно!",
-      "category": "Utilities",
+      "latest": "6.9.7",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cydown/",
+      "shortDescription": "Cydia Download Manager & Extra Features!",
+      "category": "iOS 12",
       "author": "julioverne",
       "commercial": false,
-      "date": "2019-02-24T12:29:14Z",
+      "date": "2019-07-04T11:33:16Z",
       "versions": [
         {
-          "tweakVersion": "6.9.7r",
+          "tweakVersion": "6.9.7",
           "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-02-24T12:29:14Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-04T11:33:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17275,22 +17295,22 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.cydown",
+      "id": "ru.rejail.cydown",
       "name": "CyDown",
-      "latest": "6.9.7",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cydown/",
-      "shortDescription": "Cydia Download Manager & Extra Features!",
-      "category": "iOS 12",
+      "latest": "6.9.7r",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.rejail.cydown/",
+      "shortDescription": "Установка платных пакетов в Cydia бесплатно!",
+      "category": "Utilities",
       "author": "julioverne",
       "commercial": false,
-      "date": "2019-07-04T11:33:16Z",
+      "date": "2019-02-24T12:29:14Z",
       "versions": [
         {
-          "tweakVersion": "6.9.7",
+          "tweakVersion": "6.9.7r",
           "iOSVersion": "12.1",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-04T11:33:16Z",
+          "repository": "(null)",
+          "date": "2019-02-24T12:29:14Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18052,6 +18072,40 @@
       ]
     },
     {
+      "id": "com.matrixdevteam.dateinstatusbar",
+      "name": "Date In StatusBar",
+      "latest": "1.0.1",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.matrixdevteam.dateinstatusbar/",
+      "shortDescription": "Adds current date to the status bar",
+      "category": "Tweaks",
+      "author": "MatrixDevTeam",
+      "commercial": false,
+      "date": "2018-07-07T22:08:02Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.1",
+          "iOSVersion": "12.1",
+          "repository": "(null)",
+          "date": "2019-02-23T08:45:37Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.repo.xarold.com.dateinstatusbar",
       "name": "Date In Statusbar",
       "latest": "0.9.1-2",
@@ -18108,40 +18162,6 @@
             "good": 2,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.matrixdevteam.dateinstatusbar",
-      "name": "Date In StatusBar",
-      "latest": "1.0.1",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.matrixdevteam.dateinstatusbar/",
-      "shortDescription": "Adds current date to the status bar",
-      "category": "Tweaks",
-      "author": "MatrixDevTeam",
-      "commercial": false,
-      "date": "2018-07-07T22:08:02Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.1",
-          "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-02-23T08:45:37Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -33209,40 +33229,6 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.jellyfishcrack",
-      "name": "Jellyfish",
-      "latest": "1.0.2",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.jellyfishcrack/",
-      "shortDescription": "Inspired by the watchOS Motion face, Jellyfish aims to make your Lock screen more modern, more beautiful, and more useful.Jellyfish refreshes the Lock screen with a beautiful time, emphasizing both the time and date. The date takes its colour from your wallpaper, creating a beautiful blended effect, while still retaining its legibility.Jellyfish also adds weather to your Lock screen, so you can always view it at a quick glance. While adding this new level of information, your Lock screen retains its simplicity, avoiding a cluttered look.",
-      "category": "Tweaks",
-      "author": "Justin Proulx and AppleBetas",
-      "commercial": false,
-      "date": "2019-02-27T21:40:50Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.2",
-          "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-02-27T21:40:50Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "xyz.royalapps.jellyfish",
       "name": "Jellyfish",
       "latest": "1.2.1",
@@ -33405,6 +33391,40 @@
             "good": 3,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.repo.xarold.com.jellyfishcrack",
+      "name": "Jellyfish",
+      "latest": "1.0.2",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.jellyfishcrack/",
+      "shortDescription": "Inspired by the watchOS Motion face, Jellyfish aims to make your Lock screen more modern, more beautiful, and more useful.Jellyfish refreshes the Lock screen with a beautiful time, emphasizing both the time and date. The date takes its colour from your wallpaper, creating a beautiful blended effect, while still retaining its legibility.Jellyfish also adds weather to your Lock screen, so you can always view it at a quick glance. While adding this new level of information, your Lock screen retains its simplicity, avoiding a cluttered look.",
+      "category": "Tweaks",
+      "author": "Justin Proulx and AppleBetas",
+      "commercial": false,
+      "date": "2019-02-27T21:40:50Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2",
+          "iOSVersion": "12.1",
+          "repository": "(null)",
+          "date": "2019-02-27T21:40:50Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -57049,40 +57069,6 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.snapper2",
-      "name": "Snapper 2",
-      "latest": "1.4",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.snapper2/",
-      "shortDescription": "Pin screenshots on the screen.",
-      "category": "iOS 12",
-      "author": "Jonathan Winger Lang",
-      "commercial": false,
-      "date": "2019-07-16T17:11:34Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4",
-          "iOSVersion": "12.1",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-16T17:11:34Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.jontelang.snapper2",
       "name": "Snapper 2",
       "latest": "1.4.2",
@@ -57118,6 +57104,40 @@
           "iOSVersion": "12.1",
           "repository": "BigBoss",
           "date": "2019-03-31T07:10:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cydia.kiiimo.org.snapper2",
+      "name": "Snapper 2",
+      "latest": "1.4",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.snapper2/",
+      "shortDescription": "Pin screenshots on the screen.",
+      "category": "iOS 12",
+      "author": "Jonathan Winger Lang",
+      "commercial": false,
+      "date": "2019-07-16T17:11:34Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4",
+          "iOSVersion": "12.1",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-16T17:11:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -59623,39 +59643,6 @@
       ]
     },
     {
-      "id": "com.iky1e.swipeselection-pro",
-      "name": "SwipeSelection Pro",
-      "latest": "1.0.3-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection-pro/",
-      "shortDescription": "Swipe along the keyboard to move cursor & select text.",
-      "category": "Tweaks",
-      "author": "iKy1e (Kyle Howells)",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.0.3-1",
-          "iOSVersion": "12.1",
-          "repository": "BigBoss",
-          "date": "2019-02-23T06:32:00Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.swipeselection-pro",
       "name": "SwipeSelection Pro",
       "latest": "1.0.3-1",
@@ -59678,6 +59665,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.iky1e.swipeselection-pro",
+      "name": "SwipeSelection Pro",
+      "latest": "1.0.3-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection-pro/",
+      "shortDescription": "Swipe along the keyboard to move cursor & select text.",
+      "category": "Tweaks",
+      "author": "iKy1e (Kyle Howells)",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.0.3-1",
+          "iOSVersion": "12.1",
+          "repository": "BigBoss",
+          "date": "2019-02-23T06:32:00Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -60022,40 +60042,6 @@
       ]
     },
     {
-      "id": "com.yourepo.castle.sylph",
-      "name": "Sylph",
-      "latest": "1.0",
-      "repository": "Castle Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.castle.sylph/",
-      "shortDescription": "Customise the music lock screen widget",
-      "category": "Tweaks",
-      "author": "CastleM",
-      "commercial": false,
-      "date": "2019-04-13T11:07:37Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "12.1",
-          "repository": "Castle Source - YouRepo",
-          "date": "2019-04-13T11:07:37Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ch.mdaus.sylph",
       "name": "Sylph",
       "latest": "1.1~Beta.3",
@@ -60112,6 +60098,40 @@
           "iOSVersion": "12.1",
           "repository": "Maxwell Dausch's Repo",
           "date": "2019-05-15T14:42:12Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.castle.sylph",
+      "name": "Sylph",
+      "latest": "1.0",
+      "repository": "Castle Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.castle.sylph/",
+      "shortDescription": "Customise the music lock screen widget",
+      "category": "Tweaks",
+      "author": "CastleM",
+      "commercial": false,
+      "date": "2019-04-13T11:07:37Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "12.1",
+          "repository": "Castle Source - YouRepo",
+          "date": "2019-04-13T11:07:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -66593,6 +66613,40 @@
       ]
     },
     {
+      "id": "com.hackyouriphone.weathervane",
+      "name": "WeatherVane",
+      "latest": "1.2.0",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.weathervane/",
+      "shortDescription": "Access Wifi Networks and Bluetooth Devices from the Control Center on iOS 11 and iOS 12",
+      "category": "HYI - Tweaks",
+      "author": "iOS Creatix",
+      "commercial": false,
+      "date": "2018-05-01T14:56:40Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.0",
+          "iOSVersion": "12.1",
+          "repository": "(null)",
+          "date": "2019-07-27T01:58:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.ioscreatix.weathervane",
       "name": "WeatherVane",
       "latest": "1.2.0",
@@ -66649,40 +66703,6 @@
           "iOSVersion": "12.1",
           "repository": "Packix",
           "date": "2019-05-17T05:53:52Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.hackyouriphone.weathervane",
-      "name": "WeatherVane",
-      "latest": "1.2.0",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.weathervane/",
-      "shortDescription": "Access Wifi Networks and Bluetooth Devices from the Control Center on iOS 11 and iOS 12",
-      "category": "HYI - Tweaks",
-      "author": "iOS Creatix",
-      "commercial": false,
-      "date": "2018-05-01T14:56:40Z",
-      "versions": [
-        {
-          "tweakVersion": "1.2.0",
-          "iOSVersion": "12.1",
-          "repository": "(null)",
-          "date": "2019-07-27T01:58:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
