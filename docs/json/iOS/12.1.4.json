@@ -561,10 +561,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.5.0-12",
+      "latest": "1.4.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -10198,6 +10198,40 @@
       ]
     },
     {
+      "id": "org.thebigboss.recordntorch",
+      "name": "Record 'n' Torch",
+      "latest": "1.7.9",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.recordntorch/",
+      "shortDescription": "Toggle Torch while recording video.",
+      "category": "Tweaks",
+      "author": "PoomSmart",
+      "commercial": false,
+      "date": "2018-03-13T08:02:37Z",
+      "versions": [
+        {
+          "tweakVersion": "1.7.9",
+          "iOSVersion": "12.1.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T02:17:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.nepeta.relocate",
       "name": "Relocate",
       "latest": "0.1.10",
@@ -11592,7 +11626,7 @@
     {
       "id": "com.spark.snowboard",
       "name": "Snowboard",
-      "latest": "1.1.7",
+      "latest": "1.2.14~Beta1",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.spark.snowboard/",
       "shortDescription": "Snowboard theming engine",
@@ -12845,22 +12879,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.nostash",
+      "id": "com.unlimapps.uasharedtools.nostash",
       "name": "uasharedtools (iOS 11)",
-      "latest": "2.2r-76",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.nostash/",
+      "latest": "2.2r-87",
+      "repository": "test.unlimapps.com",
+      "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
       "shortDescription": "shared tools for unlimapps tweaks",
       "category": "Development",
       "author": "UnlimApps Inc.",
       "commercial": false,
-      "date": "2019-07-14T06:59:22Z",
+      "date": "2018-07-22T22:24:24Z",
       "versions": [
         {
           "tweakVersion": "2.2r-76",
           "iOSVersion": "12.1.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-14T06:59:22Z",
+          "repository": "UnlimApps",
+          "date": "2019-07-23T17:25:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12879,22 +12913,22 @@
       ]
     },
     {
-      "id": "com.unlimapps.uasharedtools.nostash",
+      "id": "org.cydia.kiimo.nostash",
       "name": "uasharedtools (iOS 11)",
-      "latest": "2.2r-87",
-      "repository": "test.unlimapps.com",
-      "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
+      "latest": "2.2r-76",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.nostash/",
       "shortDescription": "shared tools for unlimapps tweaks",
       "category": "Development",
       "author": "UnlimApps Inc.",
       "commercial": false,
-      "date": "2018-07-22T22:24:24Z",
+      "date": "2019-07-14T06:59:22Z",
       "versions": [
         {
           "tweakVersion": "2.2r-76",
           "iOSVersion": "12.1.4",
-          "repository": "UnlimApps",
-          "date": "2019-07-23T17:25:03Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-14T06:59:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
