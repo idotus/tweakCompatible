@@ -528,7 +528,7 @@
     {
       "id": "applist",
       "name": "AppList",
-      "latest": "1.5.15~beta2",
+      "latest": "1.5.15~beta1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/applist/",
       "shortDescription": "Allow extensions to read the list of installed apps",
@@ -561,10 +561,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.4.2",
+      "latest": "1.5.0-12",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -830,10 +830,10 @@
     {
       "id": "ch.mdaus.artsy",
       "name": "Artsy",
-      "latest": "1.2",
+      "latest": "2.0~Beta.8",
       "repository": "Maxwell Dausch's Repo",
       "url": "http://cydia.saurik.com/package/ch.mdaus.artsy/",
-      "shortDescription": "Colorize and customize  your music players",
+      "shortDescription": "Color your music stuff",
       "category": "Tweaks",
       "author": "Maxwell Dausch",
       "commercial": false,
@@ -1744,7 +1744,7 @@
     {
       "id": "net.limneos.bioprotectxs",
       "name": "BioProtect XS (iOS 12)",
-      "latest": "4.0-71",
+      "latest": "4.0-68",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.bioprotectxs/",
       "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -1932,7 +1932,7 @@
     {
       "id": "com.irepo.boxy3",
       "name": "Boxy3",
-      "latest": "3.5",
+      "latest": "3.6",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.irepo.boxy3/",
       "shortDescription": "Fully customize your icon layout!",
@@ -2678,7 +2678,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "5.0.6",
+      "latest": "5.0.7",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -3121,7 +3121,7 @@
     {
       "id": "com.4nni3.coolcc",
       "name": "CoolCC",
-      "latest": "3.1",
+      "latest": "3.2~beta2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.4nni3.coolcc/",
       "shortDescription": "This tweak makes ControlCenter cool!",
@@ -3527,10 +3527,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "99.2",
+      "latest": "0.9.7033",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "Compatibility wrapper for Substrate tweaks to work with Tweak Injector + Substitute",
+      "shortDescription": "powerful code insertion platform",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -3560,7 +3560,7 @@
     {
       "id": "cydia-lproj",
       "name": "Cydia Translations",
-      "latest": "1.9.3~chimera5",
+      "latest": "1.1.32~b1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia-lproj/",
       "shortDescription": "languages and translations for Cydia",
@@ -3816,7 +3816,7 @@
     {
       "id": "dpkg",
       "name": "Debian Packager",
-      "latest": "1.18.25-11",
+      "latest": "1.19.7-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/dpkg/",
       "shortDescription": "package maintainance tools from Debian",
@@ -4684,7 +4684,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.6.0-31",
+      "latest": "3.7.0-18",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -6534,7 +6534,7 @@
     {
       "id": "me.apptapp.installer",
       "name": "Installer",
-      "latest": "5.0b7",
+      "latest": "5.0b8~2",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/me.apptapp.installer/",
       "shortDescription": "A modern package manager built specifically for iOS!",
@@ -7040,10 +7040,10 @@
     {
       "id": "com.ps.letmeblock",
       "name": "LetMeBlock",
-      "latest": "0.0.6.8",
+      "latest": "0.0.1",
       "repository": "PoomSmart's Repo",
       "url": "http://cydia.saurik.com/package/com.ps.letmeblock/",
-      "shortDescription": "Make mDNSResponder care more about /etc/hosts",
+      "shortDescription": "Make mDNSResponder care about /etc/hosts",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
@@ -7470,6 +7470,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.binksalex.littlexs",
+      "name": "LittleXS",
+      "latest": "2.4.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.binksalex.littlexs/",
+      "shortDescription": "LittleX revitalized for iOS 12.",
+      "category": "Tweaks",
+      "author": "Ryan Nair & binksalex",
+      "commercial": false,
+      "date": "2019-04-27T15:10:07Z",
+      "versions": [
+        {
+          "tweakVersion": "2.4.1",
+          "iOSVersion": "12.1.4",
+          "repository": "Packix",
+          "date": "2019-08-19T14:14:25Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -8050,7 +8084,7 @@
       "latest": "2.1.1",
       "repository": "Thireus Repository",
       "url": "http://cydia.saurik.com/package/com.thireus.untrustedhostsblockermega/",
-      "shortDescription": "READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. Supports both IPv4 and IPv6.\r",
+      "shortDescription": "READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. Supports both IPv4 and IPv6.",
       "category": "Security",
       "author": "Thireus",
       "commercial": false,
@@ -8691,7 +8725,7 @@
     {
       "id": "me.nepeta.nereid",
       "name": "Nereid",
-      "latest": "0.1.8",
+      "latest": "0.1.8-1",
       "repository": "Nepeta",
       "url": "http://cydia.saurik.com/package/me.nepeta.nereid/",
       "shortDescription": "Lock screen music player redesign",
@@ -9740,10 +9774,10 @@
     {
       "id": "com.dave1482.powerapp",
       "name": "PowerApp",
-      "latest": "4.4.0",
+      "latest": "4.1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dave1482.powerapp/",
-      "shortDescription": "Reboot, Shutdown, Respring, and more easily —  Supports iOS 3.0-iOS 12.1.2+",
+      "shortDescription": "Reboot, Shutdown, Respring, go into Safemode",
       "category": "Utilities",
       "author": "Dave1482",
       "commercial": false,
@@ -9963,7 +9997,7 @@
     {
       "id": "com.ichitaso.primalfolder",
       "name": "PrimalFolder",
-      "latest": "0.0.9",
+      "latest": "0.0.6",
       "repository": "ichitaso repository",
       "url": "http://cydia.saurik.com/package/com.ichitaso.primalfolder/",
       "shortDescription": "Display to folder as icon and launch action for Folders",
@@ -10928,7 +10962,7 @@
     {
       "id": "com.creaturecoding.shuffle",
       "name": "shuffle",
-      "latest": "0.8.0b",
+      "latest": "1.0.4",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.shuffle/",
       "shortDescription": "Mix up your preferences",
@@ -11558,7 +11592,7 @@
     {
       "id": "com.spark.snowboard",
       "name": "Snowboard",
-      "latest": "1.2.14~Beta1",
+      "latest": "1.1.7",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.spark.snowboard/",
       "shortDescription": "Snowboard theming engine",
@@ -11849,7 +11883,7 @@
     {
       "id": "com.springtomize.st4.new",
       "name": "Springtomize 4",
-      "latest": "4.0.4",
+      "latest": "4.0.7",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.springtomize.st4.new/",
       "shortDescription": "Customize your device like never before.",
@@ -12052,7 +12086,7 @@
     {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
-      "latest": "1.0.0",
+      "latest": "1.0.0-1+debug",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
       "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
@@ -12154,10 +12188,10 @@
     {
       "id": "org.thebigboss.swipeformore",
       "name": "SwipeForMore",
-      "latest": "1.1.10",
+      "latest": "1.1.7",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/org.thebigboss.swipeformore/",
-      "shortDescription": "Manage Cydia packages via swipe.",
+      "shortDescription": "Manage packages via swipe.",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
@@ -12207,10 +12241,10 @@
     {
       "id": "com.iky1e.swipeselection",
       "name": "SwipeSelection",
-      "latest": "1.5.6",
+      "latest": "1.5.2-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection/",
-      "shortDescription": "Swipe along the keyboard to move the cursor and select text.",
+      "shortDescription": "keyboard swipes move cursor & select text",
       "category": "Tweaks",
       "author": "iKy1e (Kyle Howells)",
       "commercial": false,
@@ -12408,10 +12442,10 @@
     {
       "id": "com.cpdigitaldarkroom.taptapflip",
       "name": "TapTapFlip",
-      "latest": "1.5",
+      "latest": "1.3.3",
       "repository": "apt.thebigboss.org",
       "url": "http://cydia.saurik.com/package/com.cpdigitaldarkroom.taptapflip/",
-      "shortDescription": "Double tap to flip camera",
+      "shortDescription": "Two taps to flip camera!",
       "category": "Tweaks",
       "author": "CP Digital Darkroom",
       "commercial": false,
@@ -12612,7 +12646,7 @@
     {
       "id": "com.foxfort.translomatic",
       "name": "Translomatic",
-      "latest": "1.2.7",
+      "latest": "1.2.9",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.foxfort.translomatic/",
       "shortDescription": "Quickly translate any text",
@@ -12811,22 +12845,22 @@
       ]
     },
     {
-      "id": "com.unlimapps.uasharedtools.nostash",
+      "id": "org.cydia.kiimo.nostash",
       "name": "uasharedtools (iOS 11)",
-      "latest": "2.2r-87",
-      "repository": "test.unlimapps.com",
-      "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
+      "latest": "2.2r-76",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.nostash/",
       "shortDescription": "shared tools for unlimapps tweaks",
       "category": "Development",
       "author": "UnlimApps Inc.",
       "commercial": false,
-      "date": "2018-07-22T22:24:24Z",
+      "date": "2019-07-14T06:59:22Z",
       "versions": [
         {
           "tweakVersion": "2.2r-76",
           "iOSVersion": "12.1.4",
-          "repository": "UnlimApps",
-          "date": "2019-07-23T17:25:03Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-14T06:59:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12845,22 +12879,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.nostash",
+      "id": "com.unlimapps.uasharedtools.nostash",
       "name": "uasharedtools (iOS 11)",
-      "latest": "2.2r-76",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.nostash/",
+      "latest": "2.2r-87",
+      "repository": "test.unlimapps.com",
+      "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
       "shortDescription": "shared tools for unlimapps tweaks",
       "category": "Development",
       "author": "UnlimApps Inc.",
       "commercial": false,
-      "date": "2019-07-14T06:59:22Z",
+      "date": "2018-07-22T22:24:24Z",
       "versions": [
         {
           "tweakVersion": "2.2r-76",
           "iOSVersion": "12.1.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-14T06:59:22Z",
+          "repository": "UnlimApps",
+          "date": "2019-07-23T17:25:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13282,43 +13316,9 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.xenhtml",
-      "name": "Xen HTML",
-      "latest": "0.5-2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
-      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-07-28T21:20:26Z",
-      "versions": [
-        {
-          "tweakVersion": "0.5-2",
-          "iOSVersion": "12.1.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-28T21:20:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.5.4",
+      "latest": "0.5.5-6",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
@@ -13358,6 +13358,40 @@
             "good": 1,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cydia.kiiimo.org.xenhtml",
+      "name": "Xen HTML",
+      "latest": "0.5-2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
+      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-07-28T21:20:26Z",
+      "versions": [
+        {
+          "tweakVersion": "0.5-2",
+          "iOSVersion": "12.1.4",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-28T21:20:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -13610,7 +13644,7 @@
     {
       "id": "xyz.willy.zebra",
       "name": "Zebra (BETA)",
-      "latest": "1.0~beta19",
+      "latest": "1.0~beta20-2",
       "repository": "xTM3x Repo",
       "url": "http://cydia.saurik.com/package/xyz.willy.zebra/",
       "shortDescription": "A Useful Package Manager",
@@ -13664,7 +13698,7 @@
     {
       "id": "com.alexzielenski.zeppelin",
       "name": "Zeppelin",
-      "latest": "2.1.1-1",
+      "latest": "2.1.0-12",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
       "shortDescription": "Replaces carrier text with an image!",
