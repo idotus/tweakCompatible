@@ -832,22 +832,22 @@
       ]
     },
     {
-      "id": "com.ps.amber",
+      "id": "com.shiarahmed.amber",
       "name": "Amber",
       "latest": "0.0.3.1",
-      "repository": "PoomSmart's Repo",
-      "url": "http://cydia.saurik.com/package/com.ps.amber/",
+      "repository": "Shiar's Repo",
+      "url": "http://cydia.saurik.com/package/com.shiarahmed.amber/",
       "shortDescription": "Amber-ify your LED torch.",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
-      "date": "2018-07-11T06:24:58Z",
+      "date": "2019-07-13T17:48:33Z",
       "versions": [
         {
           "tweakVersion": "0.0.3.1",
           "iOSVersion": "12.2",
-          "repository": "PoomSmart's Repo",
-          "date": "2019-07-26T17:00:27Z",
+          "repository": "Shiar's Repo",
+          "date": "2019-07-13T17:48:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -866,22 +866,22 @@
       ]
     },
     {
-      "id": "com.shiarahmed.amber",
+      "id": "com.ps.amber",
       "name": "Amber",
       "latest": "0.0.3.1",
-      "repository": "Shiar's Repo",
-      "url": "http://cydia.saurik.com/package/com.shiarahmed.amber/",
+      "repository": "PoomSmart's Repo",
+      "url": "http://cydia.saurik.com/package/com.ps.amber/",
       "shortDescription": "Amber-ify your LED torch.",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
-      "date": "2019-07-13T17:48:33Z",
+      "date": "2018-07-11T06:24:58Z",
       "versions": [
         {
           "tweakVersion": "0.0.3.1",
           "iOSVersion": "12.2",
-          "repository": "Shiar's Repo",
-          "date": "2019-07-13T17:48:33Z",
+          "repository": "PoomSmart's Repo",
+          "date": "2019-07-26T17:00:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4165,7 +4165,7 @@
     {
       "id": "net.limneos.bioprotectxs",
       "name": "BioProtect XS (iOS 12)",
-      "latest": "4.0-71",
+      "latest": "4.0-68",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.bioprotectxs/",
       "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -7806,7 +7806,7 @@
     {
       "id": "com.4nni3.coolcc",
       "name": "CoolCC",
-      "latest": "3.1",
+      "latest": "3.2~beta2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.4nni3.coolcc/",
       "shortDescription": "This tweak makes ControlCenter cool!",
@@ -8473,10 +8473,10 @@
     {
       "id": "com.chilaxan.cuboid",
       "name": "Cuboid",
-      "latest": "0.1.1",
+      "latest": "2.0.1",
       "repository": "iDevice Hacked Repo",
       "url": "http://cydia.saurik.com/package/com.chilaxan.cuboid/",
-      "shortDescription": "An awesome MobileSubstrate tweak!",
+      "shortDescription": "Lightweight home screen layout manager.",
       "category": "Tweaks",
       "author": "chilaxan",
       "commercial": false,
@@ -10604,7 +10604,7 @@
     {
       "id": "xyz.xninja.dopesettings",
       "name": "DopeSettings",
-      "latest": "0.1.0",
+      "latest": "0.1.0-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.dopesettings/",
       "shortDescription": "Spice up the settings view",
@@ -12619,7 +12619,7 @@
     {
       "id": "flex3beta",
       "name": "Flex 3 Beta",
-      "latest": "3~Beta64",
+      "latest": "3~Beta63",
       "repository": "Delta",
       "url": "http://getdelta.co/",
       "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
@@ -13096,22 +13096,22 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
+      "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
       "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
+      "author": "SpicaT",
       "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
+      "date": "2018-07-18T14:45:11Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.2",
-          "repository": "BigBoss",
-          "date": "2019-08-05T05:22:04Z",
+          "repository": "Spica T Repo",
+          "date": "2019-07-19T06:54:11Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -13130,22 +13130,22 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
+      "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "cole cabral @ca13ra1",
       "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
+      "date": "2018-03-01T20:00:33Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "0.0.1-2",
           "iOSVersion": "12.2",
-          "repository": "Spica T Repo",
-          "date": "2019-07-19T06:54:11Z",
+          "repository": "BigBoss",
+          "date": "2019-08-05T05:22:04Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -14001,7 +14001,7 @@
     {
       "id": "gsc.battery-current-capacity",
       "name": "gsc.battery-current-capacity",
-      "latest": "87",
+      "latest": "71",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/gsc.battery-current-capacity/",
       "shortDescription": "virtual GraphicsServices dependency",
@@ -17068,21 +17068,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.libcolorpicker",
+      "id": "me.nepeta.libcolorpicker",
       "name": "libcolorpicker",
-      "latest": "1.6.3-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/",
-      "shortDescription": "color picker library for developers",
-      "category": "Development",
-      "author": "PixelFire",
+      "latest": "1.6.2-2",
+      "repository": "Nepeta",
+      "url": "http://cydia.saurik.com/package/me.nepeta.libcolorpicker/",
+      "shortDescription": "libcolorpicker with arm64e (A12) support",
+      "category": "System",
+      "author": "Bailey Seymour",
       "commercial": false,
+      "date": "2019-04-23T12:35:57Z",
       "versions": [
         {
-          "tweakVersion": "1.6.3-1",
+          "tweakVersion": "1.6.2-3",
           "iOSVersion": "12.2",
           "repository": "BigBoss",
-          "date": "2019-07-19T04:05:54Z",
+          "date": "2019-07-23T22:31:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17101,22 +17102,21 @@
       ]
     },
     {
-      "id": "me.nepeta.libcolorpicker",
+      "id": "org.thebigboss.libcolorpicker",
       "name": "libcolorpicker",
-      "latest": "1.6.2-2",
-      "repository": "Nepeta",
-      "url": "http://cydia.saurik.com/package/me.nepeta.libcolorpicker/",
-      "shortDescription": "libcolorpicker with arm64e (A12) support",
-      "category": "System",
-      "author": "Bailey Seymour",
+      "latest": "1.6.3-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/",
+      "shortDescription": "color picker library for developers",
+      "category": "Development",
+      "author": "PixelFire",
       "commercial": false,
-      "date": "2019-04-23T12:35:57Z",
       "versions": [
         {
-          "tweakVersion": "1.6.2-3",
+          "tweakVersion": "1.6.3-1",
           "iOSVersion": "12.2",
           "repository": "BigBoss",
-          "date": "2019-07-23T22:31:52Z",
+          "date": "2019-07-19T04:05:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18476,22 +18476,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.lisa",
+      "id": "com.esquilli.lisa",
       "name": "Lisa",
-      "latest": "1.0.0",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.lisa/",
-      "shortDescription": "Customize your Lock Screen experience\r",
-      "category": "iOS 12",
+      "latest": "1.0.2",
+      "repository": "EsquilliDev",
+      "url": "http://cydia.saurik.com/package/com.esquilli.lisa/",
+      "shortDescription": "Customize your Lock Screen experience",
+      "category": "Tweaks",
       "author": "Esquilli",
       "commercial": false,
-      "date": "2019-07-17T21:32:54Z",
+      "date": "2019-05-15T14:39:34Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0",
+          "tweakVersion": "1.0.2",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-17T21:32:54Z",
+          "repository": "EsquilliDev",
+          "date": "2019-08-10T18:05:40Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18510,22 +18510,22 @@
       ]
     },
     {
-      "id": "com.esquilli.lisa",
+      "id": "org.cydia.kiimo.lisa",
       "name": "Lisa",
-      "latest": "1.0.2",
-      "repository": "EsquilliDev",
-      "url": "http://cydia.saurik.com/package/com.esquilli.lisa/",
-      "shortDescription": "Customize your Lock Screen experience",
-      "category": "Tweaks",
+      "latest": "1.0.0",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.lisa/",
+      "shortDescription": "Customize your Lock Screen experience\r",
+      "category": "iOS 12",
       "author": "Esquilli",
       "commercial": false,
-      "date": "2019-05-15T14:39:34Z",
+      "date": "2019-07-17T21:32:54Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2",
+          "tweakVersion": "1.0.0",
           "iOSVersion": "12.2",
-          "repository": "EsquilliDev",
-          "date": "2019-08-10T18:05:40Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-17T21:32:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18599,7 +18599,7 @@
     {
       "id": "com.binksalex.littlexs",
       "name": "LittleXS",
-      "latest": "2.4.1",
+      "latest": "2.4.0",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.binksalex.littlexs/",
       "shortDescription": "LittleX revitalized for iOS 12.",
@@ -19216,10 +19216,10 @@
     {
       "id": "com.wizages.bae",
       "name": "MakeRespringsGreatAgain",
-      "latest": "2.0",
+      "latest": "1.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.wizages.bae/",
-      "shortDescription": "On resprings it brings back the apple logo which makes resprings great again!",
+      "shortDescription": "brings back the apple logo for resprings",
       "category": "Tweaks",
       "author": "wizages",
       "commercial": false,
@@ -20943,7 +20943,7 @@
     {
       "id": "com.niceios.nicebarx",
       "name": "NiceBarX",
-      "latest": "2.0.4.9-2",
+      "latest": "2.0.5.1-1",
       "repository": "NiceiOS",
       "url": "http://cydia.saurik.com/package/com.niceios.nicebarx/",
       "shortDescription": "statusbar tweak..",
@@ -22522,22 +22522,22 @@
       ]
     },
     {
-      "id": "com.yourepo.exfoliate.nudekeysios12",
+      "id": "com.orangebananaspy.nudekeysios12",
       "name": "NudeKeys (iOS 12)",
-      "latest": "eta1.0",
-      "repository": "Exfoliate Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.exfoliate.nudekeysios12/",
-      "shortDescription": "Strip those sexy keys! But now supported for iOS 12! This is not a modified version of NudeKeys in anyway, it’s the direct DEB from OBS twitter. All credit goes to him",
+      "latest": "1.0.0~b8",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.orangebananaspy.nudekeysios12/",
+      "shortDescription": "Strip those sexy keys!",
       "category": "Tweaks",
       "author": "Orangebananaspy",
       "commercial": false,
-      "date": "2019-03-14T03:58:12Z",
+      "date": "2019-03-07T05:51:01Z",
       "versions": [
         {
-          "tweakVersion": "eta1.0",
+          "tweakVersion": "1.0.0~b8",
           "iOSVersion": "12.2",
-          "repository": "Exfoliate Source - YouRepo",
-          "date": "2019-08-01T06:24:44Z",
+          "repository": "Orangebananaspy",
+          "date": "2019-07-23T14:30:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -22556,22 +22556,22 @@
       ]
     },
     {
-      "id": "com.orangebananaspy.nudekeysios12",
+      "id": "com.yourepo.exfoliate.nudekeysios12",
       "name": "NudeKeys (iOS 12)",
-      "latest": "1.0.0~b8",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.orangebananaspy.nudekeysios12/",
-      "shortDescription": "Strip those sexy keys!",
+      "latest": "eta1.0",
+      "repository": "Exfoliate Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.exfoliate.nudekeysios12/",
+      "shortDescription": "Strip those sexy keys! But now supported for iOS 12! This is not a modified version of NudeKeys in anyway, it’s the direct DEB from OBS twitter. All credit goes to him",
       "category": "Tweaks",
       "author": "Orangebananaspy",
       "commercial": false,
-      "date": "2019-03-07T05:51:01Z",
+      "date": "2019-03-14T03:58:12Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0~b8",
+          "tweakVersion": "eta1.0",
           "iOSVersion": "12.2",
-          "repository": "Orangebananaspy",
-          "date": "2019-07-23T14:30:27Z",
+          "repository": "Exfoliate Source - YouRepo",
+          "date": "2019-08-01T06:24:44Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -23775,10 +23775,10 @@
     {
       "id": "com.dave1482.powerapp",
       "name": "PowerApp",
-      "latest": "4.4.0",
+      "latest": "4.1.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dave1482.powerapp/",
-      "shortDescription": "Reboot, Shutdown, Respring, and more easily —  Supports iOS 3.0-iOS 12.1.2+",
+      "shortDescription": "Reboot, Shutdown, Respring, go into Safemode",
       "category": "Utilities",
       "author": "Dave1482",
       "commercial": false,
@@ -25492,40 +25492,6 @@
       ]
     },
     {
-      "id": "com.matchstic.reprovision",
-      "name": "ReProvision",
-      "latest": "0.4.2",
-      "repository": "Matchstic",
-      "url": "http://cydia.saurik.com/package/com.matchstic.reprovision/",
-      "shortDescription": "Re-sign applications on your device",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2018-08-12T19:47:47Z",
-      "versions": [
-        {
-          "tweakVersion": "0.4.2",
-          "iOSVersion": "12.2",
-          "repository": "repo.incendo.ws",
-          "date": "2019-07-12T23:32:02Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 12,
-            "bad": 0,
-            "total": 12,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.cydia.kiimo.reprovision",
       "name": "ReProvision",
       "latest": "0.4.2",
@@ -25548,6 +25514,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.matchstic.reprovision",
+      "name": "ReProvision",
+      "latest": "0.4.2",
+      "repository": "Matchstic",
+      "url": "http://cydia.saurik.com/package/com.matchstic.reprovision/",
+      "shortDescription": "Re-sign applications on your device",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2018-08-12T19:47:47Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4.2",
+          "iOSVersion": "12.2",
+          "repository": "repo.incendo.ws",
+          "date": "2019-07-12T23:32:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 12,
+            "bad": 0,
+            "total": 12,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -25716,6 +25716,40 @@
       ]
     },
     {
+      "id": "cydia.kiiimo.org.rocket",
+      "name": "Rocket for Instagram",
+      "latest": "3.3.5k",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.rocket/",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
+      "category": "iOS 12",
+      "author": "Majd Alfhaily",
+      "commercial": false,
+      "date": "2019-07-26T14:51:33Z",
+      "versions": [
+        {
+          "tweakVersion": "3.3.5k",
+          "iOSVersion": "12.2",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-26T14:51:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
       "latest": "3.5.3",
@@ -25812,40 +25846,6 @@
           "iOSVersion": "12.2",
           "repository": "Alfhaily APT",
           "date": "2019-08-12T08:43:39Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "cydia.kiiimo.org.rocket",
-      "name": "Rocket for Instagram",
-      "latest": "3.3.5k",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.rocket/",
-      "shortDescription": "Save posts and view stories anonymously and do much more",
-      "category": "iOS 12",
-      "author": "Majd Alfhaily",
-      "commercial": false,
-      "date": "2019-07-26T14:51:33Z",
-      "versions": [
-        {
-          "tweakVersion": "3.3.5k",
-          "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-26T14:51:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27943,7 +27943,7 @@
       "latest": "2.0.0",
       "repository": "MidnightChips",
       "url": "http://cydia.saurik.com/package/me.midnightchips.snapback/",
-      "shortDescription": "iOS Time Machine — Disclaimer",
+      "shortDescription": "iOS Time Machine — Disclaimer: SnapBack has been tested thoroughly, but there are still very small chances of failure. I am not responsible for anything that may happen to your device.",
       "category": "Application",
       "author": "MidnightChips",
       "commercial": false,
@@ -28700,7 +28700,7 @@
     {
       "id": "com.springtomize.st4.new",
       "name": "Springtomize 4",
-      "latest": "4.0.4",
+      "latest": "4.0.7",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.springtomize.st4.new/",
       "shortDescription": "Customize your device like never before.",
@@ -29950,7 +29950,7 @@
             "percentage": 0,
             "good": 0,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -30018,7 +30018,7 @@
     {
       "id": "system-memory-reset-fix",
       "name": "System Memory Reset Fix",
-      "latest": "2.0",
+      "latest": "1.0",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/system-memory-reset-fix/",
       "shortDescription": "Prevent overnight userspace reboots triggered by mmaintenanced",
@@ -33689,40 +33689,6 @@
       ]
     },
     {
-      "id": "com.yourepo.jpet26.youtubetools",
-      "name": "YouTube Tools",
-      "latest": "2.0",
-      "repository": "jpet26 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
-      "shortDescription": "Essential toolbox for YouTube app.",
-      "category": "Tweaks",
-      "author": "Justin Petkovic",
-      "commercial": false,
-      "date": "2019-05-25T17:07:36Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.2",
-          "repository": "jpet26 Source - YouRepo",
-          "date": "2019-07-19T16:30:21Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.justinpetkovic.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
@@ -33784,6 +33750,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.jpet26.youtubetools",
+      "name": "YouTube Tools",
+      "latest": "2.0",
+      "repository": "jpet26 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
+      "shortDescription": "Essential toolbox for YouTube app.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "date": "2019-05-25T17:07:36Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.2",
+          "repository": "jpet26 Source - YouRepo",
+          "date": "2019-07-19T16:30:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -34061,7 +34061,7 @@
     {
       "id": "com.alexzielenski.zeppelin",
       "name": "Zeppelin",
-      "latest": "2.1.1-1",
+      "latest": "2.1.0-12",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
       "shortDescription": "Replaces carrier text with an image!",
