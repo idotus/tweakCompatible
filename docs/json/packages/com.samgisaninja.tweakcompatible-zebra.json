@@ -329,9 +329,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 5,
+        "good": 6,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -384,6 +384,15 @@
           "date": "2019-08-19T01:28:42Z",
           "userName": "SeeTheBridges",
           "issueNumber": 94356,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-08-19T01:09:05Z",
+          "userName": "iGerman00",
+          "issueNumber": 94323,
           "arch32": false
         }
       ]
