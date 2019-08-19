@@ -2273,9 +2273,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2310,6 +2310,15 @@
           "date": "2019-08-19T12:59:17Z",
           "userName": "AhmedNazmi",
           "issueNumber": 94960,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-19T04:27:33Z",
+          "userName": "R-IS-REAL-2041",
+          "issueNumber": 94498,
           "arch32": false
         }
       ]
