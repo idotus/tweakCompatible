@@ -7661,6 +7661,39 @@
       ]
     },
     {
+      "id": "net.angelxwind.preferenceorganizer2",
+      "name": "PreferenceOrganizer 2",
+      "latest": "4.0.7",
+      "repository": "Karen's Repo",
+      "url": "http://cydia.angelxwind.net/",
+      "shortDescription": "Organises your Preferences app into several configurable categories for ease of navigation.",
+      "category": "Tweaks",
+      "author": "Karen, Hiraku, Gary, Eliz, insanj",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "4.0.7",
+          "iOSVersion": "12.4",
+          "repository": "Karen/あけみ's Repo",
+          "date": "2019-08-19T06:23:50Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.blakeboxberger.pridebars",
       "name": "PrideBars",
       "latest": "1.0.3",
