@@ -2439,9 +2439,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2467,6 +2467,15 @@
           "date": "2019-08-19T04:50:42Z",
           "userName": "SrKrong",
           "issueNumber": 94545,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Crashes the app store if enabled for it",
+          "date": "2019-08-19T15:16:05Z",
+          "userName": "ElectronicWizard",
+          "issueNumber": 95094,
           "arch32": false
         }
       ]
