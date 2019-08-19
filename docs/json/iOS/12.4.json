@@ -7897,6 +7897,40 @@
       ]
     },
     {
+      "id": "software.iwantmyapdemote.repower12",
+      "name": "RePower XII",
+      "latest": "0.0.5",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/software.iwantmyapdemote.repower12/",
+      "shortDescription": "A more powerful, powerdown screen.",
+      "category": "Tweaks",
+      "author": "Haifisch",
+      "commercial": true,
+      "date": "2019-08-01T22:25:20Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.5",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-19T06:57:00Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.matchstic.reprovision",
       "name": "ReProvision",
       "latest": "0.4.2",
