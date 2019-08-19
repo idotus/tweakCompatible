@@ -1523,11 +1523,11 @@
       "repository": "BigBoss",
       "date": "2019-08-19T13:08:22Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1544,6 +1544,15 @@
           "date": "2019-08-19T13:08:22Z",
           "userName": "zaf37",
           "issueNumber": 94965,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "iPhone X does nothing",
+          "date": "2019-08-19T15:17:44Z",
+          "userName": "d34dbre4kr",
+          "issueNumber": 95097,
           "arch32": false
         }
       ]
