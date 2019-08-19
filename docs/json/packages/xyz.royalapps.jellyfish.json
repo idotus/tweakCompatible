@@ -1934,10 +1934,10 @@
       "date": "2019-08-18T20:20:20Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1972,6 +1972,15 @@
           "date": "2019-08-19T05:42:30Z",
           "userName": "maikotui",
           "issueNumber": 94589,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "Its working fine ",
+          "date": "2019-08-19T12:41:44Z",
+          "userName": "krmodrowski",
+          "issueNumber": 94944,
           "arch32": false
         }
       ]
