@@ -1397,9 +1397,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1425,6 +1425,15 @@
           "date": "2019-08-19T04:26:26Z",
           "userName": "R-IS-REAL-2041",
           "issueNumber": 94495,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-19T03:58:59Z",
+          "userName": "flyplt",
+          "issueNumber": 94470,
           "arch32": false
         }
       ]
