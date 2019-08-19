@@ -4598,6 +4598,40 @@
       ]
     },
     {
+      "id": "gg.gh0stbyte.giflock",
+      "name": "GIFLock",
+      "latest": "1.0.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/gg.gh0stbyte.giflock/",
+      "shortDescription": "Set a GIF as your Lockscreen!",
+      "category": "Tweaks",
+      "author": "Gh0stByte",
+      "commercial": false,
+      "date": "2018-03-02T08:41:09Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T07:24:02Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.foxfort.gmailmidnight",
       "name": "Gmail Midnight",
       "latest": "1.2.0",
