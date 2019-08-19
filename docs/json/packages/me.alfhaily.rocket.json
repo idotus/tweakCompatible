@@ -4,7 +4,7 @@
   "latest": "3.5.3",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-  "shortDescription": "posts and view stories anonymously and do much more",
+  "shortDescription": "Save posts and view stories anonymously and do much more",
   "category": "Tweaks",
   "author": "Majd Alfhaily",
   "commercial": false,
@@ -7482,9 +7482,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 6,
+        "good": 7,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -7546,6 +7546,15 @@
           "date": "2019-08-19T05:05:55Z",
           "userName": "XR4000",
           "issueNumber": 94559,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-18T23:55:33Z",
+          "userName": "Jim7190",
+          "issueNumber": 94275,
           "arch32": false
         }
       ]
