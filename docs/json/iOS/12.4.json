@@ -3260,6 +3260,39 @@
       ]
     },
     {
+      "id": "com.chikuwa.flatsafariurl",
+      "name": "FlatSafariURL",
+      "latest": "0.0.1",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.chikuwa.flatsafariurl/",
+      "shortDescription": "flat appearance on Safari URL bar",
+      "category": "Tweaks",
+      "author": "Chikuwa",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T10:26:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.cydiageek.fleetingswitcher11",
       "name": "fleetingSwitcher11",
       "latest": "1.2.0",
