@@ -7751,6 +7751,40 @@
       ]
     },
     {
+      "id": "com.creaturecoding.fabric",
+      "name": "Fabric",
+      "latest": "1.5.6",
+      "repository": "CreatureCoding",
+      "url": "http://cydia.saurik.com/package/com.creaturecoding.fabric/",
+      "shortDescription": "A native and dynamic lockscreen time view",
+      "category": "Tweaks",
+      "author": "CreatureSurvive",
+      "commercial": true,
+      "date": "2019-05-14T11:42:03Z",
+      "versions": [
+        {
+          "tweakVersion": "1.5.6",
+          "iOSVersion": "12.4",
+          "repository": "CreatureCoding",
+          "date": "2019-08-19T21:12:29Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.foxfort.facebookdarkmode",
       "name": "FacebookDarkMode",
       "latest": "2.4.6",
@@ -8789,6 +8823,40 @@
           "iOSVersion": "12.4",
           "repository": "BigBoss",
           "date": "2019-08-19T14:59:32Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.joshdoctors.freeloader",
+      "name": "FreeLoader",
+      "latest": "0.0.1-235",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.joshdoctors.freeloader/",
+      "shortDescription": "Customize the loading indicator.",
+      "category": "Tweaks",
+      "author": "Josh Doctors",
+      "commercial": false,
+      "date": "2018-03-02T03:10:34Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-235",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T21:15:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
