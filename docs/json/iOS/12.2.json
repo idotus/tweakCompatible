@@ -832,22 +832,22 @@
       ]
     },
     {
-      "id": "com.shiarahmed.amber",
+      "id": "com.ps.amber",
       "name": "Amber",
       "latest": "0.0.3.1",
-      "repository": "Shiar's Repo",
-      "url": "http://cydia.saurik.com/package/com.shiarahmed.amber/",
+      "repository": "PoomSmart's Repo",
+      "url": "http://cydia.saurik.com/package/com.ps.amber/",
       "shortDescription": "Amber-ify your LED torch.",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
-      "date": "2019-07-13T17:48:33Z",
+      "date": "2018-07-11T06:24:58Z",
       "versions": [
         {
           "tweakVersion": "0.0.3.1",
           "iOSVersion": "12.2",
-          "repository": "Shiar's Repo",
-          "date": "2019-07-13T17:48:33Z",
+          "repository": "PoomSmart's Repo",
+          "date": "2019-07-26T17:00:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -866,22 +866,22 @@
       ]
     },
     {
-      "id": "com.ps.amber",
+      "id": "com.shiarahmed.amber",
       "name": "Amber",
       "latest": "0.0.3.1",
-      "repository": "PoomSmart's Repo",
-      "url": "http://cydia.saurik.com/package/com.ps.amber/",
+      "repository": "Shiar's Repo",
+      "url": "http://cydia.saurik.com/package/com.shiarahmed.amber/",
       "shortDescription": "Amber-ify your LED torch.",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
-      "date": "2018-07-11T06:24:58Z",
+      "date": "2019-07-13T17:48:33Z",
       "versions": [
         {
           "tweakVersion": "0.0.3.1",
           "iOSVersion": "12.2",
-          "repository": "PoomSmart's Repo",
-          "date": "2019-07-26T17:00:27Z",
+          "repository": "Shiar's Repo",
+          "date": "2019-07-13T17:48:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1608,10 +1608,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.5.0-12",
+      "latest": "1.4.2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -3006,7 +3006,7 @@
     {
       "id": "com.shiftcmdk.awesomepagedots",
       "name": "AwesomePageDots",
-      "latest": "1.1",
+      "latest": "1.1.2",
       "repository": "shiftcmdk",
       "url": "http://cydia.saurik.com/package/com.shiftcmdk.awesomepagedots/",
       "shortDescription": "Animated page control for the home screen.",
@@ -4610,7 +4610,7 @@
     {
       "id": "com.irepo.boxy3",
       "name": "Boxy3",
-      "latest": "3.5",
+      "latest": "3.6",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.irepo.boxy3/",
       "shortDescription": "Fully customize your icon layout!",
@@ -8852,10 +8852,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "99.2",
+      "latest": "0.9.7033",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "Compatibility wrapper for Substrate tweaks to work with Tweak Injector + Substitute",
+      "shortDescription": "powerful code insertion platform",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -8905,7 +8905,7 @@
     {
       "id": "cydia-lproj",
       "name": "Cydia Translations",
-      "latest": "1.9.3~chimera5",
+      "latest": "1.1.32~b1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia-lproj/",
       "shortDescription": "languages and translations for Cydia",
@@ -12619,7 +12619,7 @@
     {
       "id": "flex3beta",
       "name": "Flex 3 Beta",
-      "latest": "3~Beta63",
+      "latest": "3~Beta64",
       "repository": "Delta",
       "url": "http://getdelta.co/",
       "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
@@ -16392,22 +16392,22 @@
       ]
     },
     {
-      "id": "me.nepeta.konban",
+      "id": "org.cydia.kiimo.konban",
       "name": "Konban",
-      "latest": "0.2.1",
-      "repository": "Nepeta",
-      "url": "http://cydia.saurik.com/package/me.nepeta.konban/",
+      "latest": "0.1.1k1",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.konban/",
       "shortDescription": "Replaces the \"Today\" view with an app of your choice.",
-      "category": "Tweaks",
+      "category": "iOS 12",
       "author": "Nepeta",
       "commercial": false,
-      "date": "2019-04-20T17:58:36Z",
+      "date": "2019-07-16T22:39:41Z",
       "versions": [
         {
-          "tweakVersion": "0.2.1",
+          "tweakVersion": "0.1.1k1",
           "iOSVersion": "12.2",
-          "repository": "Nepeta",
-          "date": "2019-07-31T22:34:34Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-16T22:39:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -16426,22 +16426,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.konban",
+      "id": "me.nepeta.konban",
       "name": "Konban",
-      "latest": "0.1.1k1",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.konban/",
+      "latest": "0.2.1",
+      "repository": "Nepeta",
+      "url": "http://cydia.saurik.com/package/me.nepeta.konban/",
       "shortDescription": "Replaces the \"Today\" view with an app of your choice.",
-      "category": "iOS 12",
+      "category": "Tweaks",
       "author": "Nepeta",
       "commercial": false,
-      "date": "2019-07-16T22:39:41Z",
+      "date": "2019-04-20T17:58:36Z",
       "versions": [
         {
-          "tweakVersion": "0.1.1k1",
+          "tweakVersion": "0.2.1",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-16T22:39:41Z",
+          "repository": "Nepeta",
+          "date": "2019-07-31T22:34:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -16835,10 +16835,10 @@
     {
       "id": "com.ps.letmeblock",
       "name": "LetMeBlock",
-      "latest": "0.0.6.8",
+      "latest": "0.0.1",
       "repository": "PoomSmart's Repo",
       "url": "http://cydia.saurik.com/package/com.ps.letmeblock/",
-      "shortDescription": "Make mDNSResponder care more about /etc/hosts",
+      "shortDescription": "Make mDNSResponder care about /etc/hosts",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
@@ -18476,22 +18476,22 @@
       ]
     },
     {
-      "id": "com.esquilli.lisa",
+      "id": "org.cydia.kiimo.lisa",
       "name": "Lisa",
-      "latest": "1.0.2",
-      "repository": "EsquilliDev",
-      "url": "http://cydia.saurik.com/package/com.esquilli.lisa/",
-      "shortDescription": "Customize your Lock Screen experience",
-      "category": "Tweaks",
+      "latest": "1.0.0",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.lisa/",
+      "shortDescription": "Customize your Lock Screen experience\r",
+      "category": "iOS 12",
       "author": "Esquilli",
       "commercial": false,
-      "date": "2019-05-15T14:39:34Z",
+      "date": "2019-07-17T21:32:54Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2",
+          "tweakVersion": "1.0.0",
           "iOSVersion": "12.2",
-          "repository": "EsquilliDev",
-          "date": "2019-08-10T18:05:40Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-17T21:32:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18510,22 +18510,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.lisa",
+      "id": "com.esquilli.lisa",
       "name": "Lisa",
-      "latest": "1.0.0",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.lisa/",
-      "shortDescription": "Customize your Lock Screen experience\r",
-      "category": "iOS 12",
+      "latest": "1.0.2",
+      "repository": "EsquilliDev",
+      "url": "http://cydia.saurik.com/package/com.esquilli.lisa/",
+      "shortDescription": "Customize your Lock Screen experience",
+      "category": "Tweaks",
       "author": "Esquilli",
       "commercial": false,
-      "date": "2019-07-17T21:32:54Z",
+      "date": "2019-05-15T14:39:34Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0",
+          "tweakVersion": "1.0.2",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-17T21:32:54Z",
+          "repository": "EsquilliDev",
+          "date": "2019-08-10T18:05:40Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20394,7 +20394,7 @@
     {
       "id": "me.nepeta.nereid",
       "name": "Nereid",
-      "latest": "0.1.8",
+      "latest": "0.1.8-1",
       "repository": "Nepeta",
       "url": "http://cydia.saurik.com/package/me.nepeta.nereid/",
       "shortDescription": "Lock screen music player redesign",
@@ -20670,22 +20670,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:38:31Z",
+          "date": "2019-07-23T22:37:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -20704,22 +20704,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:37:30Z",
+          "date": "2019-07-23T22:38:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -22522,22 +22522,22 @@
       ]
     },
     {
-      "id": "com.orangebananaspy.nudekeysios12",
+      "id": "com.yourepo.exfoliate.nudekeysios12",
       "name": "NudeKeys (iOS 12)",
-      "latest": "1.0.0~b8",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.orangebananaspy.nudekeysios12/",
-      "shortDescription": "Strip those sexy keys!",
+      "latest": "eta1.0",
+      "repository": "Exfoliate Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.exfoliate.nudekeysios12/",
+      "shortDescription": "Strip those sexy keys! But now supported for iOS 12! This is not a modified version of NudeKeys in anyway, it’s the direct DEB from OBS twitter. All credit goes to him",
       "category": "Tweaks",
       "author": "Orangebananaspy",
       "commercial": false,
-      "date": "2019-03-07T05:51:01Z",
+      "date": "2019-03-14T03:58:12Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0~b8",
+          "tweakVersion": "eta1.0",
           "iOSVersion": "12.2",
-          "repository": "Orangebananaspy",
-          "date": "2019-07-23T14:30:27Z",
+          "repository": "Exfoliate Source - YouRepo",
+          "date": "2019-08-01T06:24:44Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -22556,22 +22556,22 @@
       ]
     },
     {
-      "id": "com.yourepo.exfoliate.nudekeysios12",
+      "id": "com.orangebananaspy.nudekeysios12",
       "name": "NudeKeys (iOS 12)",
-      "latest": "eta1.0",
-      "repository": "Exfoliate Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.exfoliate.nudekeysios12/",
-      "shortDescription": "Strip those sexy keys! But now supported for iOS 12! This is not a modified version of NudeKeys in anyway, it’s the direct DEB from OBS twitter. All credit goes to him",
+      "latest": "1.0.0~b8",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.orangebananaspy.nudekeysios12/",
+      "shortDescription": "Strip those sexy keys!",
       "category": "Tweaks",
       "author": "Orangebananaspy",
       "commercial": false,
-      "date": "2019-03-14T03:58:12Z",
+      "date": "2019-03-07T05:51:01Z",
       "versions": [
         {
-          "tweakVersion": "eta1.0",
+          "tweakVersion": "1.0.0~b8",
           "iOSVersion": "12.2",
-          "repository": "Exfoliate Source - YouRepo",
-          "date": "2019-08-01T06:24:44Z",
+          "repository": "Orangebananaspy",
+          "date": "2019-07-23T14:30:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25424,6 +25424,40 @@
       ]
     },
     {
+      "id": "net.iapps4u.repogen",
+      "name": "RepoGen",
+      "latest": "1.1",
+      "repository": "Jakeashacks",
+      "url": "http://cydia.saurik.com/package/net.iapps4u.repogen/",
+      "shortDescription": "Generate a Cydia Repo straight from your device in simple clicks!",
+      "category": "Apps",
+      "author": "Jakeashacks",
+      "commercial": false,
+      "date": "2018-07-20T23:07:38Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "12.2",
+          "repository": "Jakeashacks",
+          "date": "2019-08-19T12:59:44Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "software.iwantmyapdemote.repower12",
       "name": "RePower XII",
       "latest": "0.0.5",
@@ -25682,40 +25716,6 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.rocket",
-      "name": "Rocket for Instagram",
-      "latest": "3.3.5k",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.rocket/",
-      "shortDescription": "Save posts and view stories anonymously and do much more",
-      "category": "iOS 12",
-      "author": "Majd Alfhaily",
-      "commercial": false,
-      "date": "2019-07-26T14:51:33Z",
-      "versions": [
-        {
-          "tweakVersion": "3.3.5k",
-          "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-26T14:51:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
       "latest": "3.5.3",
@@ -25812,6 +25812,40 @@
           "iOSVersion": "12.2",
           "repository": "Alfhaily APT",
           "date": "2019-08-12T08:43:39Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cydia.kiiimo.org.rocket",
+      "name": "Rocket for Instagram",
+      "latest": "3.3.5k",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.rocket/",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
+      "category": "iOS 12",
+      "author": "Majd Alfhaily",
+      "commercial": false,
+      "date": "2019-07-26T14:51:33Z",
+      "versions": [
+        {
+          "tweakVersion": "3.3.5k",
+          "iOSVersion": "12.2",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-26T14:51:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27909,7 +27943,7 @@
       "latest": "2.0.0",
       "repository": "MidnightChips",
       "url": "http://cydia.saurik.com/package/me.midnightchips.snapback/",
-      "shortDescription": "iOS Time Machine — Disclaimer: SnapBack has been tested thoroughly, but there are still very small chances of failure. I am not responsible for anything that may happen to your device.",
+      "shortDescription": "iOS Time Machine — Disclaimer",
       "category": "Application",
       "author": "MidnightChips",
       "commercial": false,
@@ -29365,7 +29399,7 @@
     {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
-      "latest": "1.0.0",
+      "latest": "1.0.0-1+debug",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
       "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
@@ -29554,10 +29588,10 @@
     {
       "id": "org.thebigboss.swipeformore",
       "name": "SwipeForMore",
-      "latest": "1.1.10",
+      "latest": "1.1.7",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/org.thebigboss.swipeformore/",
-      "shortDescription": "Manage Cydia packages via swipe.",
+      "shortDescription": "Manage packages via swipe.",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
@@ -31652,10 +31686,10 @@
     {
       "id": "com.fidele007.universalmute",
       "name": "Universal Mute",
-      "latest": "1.1.2",
+      "latest": "1.1.1",
       "repository": "fidele007 Repo",
       "url": "http://fidele007.github.io/",
-      "shortDescription": "Mute the media volume when the ringer is muted.",
+      "shortDescription": "Mute media volume when ringer muted",
       "category": "Tweaks",
       "author": "fidele007",
       "commercial": false,
@@ -33533,22 +33567,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "4.32.7-2",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:52:23Z",
+          "date": "2019-07-23T22:36:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -33567,22 +33601,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "4.32.7-2",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:36:47Z",
+          "date": "2019-07-23T22:52:23Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -34027,7 +34061,7 @@
     {
       "id": "com.alexzielenski.zeppelin",
       "name": "Zeppelin",
-      "latest": "2.1.0-12",
+      "latest": "2.1.1-1",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
       "shortDescription": "Replaces carrier text with an image!",
