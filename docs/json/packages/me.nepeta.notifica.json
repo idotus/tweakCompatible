@@ -4008,9 +4008,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -4027,6 +4027,15 @@
           "date": "2019-08-19T11:24:09Z",
           "userName": "hypertjs",
           "issueNumber": 94847,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2019-08-19T12:29:59Z",
+          "userName": "blackziploc",
+          "issueNumber": 94924,
           "arch32": false
         }
       ]
