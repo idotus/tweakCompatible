@@ -3284,9 +3284,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3303,6 +3303,15 @@
           "date": "2019-08-19T13:16:58Z",
           "userName": "wooozie69",
           "issueNumber": 94986,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad7,5",
+          "issues": "",
+          "date": "2019-08-19T13:13:07Z",
+          "userName": "zaf37",
+          "issueNumber": 94982,
           "arch32": false
         }
       ]
