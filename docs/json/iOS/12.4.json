@@ -1302,6 +1302,40 @@
       ]
     },
     {
+      "id": "com.chrissoftware.bluetoothim",
+      "name": "Bluetooth IM",
+      "latest": "1.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.chrissoftware.bluetoothim/",
+      "shortDescription": "Bluetooth Chat allows you to quickly and free of charge communicate with other iPhone or iPod touches near you. - Nice interface, looks almost like Messages application - Many sound alerts, vibrating and pop-up alerts - You can talk in many private chats, not only one - Archive of your chats Use it anywhere you like, in cafes, exams, shopping centers :).",
+      "category": "Messaging",
+      "author": "Chris",
+      "commercial": false,
+      "date": "2018-07-26T09:31:56Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T11:06:27Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ca.ndoizo.bolders",
       "name": "Bolders",
       "latest": "1.2.2-2",
@@ -6995,22 +7029,21 @@
       ]
     },
     {
-      "id": "com.yourepo.jpet26.youtubetools",
+      "id": "com.justinpetkovic.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
-      "repository": "jpet26 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
       "shortDescription": "Essential toolbox for YouTube app.",
       "category": "Tweaks",
       "author": "Justin Petkovic",
       "commercial": false,
-      "date": "2019-05-25T17:07:36Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "12.4",
-          "repository": "jpet26 Source - YouRepo",
-          "date": "2019-08-18T22:57:43Z",
+          "repository": "(null)",
+          "date": "2019-08-18T18:45:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7029,21 +7062,22 @@
       ]
     },
     {
-      "id": "com.justinpetkovic.youtubetools",
+      "id": "com.yourepo.jpet26.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
+      "repository": "jpet26 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
       "shortDescription": "Essential toolbox for YouTube app.",
       "category": "Tweaks",
       "author": "Justin Petkovic",
       "commercial": false,
+      "date": "2019-05-25T17:07:36Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-18T18:45:33Z",
+          "repository": "jpet26 Source - YouRepo",
+          "date": "2019-08-18T22:57:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
