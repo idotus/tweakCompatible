@@ -626,9 +626,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 4,
+            "good": 5,
             "bad": 0,
-            "total": 4,
+            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -3095,6 +3095,40 @@
           "iOSVersion": "12.4",
           "repository": "IArrays",
           "date": "2019-08-19T07:55:27Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "me.tomt000.copylog",
+      "name": "CopyLog",
+      "latest": "1.2.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/me.tomt000.copylog/",
+      "shortDescription": "Clipboard history manager for iOS!",
+      "category": "Tweaks",
+      "author": "TomT000",
+      "commercial": true,
+      "date": "2019-03-23T23:24:31Z",
+      "versions": [
+        {
+          "tweakVersion": "1.2.1",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-19T05:14:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
