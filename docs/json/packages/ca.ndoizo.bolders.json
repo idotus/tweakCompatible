@@ -2931,9 +2931,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2968,6 +2968,15 @@
           "date": "2019-08-19T09:40:17Z",
           "userName": "ekatuck",
           "issueNumber": 94708,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "Sometimes when I move an app out of a folder and back in, it leaves a blank spot where it was before I moved it out",
+          "date": "2019-08-19T12:18:58Z",
+          "userName": "Reygok",
+          "issueNumber": 94917,
           "arch32": false
         }
       ]
