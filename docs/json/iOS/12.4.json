@@ -6167,6 +6167,39 @@
       ]
     },
     {
+      "id": "org.thebigboss.scramblepass",
+      "name": "ScramblePass",
+      "latest": "0.0.2-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.scramblepass/",
+      "shortDescription": "randomly rearrange passcode buttons",
+      "category": "Tweaks",
+      "author": "Stevie Hetelekides",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.2-1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T10:19:17Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.satvikb.selectionplus",
       "name": "SelectionPlus",
       "latest": "1.0.6.4",
