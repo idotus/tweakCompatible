@@ -3984,6 +3984,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.5.5-6",
+      "iOSVersion": "12.1.1",
+      "repository": "xenpublic.incendo.ws",
+      "date": "2019-08-19T12:00:49Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "Lock screen widgets disappear",
+          "date": "2019-08-19T12:00:49Z",
+          "userName": "burkybang",
+          "issueNumber": 94903,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
