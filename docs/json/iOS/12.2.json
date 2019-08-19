@@ -6165,7 +6165,7 @@
     {
       "id": "com.imkpatil.cclinker",
       "name": "CCLinker",
-      "latest": "1.2.1",
+      "latest": "1.1.2",
       "repository": "Kiran Patil's Repo",
       "url": "http://cydia.saurik.com/package/com.imkpatil.cclinker/",
       "shortDescription": "Open the settings pane for the CC Toggles by using gestures!",
@@ -15068,7 +15068,7 @@
     {
       "id": "jp.soh.iconator2",
       "name": "Iconator2 (iOS12)",
-      "latest": "1.6",
+      "latest": "1.8",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/jp.soh.iconator2/",
       "shortDescription": "Control homescreen whatever you want",
@@ -18895,6 +18895,40 @@
       ]
     },
     {
+      "id": "org.coolstar.llvm-clang64",
+      "name": "LLVM+Clang (64 Bit)",
+      "latest": "5.0.1-2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.llvm-clang64/",
+      "shortDescription": "LLVM, Clang, and LLD 5.0.1 for iOS/arm64",
+      "category": "Development",
+      "author": "CoolStar",
+      "commercial": false,
+      "date": "2018-03-08T21:28:40Z",
+      "versions": [
+        {
+          "tweakVersion": "5.0.1-2",
+          "iOSVersion": "12.2",
+          "repository": "BigBoss",
+          "date": "2019-08-19T20:03:18Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.midnightchips.localhostssh",
       "name": "Local SSH",
       "latest": "0.0.2",
@@ -21647,40 +21681,6 @@
       ]
     },
     {
-      "id": "com.adamseiter.nolargetitles",
-      "name": "NoLargeTitles",
-      "latest": "1.1",
-      "repository": "SEITERSEITER's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
-      "shortDescription": "Removes ugly large titles from apps.",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-03-01T19:59:25Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "12.2",
-          "repository": "eXqusic's Repo",
-          "date": "2019-07-25T16:03:56Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.coolstar.nolargetitles",
       "name": "NoLargeTitles",
       "latest": "1.0-1",
@@ -21701,6 +21701,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.adamseiter.nolargetitles",
+      "name": "NoLargeTitles",
+      "latest": "1.1",
+      "repository": "SEITERSEITER's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
+      "shortDescription": "Removes ugly large titles from apps.",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-03-01T19:59:25Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "12.2",
+          "repository": "eXqusic's Repo",
+          "date": "2019-07-25T16:03:56Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -25872,6 +25906,40 @@
       ]
     },
     {
+      "id": "cydia.kiiimo.org.rocket",
+      "name": "Rocket for Instagram",
+      "latest": "3.3.5k",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.rocket/",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
+      "category": "iOS 12",
+      "author": "Majd Alfhaily",
+      "commercial": false,
+      "date": "2019-07-26T14:51:33Z",
+      "versions": [
+        {
+          "tweakVersion": "3.3.5k",
+          "iOSVersion": "12.2",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-26T14:51:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
       "latest": "3.5.3",
@@ -25968,40 +26036,6 @@
           "iOSVersion": "12.2",
           "repository": "Alfhaily APT",
           "date": "2019-08-12T08:43:39Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "cydia.kiiimo.org.rocket",
-      "name": "Rocket for Instagram",
-      "latest": "3.3.5k",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.rocket/",
-      "shortDescription": "Save posts and view stories anonymously and do much more",
-      "category": "iOS 12",
-      "author": "Majd Alfhaily",
-      "commercial": false,
-      "date": "2019-07-26T14:51:33Z",
-      "versions": [
-        {
-          "tweakVersion": "3.3.5k",
-          "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-26T14:51:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -30875,22 +30909,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.tinybanners",
+      "id": "com.donbytyqi.tinybanners",
       "name": "TinyBanners",
       "latest": "0.3.1",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.tinybanners/",
-      "shortDescription": "TinyBanners\r",
-      "category": "iOS 12",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.donbytyqi.tinybanners/",
+      "shortDescription": "Unobtrusive yet useful notification banners!",
+      "category": "Tweaks",
       "author": "Don",
-      "commercial": false,
-      "date": "2019-07-30T05:45:36Z",
+      "commercial": true,
+      "date": "2019-03-21T07:14:10Z",
       "versions": [
         {
           "tweakVersion": "0.3.1",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-30T05:45:36Z",
+          "repository": "Packix",
+          "date": "2019-07-13T09:23:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -30909,22 +30943,22 @@
       ]
     },
     {
-      "id": "com.donbytyqi.tinybanners",
+      "id": "org.cydia.kiimo.tinybanners",
       "name": "TinyBanners",
       "latest": "0.3.1",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.donbytyqi.tinybanners/",
-      "shortDescription": "Unobtrusive yet useful notification banners!",
-      "category": "Tweaks",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.tinybanners/",
+      "shortDescription": "TinyBanners\r",
+      "category": "iOS 12",
       "author": "Don",
-      "commercial": true,
-      "date": "2019-03-21T07:14:10Z",
+      "commercial": false,
+      "date": "2019-07-30T05:45:36Z",
       "versions": [
         {
           "tweakVersion": "0.3.1",
           "iOSVersion": "12.2",
-          "repository": "Packix",
-          "date": "2019-07-13T09:23:26Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-30T05:45:36Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
