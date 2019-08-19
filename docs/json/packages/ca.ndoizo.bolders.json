@@ -2931,9 +2931,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2959,6 +2959,15 @@
           "date": "2019-08-19T10:51:23Z",
           "userName": "key215",
           "issueNumber": 94797,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-19T09:40:17Z",
+          "userName": "ekatuck",
+          "issueNumber": 94708,
           "arch32": false
         }
       ]
