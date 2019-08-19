@@ -4,7 +4,7 @@
   "latest": "1.2.9",
   "repository": "Dynastic Repo",
   "url": "http://cydia.saurik.com/package/applebetas.ios.tweak.willow/",
-  "shortDescription": "The volume HUD you deserve. — Supports iOS 11 and 12.",
+  "shortDescription": "A brand-new, unobtrusive, OLED-friendly volume HUD.",
   "category": "Tweaks",
   "author": "AppleBetas",
   "commercial": true,
@@ -2256,9 +2256,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 6,
+        "good": 7,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2320,6 +2320,15 @@
           "date": "2019-08-19T14:55:08Z",
           "userName": "vipzen",
           "issueNumber": 95086,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-08-19T17:49:42Z",
+          "userName": "TrademarkZe",
+          "issueNumber": 95201,
           "arch32": false
         }
       ]
