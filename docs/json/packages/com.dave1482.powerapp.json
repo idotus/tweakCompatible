@@ -1,10 +1,10 @@
 {
   "id": "com.dave1482.powerapp",
   "name": "PowerApp",
-  "latest": "4.4.0",
+  "latest": "4.1.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.dave1482.powerapp/",
-  "shortDescription": "Reboot, Shutdown, Respring, and more easily —  Supports iOS 3.0-iOS 12.1.2+",
+  "shortDescription": "Reboot, Shutdown, Respring, go into Safemode",
   "category": "Utilities",
   "author": "Dave1482",
   "commercial": false,
@@ -1626,6 +1626,37 @@
           "date": "2019-08-04T01:53:34Z",
           "userName": "NewGithubber35",
           "issueNumber": 93458,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "4.1.2",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-19T02:35:45Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-19T02:35:45Z",
+          "userName": "Binahmad97",
+          "issueNumber": 94415,
           "arch32": false
         }
       ]
