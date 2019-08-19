@@ -5846,6 +5846,40 @@
       ]
     },
     {
+      "id": "com.noisyflake.ipadstatusbar",
+      "name": "iPadStatusBar",
+      "latest": "1.1.6",
+      "repository": "NoisyFlake",
+      "url": "http://cydia.saurik.com/package/com.noisyflake.ipadstatusbar/",
+      "shortDescription": "Enables the iOS 12 iPad Statusbar on all devices",
+      "category": "Tweaks",
+      "author": "NoisyFlake",
+      "commercial": false,
+      "date": "2019-03-13T14:43:24Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.6",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-19T04:54:34Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "u.blanxd.iponcc",
       "name": "IPonCC",
       "latest": "1.4.5",
@@ -6760,6 +6794,39 @@
           "iOSVersion": "12.4",
           "repository": "BigBoss",
           "date": "2019-08-18T21:23:43Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.wizages.bae",
+      "name": "MakeRespringsGreatAgain",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.wizages.bae/",
+      "shortDescription": "On resprings it brings back the apple logo which makes resprings great again!",
+      "category": "Tweaks",
+      "author": "wizages",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-19T04:55:11Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
