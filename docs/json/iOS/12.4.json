@@ -5959,6 +5959,39 @@
       ]
     },
     {
+      "id": "com.justinpetkovic.youtubetools",
+      "name": "YouTube Tools",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
+      "shortDescription": "Essential toolbox for YouTube app.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.4",
+          "repository": "(null)",
+          "date": "2019-08-18T18:45:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.jpet26.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
@@ -5993,21 +6026,22 @@
       ]
     },
     {
-      "id": "com.justinpetkovic.youtubetools",
-      "name": "YouTube Tools",
-      "latest": "2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
-      "shortDescription": "Essential toolbox for YouTube app.",
-      "category": "Tweaks",
-      "author": "Justin Petkovic",
+      "id": "xyz.willy.zebra",
+      "name": "Zebra (BETA)",
+      "latest": "1.0~beta19",
+      "repository": "xTM3x Repo",
+      "url": "http://cydia.saurik.com/package/xyz.willy.zebra/",
+      "shortDescription": "A Useful Package Manager",
+      "category": "Packaging",
+      "author": "Wilson Styres",
       "commercial": false,
+      "date": "2019-04-17T11:11:51Z",
       "versions": [
         {
-          "tweakVersion": "2.0",
+          "tweakVersion": "1.0~beta19",
           "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-18T18:45:33Z",
+          "repository": "xTM3x Repo",
+          "date": "2019-08-18T18:48:49Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6026,22 +6060,21 @@
       ]
     },
     {
-      "id": "xyz.willy.zebra",
-      "name": "Zebra (BETA)",
-      "latest": "1.0~beta19",
-      "repository": "xTM3x Repo",
-      "url": "http://cydia.saurik.com/package/xyz.willy.zebra/",
-      "shortDescription": "A Useful Package Manager",
-      "category": "Packaging",
-      "author": "Wilson Styres",
+      "id": "com.alexzielenski.zeppelin",
+      "name": "Zeppelin",
+      "latest": "2.1.0-12",
+      "repository": "ModMyi (Archive)",
+      "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
+      "shortDescription": "Replaces carrier text with an image!",
+      "category": "Tweaks",
+      "author": "Alex Zielenski",
       "commercial": false,
-      "date": "2019-04-17T11:11:51Z",
       "versions": [
         {
-          "tweakVersion": "1.0~beta19",
+          "tweakVersion": "2.1.0-12",
           "iOSVersion": "12.4",
-          "repository": "xTM3x Repo",
-          "date": "2019-08-18T18:48:49Z",
+          "repository": "ModMyi (Archive)",
+          "date": "2019-08-19T11:25:35Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
