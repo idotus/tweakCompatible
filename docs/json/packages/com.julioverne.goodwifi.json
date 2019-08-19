@@ -1230,9 +1230,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1267,6 +1267,15 @@
           "date": "2019-08-19T06:10:23Z",
           "userName": "jmd-aKBar",
           "issueNumber": 94619,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-19T04:29:17Z",
+          "userName": "maestronix",
+          "issueNumber": 94502,
           "arch32": false
         }
       ]
