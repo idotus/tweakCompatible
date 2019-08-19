@@ -111,6 +111,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.0.3-1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-19T16:31:39Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Tinder crashes once loaded ",
+          "date": "2019-08-19T16:31:39Z",
+          "userName": "gareth305",
+          "issueNumber": 95148,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
