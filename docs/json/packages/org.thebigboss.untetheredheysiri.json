@@ -173,6 +173,37 @@
           "arch32": true
         }
       ]
+    },
+    {
+      "tweakVersion": "1.1.1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-18T23:51:13Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone6,1",
+          "issues": "Crashes when clicking Hey Siri in settings",
+          "date": "2019-08-18T23:51:13Z",
+          "userName": "cchase9875",
+          "issueNumber": 94271,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
