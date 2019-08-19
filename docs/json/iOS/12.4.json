@@ -3029,6 +3029,40 @@
       ]
     },
     {
+      "id": "com.dpkg.customcccolor",
+      "name": "CustomCCColor",
+      "latest": "0.0.1",
+      "repository": "dpkg9510's Repo",
+      "url": "http://cydia.saurik.com/package/com.dpkg.customcccolor/",
+      "shortDescription": "Set a custom CC background color.",
+      "category": "Tweaks",
+      "author": "Mohamed Galal",
+      "commercial": false,
+      "date": "2019-03-28T03:47:36Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1",
+          "iOSVersion": "12.4",
+          "repository": "dpkg9510's Repo",
+          "date": "2019-08-19T11:51:21Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.r333d.cylinder",
       "name": "Cylinder",
       "latest": "1.0.6",
