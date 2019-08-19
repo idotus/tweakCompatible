@@ -2599,40 +2599,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.better3dmenus",
-      "name": "Better3DMenus",
-      "latest": "2.4",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
-      "shortDescription": "Better 3D-Touch Menus!",
-      "category": "Tweaks",
-      "author": "dpkg_",
-      "commercial": false,
-      "date": "2018-10-12T18:03:31Z",
-      "versions": [
-        {
-          "tweakVersion": "2.4",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T19:44:08Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.dpkg.better3dmenus",
       "name": "Better3DMenus",
       "latest": "2.4",
@@ -2653,6 +2619,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.better3dmenus",
+      "name": "Better3DMenus",
+      "latest": "2.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
+      "shortDescription": "Better 3D-Touch Menus!",
+      "category": "Tweaks",
+      "author": "dpkg_",
+      "commercial": false,
+      "date": "2018-10-12T18:03:31Z",
+      "versions": [
+        {
+          "tweakVersion": "2.4",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T19:44:08Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -16213,6 +16213,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.joshposh2012.numericwifi",
+      "name": "Numeric Wifi Enabler",
+      "latest": "1.1",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.joshposh2012.numericwifi/",
+      "shortDescription": "Settings panel to enable RSSI meter",
+      "category": "Addons",
+      "author": "Joshposh2012",
+      "commercial": false,
+      "date": "2018-03-21T05:43:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T23:12:54Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
