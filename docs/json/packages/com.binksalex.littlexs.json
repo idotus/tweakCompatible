@@ -1,7 +1,7 @@
 {
   "id": "com.binksalex.littlexs",
   "name": "LittleXS",
-  "latest": "2.3.1",
+  "latest": "2.4.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.binksalex.littlexs/",
   "shortDescription": "LittleX revitalized for iOS 12.",
@@ -871,6 +871,37 @@
           "date": "2019-08-18T05:12:28Z",
           "userName": "hsgeekz",
           "issueNumber": 94031,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.4.1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-19T11:57:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone8,2",
+          "issues": "Gestures are working. But some visual glitches on cydia",
+          "date": "2019-08-19T11:57:28Z",
+          "userName": "kskumar9663",
+          "issueNumber": 94901,
           "arch32": false
         }
       ]
