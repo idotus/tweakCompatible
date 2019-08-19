@@ -1,7 +1,7 @@
 {
   "id": "libapt-pkg5.0",
   "name": "APT 1.4 Strict (libapt-pkg)",
-  "latest": "1.8.2~b1-2",
+  "latest": "1.8.2~b2-3",
   "repository": "Bingner/Elucubratus",
   "url": "http://cydia.saurik.com/package/libapt-pkg5.0/",
   "shortDescription": "the advanced packaging library from Debian",
@@ -747,6 +747,37 @@
           "date": "2019-08-17T09:21:47Z",
           "userName": "delon5",
           "issueNumber": 94005,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.8.2~b2-3",
+      "iOSVersion": "12.2",
+      "repository": "Bingner/Elucubratus",
+      "date": "2019-08-19T10:37:13Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-19T10:37:13Z",
+          "userName": "delon5",
+          "issueNumber": 94775,
           "arch32": false
         }
       ]
