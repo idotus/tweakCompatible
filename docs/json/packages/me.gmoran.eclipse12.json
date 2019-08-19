@@ -2439,9 +2439,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2476,6 +2476,15 @@
           "date": "2019-08-19T15:16:05Z",
           "userName": "ElectronicWizard",
           "issueNumber": 95094,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,4",
+          "issues": "AppStore crashes. ",
+          "date": "2019-08-19T15:59:22Z",
+          "userName": "MrDankles",
+          "issueNumber": 95132,
           "arch32": false
         }
       ]
