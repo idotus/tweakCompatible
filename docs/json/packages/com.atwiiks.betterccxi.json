@@ -3263,9 +3263,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 5,
+        "good": 6,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3318,6 +3318,15 @@
           "date": "2019-08-19T18:27:31Z",
           "userName": "iRyanKGT",
           "issueNumber": 95241,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone6,2",
+          "issues": "Music widget looks squished so I need to use it as regular mode.",
+          "date": "2019-08-19T17:33:09Z",
+          "userName": "wooozie69",
+          "issueNumber": 95181,
           "arch32": false
         }
       ]
