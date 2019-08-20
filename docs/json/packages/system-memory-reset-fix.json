@@ -1,7 +1,7 @@
 {
   "id": "system-memory-reset-fix",
   "name": "System Memory Reset Fix",
-  "latest": "1.0",
+  "latest": "2.0",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/system-memory-reset-fix/",
   "shortDescription": "Prevent overnight userspace reboots triggered by mmaintenanced",
@@ -445,9 +445,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -464,6 +464,15 @@
           "date": "2019-08-19T10:44:38Z",
           "userName": "metoonhathung",
           "issueNumber": 94788,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-20T14:49:32Z",
+          "userName": "ZerOneX",
+          "issueNumber": 95887,
           "arch32": false
         }
       ]
