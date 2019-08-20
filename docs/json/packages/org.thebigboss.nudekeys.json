@@ -2706,11 +2706,11 @@
       "repository": "BigBoss",
       "date": "2019-08-20T05:22:05Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2727,6 +2727,15 @@
           "date": "2019-08-20T05:22:05Z",
           "userName": "AndrewHocking",
           "issueNumber": 95647,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "Crashes some apps when keyboard pops up",
+          "date": "2019-08-20T06:36:27Z",
+          "userName": "Unquieterpig",
+          "issueNumber": 95715,
           "arch32": false
         }
       ]
