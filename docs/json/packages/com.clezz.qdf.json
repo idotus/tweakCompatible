@@ -1,7 +1,7 @@
 {
   "id": "com.clezz.qdf",
   "name": "QuickDo (Activator)",
-  "latest": "3.9.3",
+  "latest": "3.9.5~beta1",
   "repository": "Clezz.com",
   "url": "http://cydia.saurik.com/package/com.clezz.qdf/",
   "shortDescription": "Gestures, shortcuts, toggles, app switcher and multitasking management for iOS.",
@@ -68,6 +68,37 @@
           "date": "2018-07-23T13:24:24Z",
           "userName": "treey1224",
           "issueNumber": 32777,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.9.5~beta1",
+      "iOSVersion": "10.2.1",
+      "repository": "Clezz.com",
+      "date": "2018-03-14T15:57:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2018-03-14T15:57:54Z",
+          "userName": "huphup",
+          "issueNumber": 6341,
           "arch32": false
         }
       ]
