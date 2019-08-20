@@ -164,6 +164,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.1",
+      "iOSVersion": "12.4",
+      "repository": "rpetrich repo",
+      "date": "2019-08-20T15:42:02Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Crashes the app when sliding ",
+          "date": "2019-08-20T15:42:02Z",
+          "userName": "jdavidrpp",
+          "issueNumber": 95923,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
