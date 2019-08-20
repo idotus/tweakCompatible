@@ -1,7 +1,7 @@
 {
   "id": "com.spark.melior",
   "name": "melior",
-  "latest": "1.0.6-1",
+  "latest": "1.1.0-1",
   "repository": "Spark's Beta Repo",
   "url": "http://cydia.saurik.com/package/com.spark.melior/",
   "shortDescription": "Custom volume HUD",
@@ -2019,9 +2019,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 4,
+        "good": 5,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2065,6 +2065,15 @@
           "date": "2019-08-19T03:15:28Z",
           "userName": "Hzllaga",
           "issueNumber": 94445,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-08-20T04:56:14Z",
+          "userName": "Hockeyplayer46",
+          "issueNumber": 95617,
           "arch32": false
         }
       ]
