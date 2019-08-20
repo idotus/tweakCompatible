@@ -2434,11 +2434,11 @@
       "repository": "BigBoss",
       "date": "2019-08-18T16:48:34Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2482,6 +2482,15 @@
           "date": "2019-08-19T19:45:23Z",
           "userName": "dwitzman",
           "issueNumber": 95316,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-08-20T16:06:23Z",
+          "userName": "mid9",
+          "issueNumber": 95935,
           "arch32": false
         }
       ]
