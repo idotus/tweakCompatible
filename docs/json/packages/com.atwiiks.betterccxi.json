@@ -3263,9 +3263,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 6,
+        "good": 7,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3327,6 +3327,15 @@
           "date": "2019-08-19T17:33:09Z",
           "userName": "wooozie69",
           "issueNumber": 95181,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,4",
+          "issues": "Music module not showing controls and glitching visually",
+          "date": "2019-08-20T15:57:06Z",
+          "userName": "Sgtsmacksmith",
+          "issueNumber": 95927,
           "arch32": false
         }
       ]
