@@ -222,6 +222,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "3.0.1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-20T21:34:04Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "Seems to be working fine so far, but worthy of further testing!",
+          "date": "2019-08-20T21:34:04Z",
+          "userName": "neoncarnation",
+          "issueNumber": 96037,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
