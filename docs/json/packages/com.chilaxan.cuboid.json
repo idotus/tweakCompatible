@@ -638,10 +638,10 @@
       "date": "2019-08-19T11:47:05Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 83,
-        "good": 5,
+        "percentage": 85,
+        "good": 6,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -703,6 +703,15 @@
           "date": "2019-08-19T19:43:35Z",
           "userName": "sevenpastzeero",
           "issueNumber": 95305,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-20T14:08:55Z",
+          "userName": "Matt-London",
+          "issueNumber": 95854,
           "arch32": false
         }
       ]
