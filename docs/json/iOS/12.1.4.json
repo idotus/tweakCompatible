@@ -6451,6 +6451,40 @@
       ]
     },
     {
+      "id": "idv.aqua.igg12.speed",
+      "name": "iGG 12 Speed",
+      "latest": "12.0.4",
+      "repository": "iGG",
+      "url": "http://cydia.saurik.com/package/idv.aqua.igg12.speed/",
+      "shortDescription": "iGameGuardian is a memory editor for iOS 8 to 12.",
+      "category": "Utilities",
+      "author": "Aqua Wu",
+      "commercial": false,
+      "date": "2019-06-11T19:14:35Z",
+      "versions": [
+        {
+          "tweakVersion": "12.0.4",
+          "iOSVersion": "12.1.4",
+          "repository": "iGG",
+          "date": "2019-08-20T23:19:23Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "idv.aqua.igg12",
       "name": "iGG 12 Stable",
       "latest": "12.0.4",
@@ -13370,6 +13404,40 @@
       ]
     },
     {
+      "id": "cydia.kiiimo.org.xenhtml",
+      "name": "Xen HTML",
+      "latest": "0.5-2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
+      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-07-28T21:20:26Z",
+      "versions": [
+        {
+          "tweakVersion": "0.5-2",
+          "iOSVersion": "12.1.4",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-28T21:20:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
       "latest": "0.5.5-6",
@@ -13412,40 +13480,6 @@
             "good": 1,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "cydia.kiiimo.org.xenhtml",
-      "name": "Xen HTML",
-      "latest": "0.5-2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
-      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-07-28T21:20:26Z",
-      "versions": [
-        {
-          "tweakVersion": "0.5-2",
-          "iOSVersion": "12.1.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-28T21:20:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
