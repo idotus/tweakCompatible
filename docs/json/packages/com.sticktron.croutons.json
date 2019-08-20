@@ -921,11 +921,11 @@
       "repository": "BigBoss",
       "date": "2019-08-18T18:50:19Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -951,6 +951,15 @@
           "date": "2019-08-19T19:43:11Z",
           "userName": "sevenpastzeero",
           "issueNumber": 95303,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Tweak does nothing. Installs fine, no crashes, no errors. Just doesn’t do anything.",
+          "date": "2019-08-20T05:18:06Z",
+          "userName": "AndrewHocking",
+          "issueNumber": 95632,
           "arch32": false
         }
       ]
