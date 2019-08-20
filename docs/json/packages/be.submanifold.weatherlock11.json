@@ -1,7 +1,7 @@
 {
   "id": "be.submanifold.weatherlock11",
   "name": "WeatherLock",
-  "latest": "0.0.1-95+debug",
+  "latest": "0.0.1-135+debug",
   "repository": "rainwolf's beta repo",
   "url": "http://cydia.saurik.com/package/be.submanifold.weatherlock11/",
   "shortDescription": "animated weather background on the lock and home screen",
@@ -343,6 +343,37 @@
           "date": "2018-08-14T22:34:37Z",
           "userName": "neu-mis-info6150-fall20l7",
           "issueNumber": 43695,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1-135+debug",
+      "iOSVersion": "12.4",
+      "repository": "rainwolf's beta repo",
+      "date": "2019-08-20T10:43:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-08-20T10:43:38Z",
+          "userName": "Johnpartyk",
+          "issueNumber": 95791,
           "arch32": false
         }
       ]
