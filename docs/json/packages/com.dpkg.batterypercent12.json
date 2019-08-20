@@ -689,10 +689,10 @@
       "date": "2019-08-18T19:48:12Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -727,6 +727,15 @@
           "date": "2019-08-20T05:33:24Z",
           "userName": "jkash4",
           "issueNumber": 95664,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-08-20T18:17:48Z",
+          "userName": "VanishingTacos",
+          "issueNumber": 95976,
           "arch32": false
         }
       ]
