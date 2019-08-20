@@ -1,7 +1,7 @@
 {
   "id": "com.niceios.nicebarx",
   "name": "NiceBarX",
-  "latest": "2.0.5.1-1",
+  "latest": "2.0.5.2-1",
   "repository": "NiceiOS",
   "url": "http://cydia.saurik.com/package/com.niceios.nicebarx/",
   "shortDescription": "statusbar tweak..",
@@ -232,6 +232,37 @@
           "date": "2019-08-20T08:33:41Z",
           "userName": "delon5",
           "issueNumber": 95735,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.5.2-1",
+      "iOSVersion": "12.2",
+      "repository": "NiceiOS",
+      "date": "2019-08-20T10:51:52Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-20T10:51:52Z",
+          "userName": "delon5",
+          "issueNumber": 95793,
           "arch32": false
         }
       ]
