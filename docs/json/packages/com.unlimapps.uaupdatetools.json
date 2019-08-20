@@ -5152,7 +5152,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5205,6 +5205,15 @@
           "date": "2019-08-16T14:00:30Z",
           "userName": "humzariaz",
           "issueNumber": 93969,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "Crashes the Appstore when trying to downgrade",
+          "date": "2019-08-20T08:07:00Z",
+          "userName": "Shengheer",
+          "issueNumber": 95732,
           "arch32": false
         }
       ]
