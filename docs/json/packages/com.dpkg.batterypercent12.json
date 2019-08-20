@@ -688,11 +688,11 @@
       "repository": "BigBoss",
       "date": "2019-08-18T19:48:12Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -718,6 +718,15 @@
           "date": "2019-08-19T12:40:21Z",
           "userName": "ekatuck",
           "issueNumber": 94938,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "iphone 7",
+          "date": "2019-08-20T05:33:24Z",
+          "userName": "jkash4",
+          "issueNumber": 95664,
           "arch32": false
         }
       ]
