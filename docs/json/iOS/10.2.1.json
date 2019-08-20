@@ -4680,6 +4680,39 @@
       ]
     },
     {
+      "id": "com.golddavid.colorflow3",
+      "name": "ColorFlow 3 (iOS 10)",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.golddavid.colorflow3/",
+      "shortDescription": "Colorful music revolutions.",
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.0.5",
+          "iOSVersion": "10.2.1",
+          "repository": "BigBoss",
+          "date": "2018-08-10T03:09:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "repo.biteyourapple.net.colorflow3",
       "name": "ColorFlow 3 (iOS 10)",
       "latest": "1.0.5",
@@ -4714,39 +4747,6 @@
           "iOSVersion": "10.2.1",
           "repository": "repo.biteyourapple.net",
           "date": "2018-03-31T07:05:00Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.golddavid.colorflow3",
-      "name": "ColorFlow 3 (iOS 10)",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.golddavid.colorflow3/",
-      "shortDescription": "Colorful music revolutions.",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5",
-          "iOSVersion": "10.2.1",
-          "repository": "BigBoss",
-          "date": "2018-08-10T03:09:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6087,38 +6087,6 @@
       ]
     },
     {
-      "id": "repo.biteyourapple.net.eclipse4",
-      "name": "Eclipse 4 (iOS 10)",
-      "latest": "4.1.3",
-      "repository": "repo.biteyourapple.net",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "System-wide Night Mode and more for iOS 10.",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "4.1.1",
-          "iOSVersion": "10.2.1",
-          "repository": "repo.biteyourapple.net",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.thebigboss.eclipse4",
       "name": "Eclipse 4 (iOS 10)",
       "latest": "4.1.3-1",
@@ -6154,6 +6122,38 @@
           "iOSVersion": "10.2.1",
           "repository": "BigBoss",
           "date": "2019-02-23T05:13:35Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "repo.biteyourapple.net.eclipse4",
+      "name": "Eclipse 4 (iOS 10)",
+      "latest": "4.1.3",
+      "repository": "repo.biteyourapple.net",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "System-wide Night Mode and more for iOS 10.",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "4.1.1",
+          "iOSVersion": "10.2.1",
+          "repository": "repo.biteyourapple.net",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12564,6 +12564,40 @@
       ]
     },
     {
+      "id": "net.crazy.resetallkiller",
+      "name": "ResetAllKiller",
+      "latest": "1.0.2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/net.crazy.resetallkiller/",
+      "shortDescription": "disable dangerous Reset buttons in Settings App",
+      "category": "Tweaks",
+      "author": "Lunatik",
+      "commercial": false,
+      "date": "2018-04-08T11:29:56Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.2",
+          "iOSVersion": "10.2.1",
+          "repository": "BigBoss",
+          "date": "2018-03-14T15:59:03Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.codyqx4.respring",
       "name": "Respring",
       "latest": "1.0",
@@ -12889,6 +12923,40 @@
           "iOSVersion": "10.2.1",
           "repository": "BigBoss",
           "date": "2018-08-22T04:28:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ziph0n.safarifullscreenscrolling",
+      "name": "SafariFullScreenScrolling",
+      "latest": "1.0",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.ziph0n.safarifullscreenscrolling/",
+      "shortDescription": "Enable Fullscreen Scrolling in Safari!",
+      "category": "Tweaks",
+      "author": "Ziph0n",
+      "commercial": false,
+      "date": "2018-02-28T00:30:58Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "10.2.1",
+          "repository": "BigBoss",
+          "date": "2018-03-14T15:59:17Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
