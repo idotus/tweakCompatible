@@ -1015,11 +1015,11 @@
       "repository": "BigBoss",
       "date": "2019-08-19T03:57:03Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1036,6 +1036,15 @@
           "date": "2019-08-19T03:57:03Z",
           "userName": "flyplt",
           "issueNumber": 94467,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-20T14:20:25Z",
+          "userName": "rozzimann96",
+          "issueNumber": 95859,
           "arch32": false
         }
       ]
