@@ -5318,10 +5318,10 @@
       "date": "2019-08-18T23:05:29Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 23,
+        "percentage": 22,
         "good": 4,
         "bad": 0,
-        "total": 17,
+        "total": 18,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5482,6 +5482,15 @@
           "date": "2019-08-20T13:04:21Z",
           "userName": "Dougboy1989",
           "issueNumber": 95831,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "I Hope becomes Update ",
+          "date": "2019-08-20T14:50:52Z",
+          "userName": "darkmoon980",
+          "issueNumber": 95892,
           "arch32": false
         }
       ]
