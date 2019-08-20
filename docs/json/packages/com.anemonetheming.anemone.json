@@ -6250,7 +6250,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -6267,6 +6267,15 @@
           "date": "2019-08-19T22:59:24Z",
           "userName": "pigeon-man",
           "issueNumber": 95434,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-19T23:50:35Z",
+          "userName": "Danski718",
+          "issueNumber": 95466,
           "arch32": false
         }
       ]
