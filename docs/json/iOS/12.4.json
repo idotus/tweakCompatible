@@ -2682,6 +2682,39 @@
       ]
     },
     {
+      "id": "com.cpdigitaldarkroom.barmoji",
+      "name": "Barmoji",
+      "latest": "1.9",
+      "repository": "CP Digital Darkroom Beta Repo",
+      "url": "http://beta.cpdigitaldarkroom.com/",
+      "shortDescription": "Quick emoji access for iPhone X",
+      "category": "Tweaks",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.9",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-18T21:24:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 4,
+            "bad": 0,
+            "total": 4,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.barmoji",
       "name": "Barmoji",
       "latest": "1.9",
@@ -2704,39 +2737,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.cpdigitaldarkroom.barmoji",
-      "name": "Barmoji",
-      "latest": "1.9",
-      "repository": "CP Digital Darkroom Beta Repo",
-      "url": "http://beta.cpdigitaldarkroom.com/",
-      "shortDescription": "Quick emoji access for iPhone X",
-      "category": "Tweaks",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.9",
-          "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-18T21:24:53Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 4,
-            "bad": 0,
-            "total": 4,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -3195,40 +3195,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.better3dmenus",
-      "name": "Better3DMenus",
-      "latest": "2.4",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
-      "shortDescription": "Better 3D-Touch Menus!",
-      "category": "Tweaks",
-      "author": "dpkg_",
-      "commercial": false,
-      "date": "2018-10-12T18:03:31Z",
-      "versions": [
-        {
-          "tweakVersion": "2.4",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T19:44:08Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.dpkg.better3dmenus",
       "name": "Better3DMenus",
       "latest": "2.4",
@@ -3249,6 +3215,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.better3dmenus",
+      "name": "Better3DMenus",
+      "latest": "2.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
+      "shortDescription": "Better 3D-Touch Menus!",
+      "category": "Tweaks",
+      "author": "dpkg_",
+      "commercial": false,
+      "date": "2018-10-12T18:03:31Z",
+      "versions": [
+        {
+          "tweakVersion": "2.4",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T19:44:08Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -3331,40 +3331,6 @@
       ]
     },
     {
-      "id": "com.atwiiks.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.4.10",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.atwiiks.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11 & 12",
-      "category": "Tweaks",
-      "author": "ATWiiks",
-      "commercial": true,
-      "date": "2018-06-28T13:55:34Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.10",
-          "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-18T18:52:08Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 6,
-            "bad": 0,
-            "total": 6,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.10",
@@ -3387,6 +3353,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.atwiiks.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.4.10",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.atwiiks.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11 & 12",
+      "category": "Tweaks",
+      "author": "ATWiiks",
+      "commercial": true,
+      "date": "2018-06-28T13:55:34Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.10",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-18T18:52:08Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 6,
+            "bad": 0,
+            "total": 6,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -23612,6 +23612,40 @@
       ]
     },
     {
+      "id": "com.noisyflake.shortcutenabler",
+      "name": "ShortcutEnabler",
+      "latest": "1.1.4",
+      "repository": "NoisyFlake",
+      "url": "http://cydia.saurik.com/package/com.noisyflake.shortcutenabler/",
+      "shortDescription": "Enable and move the lockscreen flashlight / camera buttons on all devices.",
+      "category": "Tweaks",
+      "author": "NoisyFlake",
+      "commercial": false,
+      "date": "2019-03-03T18:10:46Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1.4",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-20T10:43:10Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "co.dynastic.ios.tweak.shortlook",
       "name": "ShortLook",
       "latest": "1.0.15.1",
@@ -24550,22 +24584,21 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2.packix",
+      "id": "com.jontelang.snapper2",
       "name": "Snapper 2",
-      "latest": "2.1",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
+      "latest": "1.4.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger-lang",
+      "author": "Jonathan Winger Lang",
       "commercial": true,
-      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "2.1",
+          "tweakVersion": "1.4.2",
           "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-19T04:27:09Z",
+          "repository": "BigBoss",
+          "date": "2019-08-19T04:31:42Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -24584,21 +24617,22 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2",
+      "id": "com.jontelang.snapper2.packix",
       "name": "Snapper 2",
-      "latest": "1.4.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
+      "latest": "2.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger Lang",
+      "author": "Jonathan Winger-lang",
       "commercial": true,
+      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "1.4.2",
+          "tweakVersion": "2.1",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T04:31:42Z",
+          "repository": "Packix",
+          "date": "2019-08-19T04:27:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
