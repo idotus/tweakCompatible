@@ -1,7 +1,7 @@
 {
   "id": "com.kaitouiet.fastforwardtime",
   "name": "FastForwardTime",
-  "latest": "2.0.1",
+  "latest": "2.0.2",
   "repository": "iDevice Hacked Repo",
   "url": "http://cydia.saurik.com/package/com.kaitouiet.fastforwardtime/",
   "shortDescription": "Adds seconds to your lockscreen clock, change font size of time and date, and moves them!",
@@ -1027,6 +1027,37 @@
           "date": "2019-08-19T19:43:35Z",
           "userName": "shepgoba",
           "issueNumber": 95306,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0.2",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-20T17:14:00Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Respring loop",
+          "date": "2019-08-20T17:14:00Z",
+          "userName": "oneking99",
+          "issueNumber": 95961,
           "arch32": false
         }
       ]
