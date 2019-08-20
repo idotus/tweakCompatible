@@ -9274,11 +9274,11 @@
       "repository": "tigisoftware.com",
       "date": "2019-08-20T00:44:46Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -9295,6 +9295,15 @@
           "date": "2019-08-20T00:44:46Z",
           "userName": "Andrew0002",
           "issueNumber": 95477,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "this is 32 bit",
+          "date": "2019-08-20T10:34:43Z",
+          "userName": "Assfugil",
+          "issueNumber": 95775,
           "arch32": false
         }
       ]
