@@ -2699,6 +2699,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "4.3",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-20T05:22:05Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Crashes some apps when keyboard appears, also customization doesn’t work for the most part.",
+          "date": "2019-08-20T05:22:05Z",
+          "userName": "AndrewHocking",
+          "issueNumber": 95647,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
