@@ -5318,10 +5318,10 @@
       "date": "2019-08-18T23:05:29Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 21,
+        "percentage": 20,
         "good": 4,
         "bad": 0,
-        "total": 19,
+        "total": 20,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5500,6 +5500,15 @@
           "date": "2019-08-20T16:11:57Z",
           "userName": "lewii0701",
           "issueNumber": 95937,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-08-20T16:01:53Z",
+          "userName": "chris15joseph",
+          "issueNumber": 95929,
           "arch32": false
         }
       ]
