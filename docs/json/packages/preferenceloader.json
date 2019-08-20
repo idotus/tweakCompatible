@@ -1,7 +1,7 @@
 {
   "id": "preferenceloader",
   "name": "PreferenceLoader",
-  "latest": "2.2.3-3",
+  "latest": "2.2.4~beta1",
   "repository": "rpetrich repo",
   "url": "http://cydia.saurik.com/package/preferenceloader/",
   "shortDescription": "load preferences in style",
@@ -2133,9 +2133,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2170,6 +2170,15 @@
           "date": "2019-08-19T05:41:33Z",
           "userName": "jkister",
           "issueNumber": 94582,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-20T16:48:41Z",
+          "userName": "Stoppels",
+          "issueNumber": 95955,
           "arch32": false
         }
       ]
