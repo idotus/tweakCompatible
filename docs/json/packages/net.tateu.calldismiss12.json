@@ -149,11 +149,11 @@
       "repository": "tateu's repo",
       "date": "2019-08-19T12:20:58Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -170,6 +170,15 @@
           "date": "2019-08-19T12:20:58Z",
           "userName": "txdaniel55",
           "issueNumber": 94920,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-08-20T01:58:14Z",
+          "userName": "MFRehan",
+          "issueNumber": 95511,
           "arch32": false
         }
       ]
