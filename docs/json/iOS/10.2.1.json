@@ -12462,6 +12462,40 @@
       ]
     },
     {
+      "id": "org.thebigboss.remindersforlockscreen",
+      "name": "Reminders for Lockscreen",
+      "latest": "1.6.1-4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.remindersforlockscreen/",
+      "shortDescription": "Displays reminders on lockscreen",
+      "category": "Tweaks",
+      "author": "VladMax Soft",
+      "commercial": true,
+      "date": "2018-03-14T15:58:48Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6.1-4",
+          "iOSVersion": "10.2.1",
+          "repository": "BigBoss",
+          "date": "2018-03-14T15:58:48Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.kushy.renovare",
       "name": "Renovare",
       "latest": "1.1-1",
@@ -14180,20 +14214,22 @@
       ]
     },
     {
-      "id": "com.springtomize.st4",
+      "id": "com.hackyouriphone.st4",
       "name": "Springtomize 4 (iOS 10)",
       "latest": "3",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.springtomize.st4/",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.st4/",
       "shortDescription": "Customize your device like never before.",
-      "category": "Tweaks",
+      "category": "HYI - Tweaks",
       "author": "Filippo & Janosch",
-      "commercial": true,
+      "commercial": false,
+      "date": "2018-03-15T03:10:56Z",
       "versions": [
         {
           "tweakVersion": "3",
           "iOSVersion": "10.2.1",
-          "repository": "BigBoss",
+          "repository": "HackYouriPhone",
+          "date": "2018-07-10T02:25:38Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14212,22 +14248,20 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.st4",
+      "id": "com.springtomize.st4",
       "name": "Springtomize 4 (iOS 10)",
       "latest": "3",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.st4/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.springtomize.st4/",
       "shortDescription": "Customize your device like never before.",
-      "category": "HYI - Tweaks",
+      "category": "Tweaks",
       "author": "Filippo & Janosch",
-      "commercial": false,
-      "date": "2018-03-15T03:10:56Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "3",
           "iOSVersion": "10.2.1",
-          "repository": "HackYouriPhone",
-          "date": "2018-07-10T02:25:38Z",
+          "repository": "BigBoss",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15297,6 +15331,38 @@
       ]
     },
     {
+      "id": "repo.biteyourapple.net.tinybar",
+      "name": "TinyBar",
+      "latest": "0.1.5-1+debug",
+      "repository": "BiteYourApple",
+      "url": "http://repo.biteyourapple.net/",
+      "shortDescription": "Thins notification banners down to size!",
+      "category": "BYA Apps",
+      "author": "BYA Repository",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.1.5-1+debug",
+          "iOSVersion": "10.2.1",
+          "repository": "BiteYourApple",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.alexzielenski.updatedtinybar",
       "name": "TinyBar",
       "latest": "0.2.0",
@@ -15324,38 +15390,6 @@
               "bad": 0,
               "percentage": 100,
               "calculatedStatus": "Working"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "repo.biteyourapple.net.tinybar",
-      "name": "TinyBar",
-      "latest": "0.1.5-1+debug",
-      "repository": "BiteYourApple",
-      "url": "http://repo.biteyourapple.net/",
-      "shortDescription": "Thins notification banners down to size!",
-      "category": "BYA Apps",
-      "author": "BYA Repository",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.1.5-1+debug",
-          "iOSVersion": "10.2.1",
-          "repository": "BiteYourApple",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
             }
           }
         }
