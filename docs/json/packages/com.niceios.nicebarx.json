@@ -204,6 +204,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.0.5.1-1",
+      "iOSVersion": "12.2",
+      "repository": "NiceiOS",
+      "date": "2019-08-20T03:32:54Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-20T03:32:54Z",
+          "userName": "delon5",
+          "issueNumber": 95589,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
