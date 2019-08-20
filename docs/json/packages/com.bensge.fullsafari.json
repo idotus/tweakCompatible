@@ -1047,9 +1047,9 @@
       "repository": "LonestarX's repo",
       "date": "2019-08-19T10:49:20Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 25,
-        "good": 1,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 2,
         "bad": 0,
         "total": 4,
         "arch32": {
@@ -1071,15 +1071,6 @@
           "arch32": false
         },
         {
-          "status": "not working",
-          "device": "iPhone10,5",
-          "issues": "Crashes Safari",
-          "date": "2019-08-19T03:08:06Z",
-          "userName": "starmega",
-          "issueNumber": 94437,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone9,2",
           "issues": "Safari Plus",
@@ -1095,6 +1086,15 @@
           "date": "2019-08-20T15:59:43Z",
           "userName": "mid9",
           "issueNumber": 95928,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-20T19:13:50Z",
+          "userName": "starmega",
+          "issueNumber": 95981,
           "arch32": false
         }
       ]
