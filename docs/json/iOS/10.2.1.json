@@ -139,7 +139,7 @@
     {
       "id": "com.ianas.acehighsierra",
       "name": "Ace High Sierra",
-      "latest": "3.0",
+      "latest": "5.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.ianas.acehighsierra/",
       "shortDescription": "High Sierra theme for iOS",
@@ -1904,7 +1904,7 @@
     {
       "id": "applist",
       "name": "AppList",
-      "latest": "1.5.15~beta1",
+      "latest": "1.5.14",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/applist/",
       "shortDescription": "Allow extensions to read the list of installed apps",
@@ -1957,10 +1957,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.4.2",
+      "latest": "1.5.0-12",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -3511,7 +3511,7 @@
     {
       "id": "com.bytafont.bytafont3",
       "name": "BytaFont 3",
-      "latest": "3.5",
+      "latest": "3.6",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.bytafont.bytafont3/",
       "shortDescription": "BytaFont 3 lets you apply fonts to your iDevice in few taps.",
@@ -3563,10 +3563,10 @@
     {
       "id": "com.bytafont.bytafonttm",
       "name": "BytaFont Tweak Mode",
-      "latest": "1.1.7",
+      "latest": "3.6",
       "repository": "BytaFont",
       "url": "http://repo.bytafont.com/latest/",
-      "shortDescription": "BytaFont Tweak Mode",
+      "shortDescription": "BytaFont Tweak Mode for BytaFont 3.",
       "category": "Tweaks",
       "author": "BytaFont.com",
       "commercial": false,
@@ -4680,39 +4680,6 @@
       ]
     },
     {
-      "id": "com.golddavid.colorflow3",
-      "name": "ColorFlow 3 (iOS 10)",
-      "latest": "1.0.5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.golddavid.colorflow3/",
-      "shortDescription": "Colorful music revolutions.",
-      "category": "Tweaks",
-      "author": "David Goldman",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.0.5",
-          "iOSVersion": "10.2.1",
-          "repository": "BigBoss",
-          "date": "2018-08-10T03:09:01Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "repo.biteyourapple.net.colorflow3",
       "name": "ColorFlow 3 (iOS 10)",
       "latest": "1.0.5",
@@ -4747,6 +4714,39 @@
           "iOSVersion": "10.2.1",
           "repository": "repo.biteyourapple.net",
           "date": "2018-03-31T07:05:00Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.golddavid.colorflow3",
+      "name": "ColorFlow 3 (iOS 10)",
+      "latest": "1.0.5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.golddavid.colorflow3/",
+      "shortDescription": "Colorful music revolutions.",
+      "category": "Tweaks",
+      "author": "David Goldman",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.0.5",
+          "iOSVersion": "10.2.1",
+          "repository": "BigBoss",
+          "date": "2018-08-10T03:09:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4903,10 +4903,10 @@
     {
       "id": "com.iarrays.copic2",
       "name": "Copic 2",
-      "latest": "1.0.11",
+      "latest": "1.0.12-beta-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.iarrays.copic2/",
-      "shortDescription": "Display the Contact pictures everywhere on your iPhone",
+      "shortDescription": "The new Copic 2 is totally redesigned, optimized and rebuild from the scratch. Now brings the ability to display the Contact pictures everywhere on your iPhone.Integrates seamlessly with stock Contacts, FaceTime, Mail, Messages and Phone apps. The best part of this tweak is it also integrates with WhatsApp & infamous tweak Recents 2 too. Also integrates with locks screen and Notification Center. Brings ability to turn on or off monograms or show rounded or rectangular images and many more features.",
       "category": "Tweaks",
       "author": "IArrays",
       "commercial": false,
@@ -4989,7 +4989,7 @@
     {
       "id": "com.muirey03.cr4shed",
       "name": "Cr4shed",
-      "latest": "2.0.8",
+      "latest": "2.0.9",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.muirey03.cr4shed/",
       "shortDescription": "More useful crash logs",
@@ -5254,10 +5254,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "99.2",
+      "latest": "0.9.7033",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "Compatibility wrapper for Substrate tweaks to work with Tweak Injector + Substitute",
+      "shortDescription": "powerful code insertion platform",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -6781,7 +6781,7 @@
     {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
-      "latest": "3.6.4",
+      "latest": "3.7.0-18",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+",
@@ -7005,7 +7005,7 @@
     {
       "id": "flex3beta",
       "name": "Flex 3 Beta",
-      "latest": "3~Beta63",
+      "latest": "3~Beta62",
       "repository": "Delta",
       "url": "http://getdelta.co/",
       "shortDescription": "Develop your own tweaks and share them on the Flex Community Cloud",
@@ -7336,7 +7336,7 @@
     {
       "id": "com.dgh0st.force3dappshortcuts",
       "name": "Force3DAppShortcuts",
-      "latest": "0.0.4",
+      "latest": "0.0.5",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dgh0st.force3dappshortcuts/",
       "shortDescription": "Enable 3D touch shortcuts on homescreen for older devices.",
@@ -8195,10 +8195,10 @@
     {
       "id": "com.faz.iconcert",
       "name": "IconCert",
-      "latest": "1.4-1",
+      "latest": "1.4-z",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.faz.iconcert/",
-      "shortDescription": "shows cert info on yalu icon.",
+      "shortDescription": "shows cert info on jailbreak app icon.",
       "category": "Tweaks",
       "author": "faz",
       "commercial": false,
@@ -8531,7 +8531,7 @@
     {
       "id": "com.unlimapps.gramplus",
       "name": "Instagram ++",
-      "latest": "1.8r-263",
+      "latest": "1.8r-274",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "Download & Copy Instagram media",
@@ -9460,7 +9460,7 @@
     {
       "id": "com.creaturesurvive.libcscolorpicker",
       "name": "libCSColorPicker",
-      "latest": "1.0",
+      "latest": "1.0.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.creaturesurvive.libcscolorpicker/",
       "shortDescription": "A minimal color picker library for developers",
@@ -9553,7 +9553,7 @@
     {
       "id": "com.creaturecoding.libcspreferences",
       "name": "libCSPreferences",
-      "latest": "1.2.0",
+      "latest": "1.1.6",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.libcspreferences/",
       "shortDescription": "A Preference Library that doesn't suck!",
@@ -9889,7 +9889,7 @@
     {
       "id": "com.tweakingsdev.lithiumion",
       "name": "Lithium Ion",
-      "latest": "1.3.1.1",
+      "latest": "1.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tweakingsdev.lithiumion/",
       "shortDescription": "Ultimate Battery Customization",
@@ -10445,10 +10445,10 @@
     {
       "id": "com.wizages.bae",
       "name": "MakeRespringsGreatAgain",
-      "latest": "2.0",
+      "latest": "1.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.wizages.bae/",
-      "shortDescription": "On resprings it brings back the apple logo which makes resprings great again!",
+      "shortDescription": "brings back the apple logo for resprings",
       "category": "Tweaks",
       "author": "wizages",
       "commercial": false,
@@ -10866,7 +10866,7 @@
     {
       "id": "com.mshl.munewidgetneon",
       "name": "Mune - Neon Edition",
-      "latest": "1.1",
+      "latest": "1.3.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.mshl.munewidgetneon/",
       "shortDescription": "Simple Lockscreen & Homescreen widgets",
@@ -12020,7 +12020,7 @@
       "latest": "4.4.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dave1482.powerapp/",
-      "shortDescription": "Reboot, Shutdown, Respring, and more easily —  Supports iOS 3.0-iOS 12.1.2+",
+      "shortDescription": "Reboot, Shutdown, Respring, and more easily —  Supports iOS 3.0-iOS 12.4+",
       "category": "Utilities",
       "author": "Dave1482",
       "commercial": false,
@@ -12175,7 +12175,7 @@
     {
       "id": "preferenceloader",
       "name": "PreferenceLoader",
-      "latest": "2.2.4~beta1",
+      "latest": "2.2.3-3",
       "repository": "rpetrich repo",
       "url": "http://cydia.saurik.com/package/preferenceloader/",
       "shortDescription": "load preferences in style",
@@ -12876,7 +12876,7 @@
     {
       "id": "com.opa334.safariplus",
       "name": "Safari Plus",
-      "latest": "1.7",
+      "latest": "1.7.1-2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.safariplus/",
       "shortDescription": "Various enhancements to Safari!",
@@ -13534,10 +13534,10 @@
     {
       "id": "com.abcapps.snapplus",
       "name": "Snap + for Snapchat",
-      "latest": "1.7r-58",
+      "latest": "1.6r-111",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
-      "shortDescription": "Extend Snapchat! Formerly AppPlus. Save/Share Snaps. Upload photos/videos from gallery. Works on the latest version of SnapChat!",
+      "shortDescription": "Save/share SC snaps & upload from gallery; formerly AppPlus",
       "category": "Tweaks",
       "author": "UnlimApps Inc.",
       "commercial": false,
@@ -14211,10 +14211,10 @@
     {
       "id": "org.thebigboss.swipeformore",
       "name": "SwipeForMore",
-      "latest": "1.1.10",
+      "latest": "1.1.7",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/org.thebigboss.swipeformore/",
-      "shortDescription": "Manage Cydia packages via swipe.",
+      "shortDescription": "Manage packages via swipe.",
       "category": "Tweaks",
       "author": "PoomSmart",
       "commercial": false,
@@ -14428,7 +14428,7 @@
     {
       "id": "com.c1d3r.switches",
       "name": "Switches",
-      "latest": "1.4-5",
+      "latest": "2.1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.c1d3r.switches/",
       "shortDescription": "Add a little flair to your switches",
@@ -15945,6 +15945,40 @@
       ]
     },
     {
+      "id": "com.bensge.wipi",
+      "name": "WiPi",
+      "latest": "1.5.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.bensge.wipi/",
+      "shortDescription": "Show the WiFi Picker with Activator gesture",
+      "category": "Tweaks",
+      "author": "Bensge",
+      "commercial": false,
+      "date": "2018-03-02T16:02:52Z",
+      "versions": [
+        {
+          "tweakVersion": "1.5.1",
+          "iOSVersion": "10.2.1",
+          "repository": "BigBoss",
+          "date": "2018-03-14T16:07:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.julioverne.wishdia",
       "name": "WishDia",
       "latest": "0.0~beta1",
@@ -16049,7 +16083,7 @@
     {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.5.4",
+      "latest": "0.5.5-6",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
