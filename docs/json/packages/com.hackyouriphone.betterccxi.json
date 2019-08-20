@@ -1,10 +1,10 @@
 {
   "id": "com.hackyouriphone.betterccxi",
   "name": "BetterCCXI",
-  "latest": "1.1.9.2",
+  "latest": "1.4.10",
   "repository": "HackYouriPhone",
   "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
-  "shortDescription": "Enhance your control center on iOS 11",
+  "shortDescription": "Enhance your control center on iOS 11 & 12",
   "category": "HYI - Tweaks",
   "author": "ATWiiks",
   "commercial": false,
@@ -188,6 +188,37 @@
           "date": "2018-07-10T18:00:42Z",
           "userName": "saahil7143",
           "issueNumber": 20877,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.10",
+      "iOSVersion": "12.4",
+      "repository": "(null)",
+      "date": "2019-08-20T01:42:06Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-20T01:42:06Z",
+          "userName": "ekatuck",
+          "issueNumber": 95502,
           "arch32": false
         }
       ]
