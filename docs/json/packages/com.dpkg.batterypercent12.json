@@ -688,11 +688,11 @@
       "repository": "BigBoss",
       "date": "2019-08-18T19:48:12Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 2,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -736,6 +736,15 @@
           "date": "2019-08-20T18:17:48Z",
           "userName": "VanishingTacos",
           "issueNumber": 95976,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-08-20T18:50:58Z",
+          "userName": "bill88t",
+          "issueNumber": 95980,
           "arch32": false
         }
       ]
