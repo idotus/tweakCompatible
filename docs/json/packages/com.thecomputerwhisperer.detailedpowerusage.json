@@ -1900,7 +1900,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1917,6 +1917,15 @@
           "date": "2019-08-20T05:58:37Z",
           "userName": "Zeebins",
           "issueNumber": 95687,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "Crashes settings when Battery is pressed",
+          "date": "2019-08-20T22:28:34Z",
+          "userName": "nightgawker",
+          "issueNumber": 96062,
           "arch32": false
         }
       ]
