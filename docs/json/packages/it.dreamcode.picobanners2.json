@@ -1,7 +1,7 @@
 {
   "id": "it.dreamcode.picobanners2",
   "name": "PicoBanners 2",
-  "latest": "0.0.1b2-6+debug",
+  "latest": "0.0.1b2",
   "repository": "Dream Code",
   "url": "http://cydia.saurik.com/package/it.dreamcode.picobanners2/",
   "shortDescription": "Smaller iOS 11 banners",
@@ -1056,6 +1056,37 @@
           "date": "2019-08-01T11:51:39Z",
           "userName": "delon5",
           "issueNumber": 93289,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.0.1b2",
+      "iOSVersion": "12.4",
+      "repository": "D4ni's Repo",
+      "date": "2019-08-20T14:00:43Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "Causes boot into safemode right after install respring",
+          "date": "2019-08-20T14:00:43Z",
+          "userName": "iPhone-Gentoo",
+          "issueNumber": 95845,
           "arch32": false
         }
       ]
