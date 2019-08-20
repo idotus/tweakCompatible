@@ -3653,9 +3653,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 5,
+        "good": 6,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3708,6 +3708,15 @@
           "date": "2019-07-31T16:01:22Z",
           "userName": "Neosnc",
           "issueNumber": 93211,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-20T15:24:38Z",
+          "userName": "snwve",
+          "issueNumber": 95916,
           "arch32": false
         }
       ]
