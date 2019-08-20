@@ -1,7 +1,7 @@
 {
   "id": "com.saurik.substrate.safemode",
   "name": "Substrate Safe Mode",
-  "latest": "0.9.6001",
+  "latest": "0.9.6001.1",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/com.saurik.substrate.safemode/",
   "shortDescription": "safe mode safety extension (safe)",
@@ -1328,9 +1328,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1365,6 +1365,15 @@
           "date": "2019-08-19T00:18:09Z",
           "userName": "Spindale",
           "issueNumber": 94296,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-20T16:49:56Z",
+          "userName": "Stoppels",
+          "issueNumber": 95958,
           "arch32": false
         }
       ]
