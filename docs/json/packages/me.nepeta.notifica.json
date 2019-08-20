@@ -4058,20 +4058,20 @@
         },
         {
           "status": "working",
-          "device": "iPhone10,3",
-          "issues": "",
-          "date": "2019-08-19T21:39:02Z",
-          "userName": "SrKrong",
-          "issueNumber": 95403,
-          "arch32": false
-        },
-        {
-          "status": "working",
           "device": "iPhone10,6",
           "issues": "",
           "date": "2019-08-20T05:33:09Z",
           "userName": "cjmk75",
           "issueNumber": 95663,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-20T11:15:19Z",
+          "userName": "SrKrong",
+          "issueNumber": 95813,
           "arch32": false
         }
       ]
