@@ -413,9 +413,9 @@
       "repository": "BigBoss",
       "date": "2019-08-19T03:37:29Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
         "bad": 0,
         "total": 1,
         "arch32": {
@@ -428,12 +428,12 @@
       },
       "users": [
         {
-          "status": "not working",
+          "status": "working",
           "device": "iPhone10,6",
-          "issues": "",
-          "date": "2019-08-19T03:37:29Z",
+          "issues": "It’s work now correctly ",
+          "date": "2019-08-20T01:06:06Z",
           "userName": "xhacker1",
-          "issueNumber": 94458,
+          "issueNumber": 95488,
           "arch32": false
         }
       ]
