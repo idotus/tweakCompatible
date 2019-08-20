@@ -882,7 +882,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -908,6 +908,15 @@
           "date": "2019-08-19T22:36:44Z",
           "userName": "fillupontacos",
           "issueNumber": 95423,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-20T19:54:13Z",
+          "userName": "NovaVFX",
+          "issueNumber": 95998,
           "arch32": false
         }
       ]
