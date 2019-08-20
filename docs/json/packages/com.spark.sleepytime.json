@@ -1,7 +1,7 @@
 {
   "id": "com.spark.sleepytime",
   "name": "SleepyTime",
-  "latest": "0.0.1-4",
+  "latest": "0.0.2",
   "repository": "Spark's Beta Repo",
   "url": "http://cydia.saurik.com/package/com.spark.sleepytime/",
   "shortDescription": "Displays the time until alarms in the stock iOS 'Clock' app.",
@@ -858,9 +858,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -877,6 +877,15 @@
           "date": "2019-08-19T01:52:07Z",
           "userName": "maldukhn",
           "issueNumber": 94366,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-20T05:30:54Z",
+          "userName": "cjmk75",
+          "issueNumber": 95659,
           "arch32": false
         }
       ]
