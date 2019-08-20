@@ -120,6 +120,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.0.1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-20T15:13:40Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,1",
+          "issues": "This fantastic tweak that hasn’t been updated since 2014 has worked for perfectly for me through iOS 11. Unfortunately, with iOS 12, its reign has ended.",
+          "date": "2019-08-20T15:13:40Z",
+          "userName": "barchueetadonai",
+          "issueNumber": 95910,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
