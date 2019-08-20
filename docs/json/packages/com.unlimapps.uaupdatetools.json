@@ -5318,10 +5318,10 @@
       "date": "2019-08-18T23:05:29Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 22,
+        "percentage": 21,
         "good": 4,
         "bad": 0,
-        "total": 18,
+        "total": 19,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5491,6 +5491,15 @@
           "date": "2019-08-20T14:50:52Z",
           "userName": "darkmoon980",
           "issueNumber": 95892,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "AppStore launches but crashes when holding the update button. ",
+          "date": "2019-08-20T16:11:57Z",
+          "userName": "lewii0701",
+          "issueNumber": 95937,
           "arch32": false
         }
       ]
