@@ -643,7 +643,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -660,6 +660,15 @@
           "date": "2019-08-19T23:55:11Z",
           "userName": "nickkgar",
           "issueNumber": 95468,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad6,11",
+          "issues": "",
+          "date": "2019-08-20T22:56:22Z",
+          "userName": "Zer0Nine",
+          "issueNumber": 96069,
           "arch32": false
         }
       ]
