@@ -1,7 +1,7 @@
 {
   "id": "com.cokepokes.libnotifications",
   "name": "libnotifications",
-  "latest": "0.2-3",
+  "latest": "0.2-2",
   "repository": "cokepokes.github.io",
   "url": "http://cydia.saurik.com/package/com.cokepokes.libnotifications/",
   "shortDescription": "App notification library.",
@@ -37,6 +37,37 @@
           "date": "2019-08-11T14:43:23Z",
           "userName": "charalez",
           "issueNumber": 93813,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2-2",
+      "iOSVersion": "10.2.1",
+      "repository": "BigBoss",
+      "date": "2019-08-20T22:11:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone6,1",
+          "issues": "",
+          "date": "2019-08-20T22:11:01Z",
+          "userName": "AppleTweaker420",
+          "issueNumber": 96060,
           "arch32": false
         }
       ]
