@@ -1,7 +1,7 @@
 {
   "id": "com.alexzielenski.zeppelin",
   "name": "Zeppelin",
-  "latest": "2.1.1-1",
+  "latest": "2.1.0-12",
   "repository": "ModMyi (Archive)",
   "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
   "shortDescription": "Replaces carrier text with an image!",
@@ -3243,11 +3243,11 @@
       "repository": "ModMyi (Archive)",
       "date": "2019-08-19T11:25:35Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 83,
+        "calculatedStatus": "Likely working",
+        "percentage": 71,
         "good": 5,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3309,6 +3309,15 @@
           "date": "2019-08-20T04:23:54Z",
           "userName": "iPhone-Gentoo",
           "issueNumber": 95605,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Doesn’t do anything on iPhone X iOS 12.4",
+          "date": "2019-08-20T17:15:20Z",
+          "userName": "miko1999",
+          "issueNumber": 95962,
           "arch32": false
         }
       ]
