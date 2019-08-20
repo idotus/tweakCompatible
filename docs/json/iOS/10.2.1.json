@@ -15553,6 +15553,39 @@
       ]
     },
     {
+      "id": "com.rpetrich.videopane",
+      "name": "VideoPane",
+      "latest": "2.0.6",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.rpetrich.videopane/",
+      "shortDescription": "Picture-in-picture for video; multitask while playing movies",
+      "category": "Tweaks",
+      "author": "Ryan Petrich",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "2.0.6",
+          "iOSVersion": "10.2.1",
+          "repository": "BigBoss",
+          "date": "2018-03-14T16:05:02Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.vladmax.volumemixer2",
       "name": "Volume Mixer 2 (iOS 10/9)",
       "latest": "1.2.0",
@@ -15587,7 +15620,7 @@
     {
       "id": "com.fouadraheb.watusi",
       "name": "Watusi 2 for WhatsApp",
-      "latest": "1.2.3",
+      "latest": "1.0.43",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.fouadraheb.watusi/",
       "shortDescription": "The all-in-one tweak for WhatsApp Messenger",
@@ -15639,6 +15672,26 @@
           "iOSVersion": "10.2.1",
           "repository": "BigBoss",
           "date": "2018-08-25T19:29:46Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.0.43",
+          "iOSVersion": "10.2.1",
+          "repository": "BigBoss",
+          "date": "2018-03-14T16:05:51Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
