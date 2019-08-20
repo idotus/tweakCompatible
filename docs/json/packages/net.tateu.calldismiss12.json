@@ -150,10 +150,10 @@
       "date": "2019-08-19T12:20:58Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -179,6 +179,15 @@
           "date": "2019-08-20T01:58:14Z",
           "userName": "MFRehan",
           "issueNumber": 95511,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-08-20T01:38:16Z",
+          "userName": "iPhone-Gentoo",
+          "issueNumber": 95493,
           "arch32": false
         }
       ]
