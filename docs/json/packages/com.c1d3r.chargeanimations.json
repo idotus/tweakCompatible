@@ -607,6 +607,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "2.3-1",
+      "iOSVersion": "12.4",
+      "repository": "c1d3r's repo",
+      "date": "2019-08-20T06:38:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Changing the animations colors does not work. Everything else should work as it should. ",
+          "date": "2019-08-20T06:38:11Z",
+          "userName": "oscarnun",
+          "issueNumber": 95716,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
