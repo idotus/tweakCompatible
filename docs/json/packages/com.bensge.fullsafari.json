@@ -1,7 +1,7 @@
 {
   "id": "com.bensge.fullsafari",
   "name": "FullSafari",
-  "latest": "1.3.1-2",
+  "latest": "1.1.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.bensge.fullsafari/",
   "shortDescription": "Enable iPad-like Safari tabs on any device, always.",
@@ -1096,11 +1096,11 @@
       "repository": "BigBoss",
       "date": "2019-08-19T18:49:43Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1117,6 +1117,15 @@
           "date": "2019-08-19T18:49:43Z",
           "userName": "altbrace",
           "issueNumber": 95282,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "Crashes",
+          "date": "2019-08-20T12:31:07Z",
+          "userName": "insegna",
+          "issueNumber": 95823,
           "arch32": false
         }
       ]
