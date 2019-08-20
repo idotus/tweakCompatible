@@ -3361,9 +3361,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 12,
+        "good": 13,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3479,6 +3479,15 @@
           "date": "2019-08-19T23:26:09Z",
           "userName": "OVTPVT",
           "issueNumber": 95455,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-20T05:31:49Z",
+          "userName": "cjmk75",
+          "issueNumber": 95661,
           "arch32": false
         }
       ]
