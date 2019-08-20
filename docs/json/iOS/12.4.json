@@ -1336,6 +1336,40 @@
       ]
     },
     {
+      "id": "org.cydia.kiimo.appcake6",
+      "name": "AppCake",
+      "latest": "6.1.3",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.appcake6/",
+      "shortDescription": "The new AppCake 6! For iOS 11 & 12 Jailbreak.\r",
+      "category": "Utilities",
+      "author": "hotsjf",
+      "commercial": false,
+      "date": "2019-08-20T10:28:57Z",
+      "versions": [
+        {
+          "tweakVersion": "6.1.3",
+          "iOSVersion": "12.4",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-08-20T10:28:57Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.appcon",
       "name": "Appcon",
       "latest": "1.4.5",
@@ -1713,7 +1747,7 @@
     {
       "id": "apt-key",
       "name": "APT (apt-key)",
-      "latest": "1.4.9-2",
+      "latest": "1.8.2~b2-1",
       "repository": "Bingner/Elucubratus",
       "url": "http://cydia.saurik.com/package/apt-key/",
       "shortDescription": "repository encryption key management tool",
@@ -3229,40 +3263,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.4.10",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11 & 12",
-      "category": "HYI - Tweaks",
-      "author": "ATWiiks",
-      "commercial": false,
-      "date": "2018-06-30T16:14:01Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.10",
-          "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-20T01:42:06Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.10",
@@ -3285,6 +3285,40 @@
             "good": 6,
             "bad": 0,
             "total": 6,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.4.10",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11 & 12",
+      "category": "HYI - Tweaks",
+      "author": "ATWiiks",
+      "commercial": false,
+      "date": "2018-06-30T16:14:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.10",
+          "iOSVersion": "12.4",
+          "repository": "(null)",
+          "date": "2019-08-20T01:42:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -17068,21 +17102,22 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
+      "id": "mterminal",
       "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "latest": "1.4-6",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
+      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5",
+          "tweakVersion": "1.4-6",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-18T23:31:50Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-08-18T22:12:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17101,22 +17136,21 @@
       ]
     },
     {
-      "id": "mterminal",
+      "id": "com.officialscheduler.mterminal",
       "name": "MTerminal",
-      "latest": "1.4-6",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/mterminal/",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
-      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-6",
+          "tweakVersion": "1.4-5",
           "iOSVersion": "12.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-08-18T22:12:28Z",
+          "repository": "BigBoss",
+          "date": "2019-08-18T23:31:50Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18322,40 +18356,6 @@
       ]
     },
     {
-      "id": "com.adamseiter.nolargetitles",
-      "name": "NoLargeTitles",
-      "latest": "1.1",
-      "repository": "SEITERSEITER's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
-      "shortDescription": "Removes ugly large titles from apps.",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-03-01T19:59:25Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "12.4",
-          "repository": "eXqusic's Repo",
-          "date": "2019-08-19T17:00:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.coolstar.nolargetitles",
       "name": "NoLargeTitles",
       "latest": "1.0-1",
@@ -18378,6 +18378,40 @@
             "good": 3,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.adamseiter.nolargetitles",
+      "name": "NoLargeTitles",
+      "latest": "1.1",
+      "repository": "SEITERSEITER's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
+      "shortDescription": "Removes ugly large titles from apps.",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-03-01T19:59:25Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "12.4",
+          "repository": "eXqusic's Repo",
+          "date": "2019-08-19T17:00:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -23900,22 +23934,21 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2.packix",
+      "id": "com.jontelang.snapper2",
       "name": "Snapper 2",
-      "latest": "2.1",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
+      "latest": "1.4.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger-lang",
+      "author": "Jonathan Winger Lang",
       "commercial": true,
-      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "2.1",
+          "tweakVersion": "1.4.2",
           "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-19T04:27:09Z",
+          "repository": "BigBoss",
+          "date": "2019-08-19T04:31:42Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -23934,21 +23967,22 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2",
+      "id": "com.jontelang.snapper2.packix",
       "name": "Snapper 2",
-      "latest": "1.4.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
+      "latest": "2.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger Lang",
+      "author": "Jonathan Winger-lang",
       "commercial": true,
+      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "1.4.2",
+          "tweakVersion": "2.1",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T04:31:42Z",
+          "repository": "Packix",
+          "date": "2019-08-19T04:27:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -25669,6 +25703,40 @@
       ]
     },
     {
+      "id": "ru.rejail.systeminfo",
+      "name": "System Info",
+      "latest": "2.2.1-10+debug",
+      "repository": "ReJail Repo",
+      "url": "http://cydia.saurik.com/package/ru.rejail.systeminfo/",
+      "shortDescription": "Расширенные сведения о системе",
+      "category": "Tweaks",
+      "author": "ARX8x",
+      "commercial": false,
+      "date": "2019-08-19T18:47:56Z",
+      "versions": [
+        {
+          "tweakVersion": "2.2.1-10+debug",
+          "iOSVersion": "12.4",
+          "repository": "ReJail Repo",
+          "date": "2019-08-19T18:47:56Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
       "latest": "2.0.0-1",
@@ -25710,40 +25778,6 @@
             "good": 2,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.rejail.systeminfo",
-      "name": "System Info",
-      "latest": "2.2.1-10+debug",
-      "repository": "ReJail Repo",
-      "url": "http://cydia.saurik.com/package/ru.rejail.systeminfo/",
-      "shortDescription": "Расширенные сведения о системе",
-      "category": "Tweaks",
-      "author": "ARX8x",
-      "commercial": false,
-      "date": "2019-08-19T18:47:56Z",
-      "versions": [
-        {
-          "tweakVersion": "2.2.1-10+debug",
-          "iOSVersion": "12.4",
-          "repository": "ReJail Repo",
-          "date": "2019-08-19T18:47:56Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
