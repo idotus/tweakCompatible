@@ -1643,11 +1643,11 @@
       "repository": "Dynastic Repo",
       "date": "2019-08-18T22:11:40Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1673,6 +1673,15 @@
           "date": "2019-08-19T19:52:05Z",
           "userName": "SorenSzabo",
           "issueNumber": 95328,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "When tweak is installed, device immediately resprings into Safe Mode.",
+          "date": "2019-08-20T05:55:22Z",
+          "userName": "skiasaurus",
+          "issueNumber": 95685,
           "arch32": false
         }
       ]
