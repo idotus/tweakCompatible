@@ -3244,10 +3244,10 @@
       "date": "2019-08-19T11:25:35Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 83,
         "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3300,6 +3300,15 @@
           "date": "2019-08-19T02:23:32Z",
           "userName": "joblolabinette",
           "issueNumber": 94383,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "Icon shows for a second after respring then goes away",
+          "date": "2019-08-20T04:23:54Z",
+          "userName": "iPhone-Gentoo",
+          "issueNumber": 95605,
           "arch32": false
         }
       ]
