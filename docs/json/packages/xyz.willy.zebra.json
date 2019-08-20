@@ -1,7 +1,7 @@
 {
   "id": "xyz.willy.zebra",
   "name": "Zebra (BETA)",
-  "latest": "1.0~beta20-2",
+  "latest": "1.0~beta19",
   "repository": "xTM3x Repo",
   "url": "http://cydia.saurik.com/package/xyz.willy.zebra/",
   "shortDescription": "A Useful Package Manager",
@@ -1193,9 +1193,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1212,6 +1212,15 @@
           "date": "2019-08-18T18:48:49Z",
           "userName": "xXG0DLessXx",
           "issueNumber": 94093,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-20T19:35:48Z",
+          "userName": "shepgoba",
+          "issueNumber": 95996,
           "arch32": false
         }
       ]
