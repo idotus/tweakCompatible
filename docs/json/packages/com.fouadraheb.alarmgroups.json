@@ -462,9 +462,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -490,6 +490,15 @@
           "date": "2019-08-19T16:25:47Z",
           "userName": "pr3defined",
           "issueNumber": 95140,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-20T01:45:13Z",
+          "userName": "alexPNG",
+          "issueNumber": 95504,
           "arch32": false
         }
       ]
