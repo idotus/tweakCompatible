@@ -718,8 +718,8 @@
       "date": "2019-08-19T13:07:33Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 1,
+        "percentage": 0,
+        "good": 0,
         "bad": 0,
         "total": 3,
         "arch32": {
@@ -741,21 +741,21 @@
           "arch32": false
         },
         {
-          "status": "working",
-          "device": "iPhone10,5",
-          "issues": "",
-          "date": "2019-08-19T14:30:57Z",
-          "userName": "oneking99",
-          "issueNumber": 95042,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPhone10,6",
           "issues": "Crashes when downloading videos ",
           "date": "2019-08-20T05:27:54Z",
           "userName": "ogquez",
           "issueNumber": 95655,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Doesn’t work after twitter update v7.57",
+          "date": "2019-08-21T15:41:53Z",
+          "userName": "oneking99",
+          "issueNumber": 96330,
           "arch32": false
         }
       ]
