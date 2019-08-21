@@ -1083,7 +1083,7 @@
     {
       "id": "com.anemonetheming.anemone3",
       "name": "Anemone 3",
-      "latest": "3.0~beta14",
+      "latest": "3.0~beta15",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/com.anemonetheming.anemone3/",
       "shortDescription": "An awesome theme manager!",
@@ -1203,6 +1203,40 @@
       ]
     },
     {
+      "id": "com.adamseiter.animationbefast",
+      "name": "AnimationsBeFast",
+      "latest": "1.4.1",
+      "repository": "eXqusic's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
+      "shortDescription": "Speeds up animations",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-07-17T09:43:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.1",
+          "iOSVersion": "12.0.1",
+          "repository": "eXqusic's Repo",
+          "date": "2019-02-23T16:00:07Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.adamseiter.animationsbefast",
       "name": "AnimationsBeFast",
       "latest": "1.4.7",
@@ -1279,40 +1313,6 @@
           "iOSVersion": "12.0.1",
           "repository": "eXqusic's Repo",
           "date": "2019-05-13T00:18:59Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.adamseiter.animationbefast",
-      "name": "AnimationsBeFast",
-      "latest": "1.4.1",
-      "repository": "eXqusic's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.animationbefast/",
-      "shortDescription": "Speeds up animations",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-07-17T09:43:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.1",
-          "iOSVersion": "12.0.1",
-          "repository": "eXqusic's Repo",
-          "date": "2019-02-23T16:00:07Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -1891,7 +1891,7 @@
     {
       "id": "applist",
       "name": "AppList",
-      "latest": "1.5.15~beta2",
+      "latest": "1.5.14",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/applist/",
       "shortDescription": "Allow extensions to read the list of installed apps",
@@ -1978,10 +1978,10 @@
     {
       "id": "com.tigisoftware.appdatamanager",
       "name": "Apps Manager",
-      "latest": "1.4.2",
+      "latest": "1.5.0-12",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-      "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
+      "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
       "category": "Utilities",
       "author": "TIGI Software",
       "commercial": false,
@@ -2091,7 +2091,7 @@
     {
       "id": "com.kayfam.appselector",
       "name": "AppSelector",
-      "latest": "1.0.7",
+      "latest": "1.0.8",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.kayfam.appselector/",
       "shortDescription": "Hide that ugly App Drawer and make return to the olden days when opening your photos didn't take so many presses! If you want to use another app, simply press the button with a little force and the App Drawer will be presented to you. When you select an app, that will become the new app that is opened when you press the button.",
@@ -2421,7 +2421,7 @@
     {
       "id": "net.angelxwind.appsyncunified",
       "name": "AppSync Unified",
-      "latest": "32.0-1",
+      "latest": "41.1-NoA12",
       "repository": "Karen's Repo",
       "url": "http://cydia.angelxwind.net/",
       "shortDescription": "Enables the ability to install unsigned/fakesigned iOS applications.",
@@ -2454,7 +2454,7 @@
     {
       "id": "apt-key",
       "name": "APT (apt-key)",
-      "latest": "1.8.2~b1-1",
+      "latest": "1.8.2~b2-1",
       "repository": "Bingner/Elucubratus",
       "url": "http://cydia.saurik.com/package/apt-key/",
       "shortDescription": "repository encryption key management tool",
@@ -2528,7 +2528,7 @@
     {
       "id": "apt",
       "name": "APT 0.6 Transitional",
-      "latest": "0-3",
+      "latest": "0-2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/apt/",
       "shortDescription": "any advanced packaging tool from Debian",
@@ -2596,7 +2596,7 @@
     {
       "id": "libapt-pkg5.0",
       "name": "APT 1.4 Strict (libapt-pkg)",
-      "latest": "1.8.2~b1-2",
+      "latest": "1.8.2~b2-3",
       "repository": "Bingner/Elucubratus",
       "url": "http://cydia.saurik.com/package/libapt-pkg5.0/",
       "shortDescription": "the advanced packaging library from Debian",
@@ -2704,7 +2704,7 @@
     {
       "id": "libapt",
       "name": "APT Strict (lib)",
-      "latest": "1.8.2~b1-2",
+      "latest": "1.8.2~b2-1",
       "repository": "Bingner/Elucubratus",
       "url": "http://cydia.saurik.com/package/libapt/",
       "shortDescription": "the advanced packaging library from Debian",
@@ -3427,7 +3427,7 @@
     {
       "id": "com.ichitaso.autolockcc",
       "name": "AutoLockToggle (CCSupport)",
-      "latest": "0.1-3-1",
+      "latest": "0.1-3",
       "repository": "ichitaso repository",
       "url": "http://cydia.saurik.com/package/com.ichitaso.autolockcc/",
       "shortDescription": "Turn on / off Auto lock from the control center.",
@@ -4118,40 +4118,6 @@
       ]
     },
     {
-      "id": "com.jeremd10.barmoji",
-      "name": "Barmoji",
-      "latest": "1.3.2",
-      "repository": "JeremD10's Repo",
-      "url": "http://cydia.saurik.com/package/com.jeremd10.barmoji/",
-      "shortDescription": "Ajoute des Émojis en dessous du clavier",
-      "category": "Tweaks iOS 11",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "date": "2019-02-25T00:43:36Z",
-      "versions": [
-        {
-          "tweakVersion": "1.3.2",
-          "iOSVersion": "12.0.1",
-          "repository": "JeremD10's Repo",
-          "date": "2019-02-25T00:43:36Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cpdigitaldarkroom.barmoji",
       "name": "Barmoji",
       "latest": "1.9",
@@ -4207,6 +4173,40 @@
           "iOSVersion": "12.0.1",
           "repository": "Packix",
           "date": "2019-05-03T16:27:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.jeremd10.barmoji",
+      "name": "Barmoji",
+      "latest": "1.3.2",
+      "repository": "JeremD10's Repo",
+      "url": "http://cydia.saurik.com/package/com.jeremd10.barmoji/",
+      "shortDescription": "Ajoute des Émojis en dessous du clavier",
+      "category": "Tweaks iOS 11",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "date": "2019-02-25T00:43:36Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.2",
+          "iOSVersion": "12.0.1",
+          "repository": "JeremD10's Repo",
+          "date": "2019-02-25T00:43:36Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4845,40 +4845,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.better3dmenus",
-      "name": "Better3DMenus",
-      "latest": "2.4",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
-      "shortDescription": "Better 3D-Touch Menus!",
-      "category": "Tweaks",
-      "author": "dpkg_",
-      "commercial": false,
-      "date": "2018-10-12T18:03:31Z",
-      "versions": [
-        {
-          "tweakVersion": "2.4",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-05T16:54:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.dpkg.better3dmenus",
       "name": "Better3DMenus",
       "latest": "2.4",
@@ -4915,6 +4881,40 @@
           "iOSVersion": "12.0.1",
           "repository": "dpkg9510's Repo",
           "date": "2019-03-10T14:44:12Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.better3dmenus",
+      "name": "Better3DMenus",
+      "latest": "2.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
+      "shortDescription": "Better 3D-Touch Menus!",
+      "category": "Tweaks",
+      "author": "dpkg_",
+      "commercial": false,
+      "date": "2018-10-12T18:03:31Z",
+      "versions": [
+        {
+          "tweakVersion": "2.4",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-03-05T16:54:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5482,7 +5482,7 @@
     {
       "id": "net.limneos.bioprotectxs",
       "name": "BioProtect XS (iOS 12)",
-      "latest": "4.0-71",
+      "latest": "4.0-68",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.bioprotectxs/",
       "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -5926,6 +5926,39 @@
       ]
     },
     {
+      "id": "org.thebigboss.blurrybadges",
+      "name": "BlurryBadges",
+      "latest": "1.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
+      "shortDescription": "Add customizable blur to SpringBoard icon badges.",
+      "category": "Tweaks",
+      "author": "PoomSmart",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-03-04T08:32:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.spicat.blurrybadges",
       "name": "BlurryBadges",
       "latest": "1.2.3",
@@ -5948,39 +5981,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "org.thebigboss.blurrybadges",
-      "name": "BlurryBadges",
-      "latest": "1.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.blurrybadges/",
-      "shortDescription": "Add customizable blur to SpringBoard icon badges.",
-      "category": "Tweaks",
-      "author": "PoomSmart",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-04T08:32:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -6366,7 +6366,7 @@
     {
       "id": "com.irepo.boxy3",
       "name": "Boxy3",
-      "latest": "3.5",
+      "latest": "3.6.1",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.irepo.boxy3/",
       "shortDescription": "Fully customize your icon layout!",
@@ -6662,7 +6662,7 @@
     {
       "id": "com.creaturecoding.bubbles",
       "name": "bubbles",
-      "latest": "0.5.0",
+      "latest": "0.4.0",
       "repository": "CreatureSurvive's Repo",
       "url": "http://cydia.saurik.com/package/com.creaturecoding.bubbles/",
       "shortDescription": "Make your Messages pop!",
@@ -7213,7 +7213,7 @@
     {
       "id": "net.limneos.callbarxs",
       "name": "CallBar XS (iOS 12)",
-      "latest": "2.2-5",
+      "latest": "2.1-64",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.callbarxs/",
       "shortDescription": "Don't let incoming calls interrupt you!",
@@ -7617,7 +7617,7 @@
     {
       "id": "com.leftyfl1p.carplay",
       "name": "CarBridge",
-      "latest": "1.0.8",
+      "latest": "1.0.9",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/com.leftyfl1p.carplay/",
       "shortDescription": "Open any app in CarPlay!",
@@ -8098,7 +8098,7 @@
     {
       "id": "com.imkpatil.cclinker",
       "name": "CCLinker",
-      "latest": "1.2.1",
+      "latest": "1.1.2",
       "repository": "Kiran Patil's Repo",
       "url": "http://cydia.saurik.com/package/com.imkpatil.cclinker/",
       "shortDescription": "Open the settings pane for the CC Toggles by using gestures!",
@@ -8334,7 +8334,7 @@
     {
       "id": "com.dunkston.cctimex",
       "name": "CCTimeX",
-      "latest": "1.3",
+      "latest": "1.1",
       "repository": "dunkston's repo",
       "url": "http://cydia.saurik.com/package/com.dunkston.cctimex/",
       "shortDescription": "Shows the time in the control center on iPhone X",
@@ -8569,7 +8569,7 @@
     {
       "id": "me.alfhaily.cercube",
       "name": "Cercube for YouTube",
-      "latest": "5.0.6",
+      "latest": "5.0.7",
       "repository": "Alfhaily APT",
       "url": "https://apt.alfhaily.me/",
       "shortDescription": "Download YouTube videos and more!",
@@ -9422,6 +9422,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-03-07T18:35:49Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -9462,39 +9495,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-07T18:35:49Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -9699,10 +9699,10 @@
     {
       "id": "com.yourepo.i0s-tweak3r-betas.colorfulloads",
       "name": "Colorful Loads",
-      "latest": "1.0.3-12",
+      "latest": "1.0.4-1",
       "repository": "i0s-tweak3r-betas Source - YouRepo",
       "url": "http://cydia.saurik.com/package/com.yourepo.i0s-tweak3r-betas.colorfulloads/",
-      "shortDescription": "A colorful spinning animation tweak for status bar and in apps. Also spinning deck switcher (ios 11 only feature), and over 80(and rising) random quotes, bad jokes, replacements for some loading texts on iOS 7-11.1.2",
+      "shortDescription": "A colorful spinning animation tweak for status bar and in apps. Also spinning deck switcher (ios 11-12 only feature), and over 120(and rising) random quotes, bad jokes, replacements for some loading texts on iOS 7-12.1.2",
       "category": "Tweaks",
       "author": "i0stweak3r",
       "commercial": false,
@@ -9806,7 +9806,7 @@
     {
       "id": "com.imkpatil.colormybattery",
       "name": "ColorMyBattery",
-      "latest": "1.3.2",
+      "latest": "1.2.2",
       "repository": "Kiran Patil's Repo",
       "url": "http://cydia.saurik.com/package/com.imkpatil.colormybattery/",
       "shortDescription": "Battery Color based on the battery percentage.",
@@ -9982,7 +9982,7 @@
     {
       "id": "com.4nni3.coolcc",
       "name": "CoolCC",
-      "latest": "3.1",
+      "latest": "3.2~beta2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.4nni3.coolcc/",
       "shortDescription": "This tweak makes ControlCenter cool!",
@@ -10103,7 +10103,7 @@
     {
       "id": "me.tomt000.copylog",
       "name": "CopyLog",
-      "latest": "1.2",
+      "latest": "1.2.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/me.tomt000.copylog/",
       "shortDescription": "Clipboard history manager for iOS!",
@@ -10225,7 +10225,7 @@
     {
       "id": "coreutils",
       "name": "Core Utilities",
-      "latest": "8.30-2",
+      "latest": "8.31-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/coreutils/",
       "shortDescription": "core set of Unix shell utilities from GNU",
@@ -10259,7 +10259,7 @@
     {
       "id": "coreutils-bin",
       "name": "Core Utilities (/bin)",
-      "latest": "8.30-3",
+      "latest": "8.31-1",
       "repository": "Electra's iOS Utilities",
       "url": "http://cydia.saurik.com/package/coreutils-bin/",
       "shortDescription": "just the /bin folder from GNU coreutils",
@@ -11230,10 +11230,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "99.2",
+      "latest": "0.9.7033",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "Compatibility wrapper for Substrate tweaks to work with Tweak Injector + Substitute",
+      "shortDescription": "powerful code insertion platform",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -11303,7 +11303,7 @@
     {
       "id": "cydia-lproj",
       "name": "Cydia Translations",
-      "latest": "1.9.3~chimera5",
+      "latest": "1.1.32~b1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/cydia-lproj/",
       "shortDescription": "languages and translations for Cydia",
@@ -11803,10 +11803,10 @@
     {
       "id": "com.patrick.darkkeysxii",
       "name": "DarkKeysXII",
-      "latest": "1.0.1",
+      "latest": "1.0.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.patrick.darkkeysxii/",
-      "shortDescription": "Have a whole new dark universal keyboard with DarkKeysXII!",
+      "shortDescription": "The keyboard you know. Colors you prefer. — A simple tweak to use the built in dark appearance for the stock iOS keyboard across the operating system.",
       "category": "Tweaks",
       "author": "Patrick and Ultra",
       "commercial": false,
@@ -12093,7 +12093,7 @@
     {
       "id": "dpkg",
       "name": "Debian Packager",
-      "latest": "1.18.25-11",
+      "latest": "1.19.7-1",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/dpkg/",
       "shortDescription": "package maintainance tools from Debian",
@@ -13127,6 +13127,39 @@
       ]
     },
     {
+      "id": "xyz.xninja.dopesettings",
+      "name": "DopeSettings",
+      "latest": "0.1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/xyz.xninja.dopesettings/",
+      "shortDescription": "Spice up the settings view",
+      "category": "Tweaks",
+      "author": "ARX8x",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0.4",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-03-22T14:37:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.sh0rtflow.dopesettings",
       "name": "DopeSettings",
       "latest": "0.0.5-6+debug",
@@ -13147,39 +13180,6 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "xyz.xninja.dopesettings",
-      "name": "DopeSettings",
-      "latest": "0.1.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/xyz.xninja.dopesettings/",
-      "shortDescription": "Spice up the settings view",
-      "category": "Tweaks",
-      "author": "ARX8x",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0.4",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-22T14:37:20Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -13230,7 +13230,7 @@
     {
       "id": "com.spark.doubletaplock",
       "name": "DoubleTapLock [Public]",
-      "latest": "1.0.1",
+      "latest": "0.0.3",
       "repository": "Spark's Beta Repo",
       "url": "http://cydia.saurik.com/package/com.spark.doubletaplock/",
       "shortDescription": "Double tap homescreen wallpaper to lock device",
@@ -13338,7 +13338,7 @@
     {
       "id": "com.skitty.dune",
       "name": "Dune",
-      "latest": "1.2.1",
+      "latest": "1.0-3+debug",
       "repository": "Skitty's Repo",
       "url": "http://cydia.saurik.com/package/com.skitty.dune/",
       "shortDescription": "A free, open-source iOS dark mode.",
@@ -15185,6 +15185,40 @@
       ]
     },
     {
+      "id": "com.jeremd10.fastunlockx",
+      "name": "FastUnlockX",
+      "latest": "1.3.1",
+      "repository": "JeremD10's Repo",
+      "url": "http://cydia.saurik.com/package/com.jeremd10.fastunlockx/",
+      "shortDescription": "un Déverrouillage plus rapide pour iPhone X",
+      "category": "Tweaks iPhone X",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "date": "2019-02-25T00:44:40Z",
+      "versions": [
+        {
+          "tweakVersion": "1.3.1",
+          "iOSVersion": "12.0.1",
+          "repository": "JeremD10's Repo",
+          "date": "2019-02-25T00:44:40Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.cpdigitaldarkroom.fastunlockx",
       "name": "FastUnlockX",
       "latest": "1.4.5",
@@ -15220,40 +15254,6 @@
           "iOSVersion": "12.0.1",
           "repository": "Packix",
           "date": "2019-02-26T12:04:18Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.jeremd10.fastunlockx",
-      "name": "FastUnlockX",
-      "latest": "1.3.1",
-      "repository": "JeremD10's Repo",
-      "url": "http://cydia.saurik.com/package/com.jeremd10.fastunlockx/",
-      "shortDescription": "un Déverrouillage plus rapide pour iPhone X",
-      "category": "Tweaks iPhone X",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "date": "2019-02-25T00:44:40Z",
-      "versions": [
-        {
-          "tweakVersion": "1.3.1",
-          "iOSVersion": "12.0.1",
-          "repository": "JeremD10's Repo",
-          "date": "2019-02-25T00:44:40Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15342,10 +15342,10 @@
     {
       "id": "com.xandesign.felicity",
       "name": "Felicity",
-      "latest": "4.2",
+      "latest": "3.3",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.xandesign.felicity/",
-      "shortDescription": "Felicity - The Perfect Theme For Your Device.",
+      "shortDescription": "An Intense and Happy theme.",
       "category": "Themes",
       "author": "XanDesign",
       "commercial": false,
@@ -15683,7 +15683,7 @@
     {
       "id": "com.tigisoftware.filza64bit",
       "name": "Filza File Manager (64-bit only)",
-      "latest": "3.6.0-31",
+      "latest": "3.7.0-18",
       "repository": "tigisoftware.com",
       "url": "http://cydia.saurik.com/package/com.tigisoftware.filza64bit/",
       "shortDescription": "File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. This special version only supports 64-bit devices",
@@ -16010,6 +16010,40 @@
       ]
     },
     {
+      "id": "com.jeremd10.fiveicondockxi",
+      "name": "FiveIconDockXI",
+      "latest": "1.0",
+      "repository": "JeremD10's Repo",
+      "url": "http://cydia.saurik.com/package/com.jeremd10.fiveicondockxi/",
+      "shortDescription": "Permet d'ajouter 5 icons dans le dock",
+      "category": "Tweaks iOS 11",
+      "author": "Jeremd10",
+      "commercial": false,
+      "date": "2019-02-25T00:44:54Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "12.0.1",
+          "repository": "JeremD10's Repo",
+          "date": "2019-02-25T00:44:54Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.gmoran.fiveicondockxi",
       "name": "FiveIconDockXI",
       "latest": "1.0",
@@ -16045,40 +16079,6 @@
           "iOSVersion": "12.0.1",
           "repository": "Packix",
           "date": "2019-05-07T18:35:13Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.jeremd10.fiveicondockxi",
-      "name": "FiveIconDockXI",
-      "latest": "1.0",
-      "repository": "JeremD10's Repo",
-      "url": "http://cydia.saurik.com/package/com.jeremd10.fiveicondockxi/",
-      "shortDescription": "Permet d'ajouter 5 icons dans le dock",
-      "category": "Tweaks iOS 11",
-      "author": "Jeremd10",
-      "commercial": false,
-      "date": "2019-02-25T00:44:54Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0",
-          "iOSVersion": "12.0.1",
-          "repository": "JeremD10's Repo",
-          "date": "2019-02-25T00:44:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -16971,10 +16971,10 @@
     {
       "id": "com.yourepo.i0s-tweak3r-betas.foldercontrollerxi-deluxe",
       "name": "FolderControllerXI-Deluxe",
-      "latest": "1.0.9",
+      "latest": "1.0.9-3",
       "repository": "i0s-tweak3r-betas Source - YouRepo",
       "url": "http://cydia.saurik.com/package/com.yourepo.i0s-tweak3r-betas.foldercontrollerxi-deluxe/",
-      "shortDescription": "An awesome folder tweak for making custom layouts, adjusting the opacity, size, corner radius, gradient colors, and other properties of folders, their icons, and background views. It has color pickers for open and closed folders, their borders, and sliders to set thickness of borders. Multi-select option for fast re-arranging of icons plus other useful features. Updated by Nepeta for arm64e.",
+      "shortDescription": "An awesome folder tweak for making custom layouts, color blurred backgrounds, adjusting the opacity, size, corner radius, gradient colors, and other properties of folders, their icons, and background views. It has color pickers for open and closed folders, their borders, and sliders to set thickness of borders. Multi-select option for fast re-arranging of icons plus other useful features. First A12 update by Nepeta- thanks again!",
       "category": "Tweaks",
       "author": "i0s_tweak3r",
       "commercial": true,
@@ -17045,7 +17045,7 @@
     {
       "id": "com.i0stweak3r.foldercontroller",
       "name": "FolderControllerXII",
-      "latest": "1.0.9-2",
+      "latest": "1.0.9-3",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.i0stweak3r.foldercontroller/",
       "shortDescription": "An awesome folder tweak for making custom layouts, adjusting the opacity, size, corner radius, gradient colors, and other properties of folders, their icons, and background views. It has color pickers for open and closed folders, their borders, and sliders to set thickness of borders. Multi-select option for fast re-arranging of icons plus other useful features.",
@@ -19496,7 +19496,7 @@
     {
       "id": "com.spark.hyperion",
       "name": "Hyperion [Members Plus]",
-      "latest": "0.4.12-2",
+      "latest": "0.4.16-11",
       "repository": "Spark's Beta Repo",
       "url": "http://cydia.saurik.com/package/com.spark.hyperion/",
       "shortDescription": "OLED notification tweak",
@@ -20139,7 +20139,7 @@
     {
       "id": "com.ion.ignify",
       "name": "Ignify",
-      "latest": "0.3",
+      "latest": "1.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.ion.ignify/",
       "shortDescription": "An awesome enchancement to Instagram!",
@@ -22549,7 +22549,7 @@
     {
       "id": "com.iarrays.libiarrays",
       "name": "libarrays",
-      "latest": "1.0.11-beta-2",
+      "latest": "1.0.11-beta-4",
       "repository": "IArrays",
       "url": "http://cydia.saurik.com/package/com.iarrays.libiarrays/",
       "shortDescription": "Should be used only by IArrays products. This is closed library and no support is provided for this package.",
@@ -22583,7 +22583,7 @@
     {
       "id": "net.limneos.libbulletin",
       "name": "libbulletin",
-      "latest": "0.1-145",
+      "latest": "0.1-147",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/net.limneos.libbulletin/",
       "shortDescription": "Simple library that displays bulletins",
@@ -22668,6 +22668,40 @@
       ]
     },
     {
+      "id": "me.nepeta.libcolorpicker",
+      "name": "libcolorpicker",
+      "latest": "1.6.2-2",
+      "repository": "Nepeta",
+      "url": "http://cydia.saurik.com/package/me.nepeta.libcolorpicker/",
+      "shortDescription": "libcolorpicker with arm64e (A12) support",
+      "category": "System",
+      "author": "Bailey Seymour",
+      "commercial": false,
+      "date": "2019-04-23T12:35:57Z",
+      "versions": [
+        {
+          "tweakVersion": "1.6.2-3",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-06-08T12:14:10Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "org.thebigboss.libcolorpicker",
       "name": "libcolorpicker",
       "latest": "1.6.3-1",
@@ -22723,40 +22757,6 @@
           "iOSVersion": "12.0.1",
           "repository": "BigBoss",
           "date": "2019-07-12T07:33:11Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "me.nepeta.libcolorpicker",
-      "name": "libcolorpicker",
-      "latest": "1.6.2-2",
-      "repository": "Nepeta",
-      "url": "http://cydia.saurik.com/package/me.nepeta.libcolorpicker/",
-      "shortDescription": "libcolorpicker with arm64e (A12) support",
-      "category": "System",
-      "author": "Bailey Seymour",
-      "commercial": false,
-      "date": "2019-04-23T12:35:57Z",
-      "versions": [
-        {
-          "tweakVersion": "1.6.2-3",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-06-08T12:14:10Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -24175,7 +24175,7 @@
     {
       "id": "com.tweakingsdev.lithiumion",
       "name": "Lithium Ion",
-      "latest": "1.3.1.1",
+      "latest": "1.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.tweakingsdev.lithiumion/",
       "shortDescription": "Ultimate Battery Customization",
@@ -24242,7 +24242,7 @@
     {
       "id": "com.binksalex.littlexs",
       "name": "LittleXS",
-      "latest": "2.3.1",
+      "latest": "2.4.2",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.binksalex.littlexs/",
       "shortDescription": "LittleX revitalized for iOS 12.",
@@ -25297,10 +25297,10 @@
     {
       "id": "com.wizages.bae",
       "name": "MakeRespringsGreatAgain",
-      "latest": "2.0",
+      "latest": "1.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.wizages.bae/",
-      "shortDescription": "On resprings it brings back the apple logo which makes resprings great again!",
+      "shortDescription": "brings back the apple logo for resprings",
       "category": "Tweaks",
       "author": "wizages",
       "commercial": false,
@@ -25779,7 +25779,7 @@
       "latest": "2.1.1",
       "repository": "Thireus Repository",
       "url": "http://cydia.saurik.com/package/com.thireus.untrustedhostsblockermega/",
-      "shortDescription": "READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. Supports both IPv4 and IPv6.\r",
+      "shortDescription": "READ THE TWEAK DESCRIPTION/FAQ PAGE! Say goodbye to tracking, spies, intrusive ads and untrusted hosts. Supports both IPv4 and IPv6.",
       "category": "Security",
       "author": "Thireus",
       "commercial": false,
@@ -26503,7 +26503,7 @@
     {
       "id": "me.nepeta.mitsuhainfinity",
       "name": "Mitsuha Infinity",
-      "latest": "0.1.7",
+      "latest": "0.1.7-2",
       "repository": "Nepeta",
       "url": "http://cydia.saurik.com/package/me.nepeta.mitsuhainfinity/",
       "shortDescription": "Audio visualizer for iOS",
@@ -27025,7 +27025,7 @@
     {
       "id": "net.tateu.moveable9",
       "name": "Moveable9",
-      "latest": "1.0.0~beta29-32",
+      "latest": "1.0.0~beta29-12",
       "repository": "tateu's repo",
       "url": "http://www.tateu.net/repo/",
       "shortDescription": "Arrange statusbar icons.",
@@ -27110,6 +27110,39 @@
       ]
     },
     {
+      "id": "com.officialscheduler.mterminal",
+      "name": "MTerminal",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "shortDescription": "A MobileTerminal fork",
+      "category": "Utilities",
+      "author": "lordscotland",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.4-5",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-02-23T10:06:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "mterminal",
       "name": "MTerminal",
       "latest": "1.4-6",
@@ -27132,39 +27165,6 @@
             "good": 3,
             "bad": 0,
             "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.officialscheduler.mterminal",
-      "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
-      "shortDescription": "A MobileTerminal fork",
-      "category": "Utilities",
-      "author": "lordscotland",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.4-5",
-          "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-02-23T10:06:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -27348,7 +27348,7 @@
     {
       "id": "com.cydiageek.mypomonella",
       "name": "Mypomonella",
-      "latest": "1.0.7",
+      "latest": "1.0.4-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.cydiageek.mypomonella/",
       "shortDescription": "Set on the Updates in All the Cydia Packages & More!",
@@ -28018,22 +28018,22 @@
       ]
     },
     {
-      "id": "me.sethstephens.newgridswitcher",
+      "id": "pro.relative.newgridswitcher",
       "name": "NewGridSwitcher",
-      "latest": "1.1.0",
+      "latest": "1.0.1",
       "repository": "Relative's Repo",
-      "url": "http://cydia.saurik.com/package/me.sethstephens.newgridswitcher/",
+      "url": "http://cydia.saurik.com/package/pro.relative.newgridswitcher/",
       "shortDescription": "A grid switcher on iOS 11 and above",
       "category": "Tweaks",
-      "author": "relative",
+      "author": "Relative",
       "commercial": false,
-      "date": "2019-03-09T05:27:34Z",
+      "date": "2018-08-25T13:25:29Z",
       "versions": [
         {
-          "tweakVersion": "1.1.0",
+          "tweakVersion": "1.0.1",
           "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-03-15T19:37:12Z",
+          "repository": "Relative's Repo",
+          "date": "2019-03-01T23:07:29Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -28052,22 +28052,22 @@
       ]
     },
     {
-      "id": "pro.relative.newgridswitcher",
+      "id": "me.sethstephens.newgridswitcher",
       "name": "NewGridSwitcher",
-      "latest": "1.0.1",
+      "latest": "1.1.0",
       "repository": "Relative's Repo",
-      "url": "http://cydia.saurik.com/package/pro.relative.newgridswitcher/",
+      "url": "http://cydia.saurik.com/package/me.sethstephens.newgridswitcher/",
       "shortDescription": "A grid switcher on iOS 11 and above",
       "category": "Tweaks",
-      "author": "Relative",
+      "author": "relative",
       "commercial": false,
-      "date": "2018-08-25T13:25:29Z",
+      "date": "2019-03-09T05:27:34Z",
       "versions": [
         {
-          "tweakVersion": "1.0.1",
+          "tweakVersion": "1.1.0",
           "iOSVersion": "12.0.1",
-          "repository": "Relative's Repo",
-          "date": "2019-03-01T23:07:29Z",
+          "repository": "BigBoss",
+          "date": "2019-03-15T19:37:12Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -28277,7 +28277,7 @@
     {
       "id": "net.limneos.nfcwriterx",
       "name": "NFCWriter X",
-      "latest": "2.0-8",
+      "latest": "2.0-7",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.nfcwriterx/",
       "shortDescription": "NFCWriter XS for iOS 11/12",
@@ -28828,22 +28828,22 @@
       ]
     },
     {
-      "id": "com.adamseiter.nolargetitles",
+      "id": "org.coolstar.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.1",
-      "repository": "SEITERSEITER's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
-      "shortDescription": "Removes ugly large titles from apps.",
+      "latest": "1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
+      "shortDescription": "Remove the large titles system-wide on iOS 11",
       "category": "Tweaks",
-      "author": "Adam Seiter",
+      "author": "CoolStar",
       "commercial": false,
-      "date": "2018-03-01T19:59:25Z",
+      "date": "2018-03-08T05:57:18Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "1.0-1",
           "iOSVersion": "12.0.1",
-          "repository": "eXqusic's Repo",
-          "date": "2019-05-20T08:54:53Z",
+          "repository": "BigBoss",
+          "date": "2019-02-24T01:00:04Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -28862,22 +28862,22 @@
       ]
     },
     {
-      "id": "org.coolstar.nolargetitles",
+      "id": "com.adamseiter.nolargetitles",
       "name": "NoLargeTitles",
-      "latest": "1.0-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
-      "shortDescription": "Remove the large titles system-wide on iOS 11",
+      "latest": "1.1",
+      "repository": "SEITERSEITER's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
+      "shortDescription": "Removes ugly large titles from apps.",
       "category": "Tweaks",
-      "author": "CoolStar",
+      "author": "Adam Seiter",
       "commercial": false,
-      "date": "2018-03-08T05:57:18Z",
+      "date": "2018-03-01T19:59:25Z",
       "versions": [
         {
-          "tweakVersion": "1.0-1",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.0.1",
-          "repository": "BigBoss",
-          "date": "2019-02-24T01:00:04Z",
+          "repository": "eXqusic's Repo",
+          "date": "2019-05-20T08:54:53Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31556,7 +31556,7 @@
     {
       "id": "com.yourepo.kingmehu.perfecttimexs",
       "name": "PerfectTimeXS",
-      "latest": "0.2.0-1",
+      "latest": "0.1.4-13",
       "repository": "kingmehu Source - YouRepo",
       "url": "http://cydia.saurik.com/package/com.yourepo.kingmehu.perfecttimexs/",
       "shortDescription": "modif the status bar time format,just for iPhone X/S/MAX",
@@ -31846,7 +31846,7 @@
     {
       "id": "it.dreamcode.picobanners2",
       "name": "PicoBanners 2",
-      "latest": "0.0.1b2-6+debug",
+      "latest": "0.0.1b2",
       "repository": "Dream Code",
       "url": "http://cydia.saurik.com/package/it.dreamcode.picobanners2/",
       "shortDescription": "Smaller iOS 11 banners",
@@ -32592,7 +32592,7 @@
       "latest": "4.4.0",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.dave1482.powerapp/",
-      "shortDescription": "Reboot, Shutdown, Respring, and more easily —  Supports iOS 3.0-iOS 12.1.2+",
+      "shortDescription": "Reboot, Shutdown, Respring, and more easily —  Supports iOS 3.0-iOS 12.4+",
       "category": "Utilities",
       "author": "Dave1482",
       "commercial": false,
@@ -33006,7 +33006,7 @@
     {
       "id": "net.angelxwind.preferenceorganizer2",
       "name": "PreferenceOrganizer 2",
-      "latest": "4.0.5",
+      "latest": "4.0.7",
       "repository": "Karen's Repo",
       "url": "http://cydia.angelxwind.net/",
       "shortDescription": "Organises your Preferences app into several configurable categories for ease of navigation.",
@@ -33039,7 +33039,7 @@
     {
       "id": "com.ichitaso.primalfolder",
       "name": "PrimalFolder",
-      "latest": "0.0.9",
+      "latest": "0.0.6",
       "repository": "ichitaso repository",
       "url": "http://cydia.saurik.com/package/com.ichitaso.primalfolder/",
       "shortDescription": "Display to folder as icon and launch action for Folders",
@@ -33431,10 +33431,10 @@
     {
       "id": "com.joka.quickietweak",
       "name": "Quickie",
-      "latest": "1.0.0",
+      "latest": "1.0.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.joka.quickietweak/",
-      "shortDescription": "Quickie disables all SpringBoard & folder animations. Compatible with A12 and iOS 12 devices. New features will be released in future updates.",
+      "shortDescription": "Quickie speeds up your device by disabling all SpringBoard & folder animations. Compatible with A12 and iOS 12 devices. New features will be released in future updates.",
       "category": "Tweaks",
       "author": "Joka",
       "commercial": false,
@@ -33762,7 +33762,7 @@
     {
       "id": "com.jeffresc.shortlook.plugin.contact-photo.reddit",
       "name": "Reddit Profile Pictures for ShortLook",
-      "latest": "1.1",
+      "latest": "1.1.1",
       "repository": "Dynastic Repo",
       "url": "http://cydia.saurik.com/package/com.jeffresc.shortlook.plugin.contact-photo.reddit/",
       "shortDescription": "Show Reddit users' profile pictures in ShortLook when you receive a Reddit notification!",
@@ -34177,7 +34177,7 @@
       "latest": "3.5.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-      "shortDescription": "posts and view stories anonymously and do much more",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
       "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
@@ -34328,7 +34328,7 @@
     {
       "id": "com.rpetrich.rocketbootstrap",
       "name": "RocketBootstrap",
-      "latest": "1.0.7~beta3",
+      "latest": "1.0.6",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.rpetrich.rocketbootstrap/",
       "shortDescription": "Support library allowing tweaks to communicate with sandboxed processes",
@@ -34726,7 +34726,7 @@
     {
       "id": "com.opa334.safariplus",
       "name": "Safari Plus",
-      "latest": "1.7",
+      "latest": "1.7.1-2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.opa334.safariplus/",
       "shortDescription": "Various enhancements to Safari!",
@@ -34799,6 +34799,26 @@
           "iOSVersion": "12.0.1",
           "repository": "BigBoss",
           "date": "2019-08-03T05:34:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "1.7.1-2",
+          "iOSVersion": "12.0.1",
+          "repository": "BigBoss",
+          "date": "2019-08-21T10:21:37Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -36508,7 +36528,7 @@
     {
       "id": "org.thebigboss.smoothcursor",
       "name": "SmoothCursor",
-      "latest": "1.1.2",
+      "latest": "1.1.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/org.thebigboss.smoothcursor/",
       "shortDescription": "Office 2013-styled cursor animation.",
@@ -36609,10 +36629,10 @@
     {
       "id": "com.abcapps.snapplus",
       "name": "Snap + for Snapchat",
-      "latest": "1.7r-58",
+      "latest": "1.6r-111",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
-      "shortDescription": "Extend Snapchat! Formerly AppPlus. Save/Share Snaps. Upload photos/videos from gallery. Works on the latest version of SnapChat!",
+      "shortDescription": "Save/share SC snaps & upload from gallery; formerly AppPlus",
       "category": "Tweaks",
       "author": "UnlimApps Inc.",
       "commercial": false,
@@ -36744,7 +36764,7 @@
     {
       "id": "com.jontelang.snapper2",
       "name": "Snapper 2",
-      "latest": "1.4.2",
+      "latest": "1.2.6",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
       "shortDescription": "Pin screenshots on the screen.",
@@ -37201,7 +37221,7 @@
     {
       "id": "org.s1ris.spinxi",
       "name": "SpinXI",
-      "latest": "1.2",
+      "latest": "1.3.2",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/org.s1ris.spinxi/",
       "shortDescription": "Circular lock screen media controls",
@@ -37371,7 +37391,7 @@
     {
       "id": "com.synnyg.springsounds",
       "name": "SpringSounds",
-      "latest": "1.1",
+      "latest": "2.1",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.synnyg.springsounds/",
       "shortDescription": "Customize your device's sounds !",
@@ -38053,7 +38073,7 @@
     {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
-      "latest": "1.0.0",
+      "latest": "1.0.0-1+debug",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
       "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
@@ -38714,7 +38734,7 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.0.0-1",
+      "latest": "2.2.1-10+debug",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
       "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
@@ -38827,7 +38847,7 @@
     {
       "id": "system-memory-reset-fix",
       "name": "System Memory Reset Fix",
-      "latest": "1.0",
+      "latest": "2.0-1",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/system-memory-reset-fix/",
       "shortDescription": "Prevent overnight userspace reboots triggered by mmaintenanced",
@@ -39000,7 +39020,7 @@
       "latest": "1.2.1",
       "repository": "Twickd",
       "url": "http://cydia.saurik.com/package/com.twickd.tacitus/",
-      "shortDescription": "The New Bluetooth Connecting Experience",
+      "shortDescription": "The new Bluetooth Connecting Experience. Available for ALL Bluetooth Devices",
       "category": "Tweaks",
       "author": "Hugo",
       "commercial": true,
@@ -39471,10 +39491,10 @@
     {
       "id": "net.tetherme.tetherme8",
       "name": "TetherMe for iOS 10/9/8",
-      "latest": "1.2.3~arm64e-1",
+      "latest": "1.2.2-1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/net.tetherme.tetherme8/",
-      "shortDescription": "Dynamically enables native tethering for iOS8+ devices.  This should work on any carrier without the need for customized bundles or preferences.",
+      "shortDescription": "Dynamically enables native tethering iOS8+",
       "category": "Tweaks",
       "author": "Sam Bingner",
       "commercial": true,
@@ -40358,40 +40378,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.tweakcompatible",
-      "name": "tweakCompatible",
-      "latest": "0.0.9",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.tweakcompatible/",
-      "shortDescription": "Adds a way to check tweak compatibility in cydia",
-      "category": "HYI - Tweaks",
-      "author": "Jed",
-      "commercial": false,
-      "date": "2019-03-06T13:56:01Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.9",
-          "iOSVersion": "12.0.1",
-          "repository": "(null)",
-          "date": "2019-03-06T13:56:01Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "bz.jed.tweakcompatible",
       "name": "tweakCompatible",
       "latest": "0.1.5",
@@ -40513,6 +40499,40 @@
             "good": 4,
             "bad": 0,
             "total": 4,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.tweakcompatible",
+      "name": "tweakCompatible",
+      "latest": "0.0.9",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.tweakcompatible/",
+      "shortDescription": "Adds a way to check tweak compatibility in cydia",
+      "category": "HYI - Tweaks",
+      "author": "Jed",
+      "commercial": false,
+      "date": "2019-03-06T13:56:01Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.9",
+          "iOSVersion": "12.0.1",
+          "repository": "(null)",
+          "date": "2019-03-06T13:56:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -40660,40 +40680,6 @@
       ]
     },
     {
-      "id": "com.yourepo.tweakportal.twitterlabs",
-      "name": "Twitter Labs",
-      "latest": "1.0.4",
-      "repository": "TweakPortal - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.twitterlabs/",
-      "shortDescription": "Twitter labs is a tweak that allows you to customize the look and feel of Twitter",
-      "category": "Tweaks",
-      "author": "Aesthyrica",
-      "commercial": false,
-      "date": "2019-03-15T01:57:29Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.4",
-          "iOSVersion": "12.0.1",
-          "repository": "TweakPortal - YouRepo",
-          "date": "2019-03-15T01:57:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.pvmntsdev.twitterlabs",
       "name": "Twitter Labs",
       "latest": "1.0.6",
@@ -40714,6 +40700,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.tweakportal.twitterlabs",
+      "name": "Twitter Labs",
+      "latest": "1.0.4",
+      "repository": "TweakPortal - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.tweakportal.twitterlabs/",
+      "shortDescription": "Twitter labs is a tweak that allows you to customize the look and feel of Twitter",
+      "category": "Tweaks",
+      "author": "Aesthyrica",
+      "commercial": false,
+      "date": "2019-03-15T01:57:29Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.4",
+          "iOSVersion": "12.0.1",
+          "repository": "TweakPortal - YouRepo",
+          "date": "2019-03-15T01:57:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -40851,7 +40871,7 @@
     {
       "id": "com.unlimapps.uasharedtools",
       "name": "uasharedtools",
-      "latest": "2.2r-87",
+      "latest": "2.2r-91",
       "repository": "beta.unlimapps.com",
       "url": "http://beta.unlimapps.com/",
       "shortDescription": "shared tools for unlimapps tweaks",
@@ -40884,7 +40904,7 @@
     {
       "id": "com.unlimapps.uasharedtools.nostash",
       "name": "uasharedtools (iOS 11)",
-      "latest": "2.2r-87",
+      "latest": "2.2r-91",
       "repository": "test.unlimapps.com",
       "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
       "shortDescription": "shared tools for unlimapps tweaks",
@@ -42885,10 +42905,10 @@
     {
       "id": "com.iarrays.whoozit",
       "name": "WhoozItPro",
-      "latest": "2.0.7-beta-20",
+      "latest": "2.0.4-beta-8",
       "repository": "IArrays",
       "url": "http://iarrays.com/",
-      "shortDescription": "Now with iOS 12 support. The all in one perfect caller ID solution for your iDevice. No clue who is calling you and don't know whom you missed? Don't worry, now this all in one perfect caller ID solution will make your life is more simple. Just install this and TrueCaller on your device and just start searchin the calls from you stack apps like Phone, Messages & Notification Center and even from the Recents (tweak).",
+      "shortDescription": "Now with iOS 10 support. The all in one perfect caller ID solution for your iDevice. No clue who is calling you and don't know whom you missed? Don't worry, now this all in one perfect caller ID solution will make your life is more simple. Just install this and TrueCaller on your device and just start searchin the calls from you stack apps like Phone, Messages & Notification Center and even from the Recents (tweak).",
       "category": "Utilities",
       "author": "IArrays",
       "commercial": false,
@@ -43480,7 +43500,7 @@
     {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
-      "latest": "0.5.4",
+      "latest": "0.5.5-6",
       "repository": "xenpublic.incendo.ws",
       "url": "http://cydia.saurik.com/package/com.matchstic.xenhtml/",
       "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
@@ -44043,22 +44063,22 @@
       ]
     },
     {
-      "id": "com.yourepo.jpet26.youtubetools",
+      "id": "com.repo.xarold.com.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
-      "repository": "jpet26 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.youtubetools/",
       "shortDescription": "Essential toolbox for YouTube app.",
       "category": "Tweaks",
       "author": "Justin Petkovic",
       "commercial": false,
-      "date": "2019-05-25T17:07:36Z",
+      "date": "2019-04-14T06:32:43Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "12.0.1",
-          "repository": "jpet26 Source - YouRepo",
-          "date": "2019-08-12T03:40:10Z",
+          "repository": "(null)",
+          "date": "2019-04-14T06:32:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -44130,22 +44150,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.youtubetools",
+      "id": "com.yourepo.jpet26.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.youtubetools/",
+      "repository": "jpet26 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
       "shortDescription": "Essential toolbox for YouTube app.",
       "category": "Tweaks",
       "author": "Justin Petkovic",
       "commercial": false,
-      "date": "2019-04-14T06:32:43Z",
+      "date": "2019-05-25T17:07:36Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "12.0.1",
-          "repository": "(null)",
-          "date": "2019-04-14T06:32:43Z",
+          "repository": "jpet26 Source - YouRepo",
+          "date": "2019-08-12T03:40:10Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -44266,7 +44286,7 @@
     {
       "id": "xyz.willy.zebra",
       "name": "Zebra (BETA)",
-      "latest": "1.0~beta19",
+      "latest": "1.0~beta20-2",
       "repository": "xTM3x Repo",
       "url": "http://cydia.saurik.com/package/xyz.willy.zebra/",
       "shortDescription": "A Useful Package Manager",
@@ -44482,7 +44502,7 @@
     {
       "id": "com.alexzielenski.zeppelin",
       "name": "Zeppelin",
-      "latest": "2.1.1-1",
+      "latest": "2.1.0-12",
       "repository": "ModMyi (Archive)",
       "url": "http://cydia.saurik.com/package/com.alexzielenski.zeppelin/",
       "shortDescription": "Replaces carrier text with an image!",
