@@ -4387,40 +4387,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.4.10",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11 & 12",
-      "category": "HYI - Tweaks",
-      "author": "ATWiiks",
-      "commercial": false,
-      "date": "2018-06-30T16:14:01Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.10",
-          "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-20T01:42:06Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.10",
@@ -4443,6 +4409,40 @@
             "good": 8,
             "bad": 0,
             "total": 8,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.4.10",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11 & 12",
+      "category": "HYI - Tweaks",
+      "author": "ATWiiks",
+      "commercial": false,
+      "date": "2018-06-30T16:14:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.10",
+          "iOSVersion": "12.4",
+          "repository": "(null)",
+          "date": "2019-08-20T01:42:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -5799,22 +5799,22 @@
       ]
     },
     {
-      "id": "com.cydiageek.byebreadcrumbs",
+      "id": "com.yourepo.cydiageek.byebreadcrumbs",
       "name": "ByeBreadcrumbs",
-      "latest": "1.0.2",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.cydiageek.byebreadcrumbs/",
-      "shortDescription": "Get Rid of the Breadcrumbs on StatusBar!",
+      "latest": "1.0.1",
+      "repository": "CydiaGeek Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.byebreadcrumbs/",
+      "shortDescription": "Get Rid of the Breadcrumbs on your iOS 11StatusBar! BarFade Feature! Tip thanks sinfool for iOS 11 working.",
       "category": "Tweaks",
       "author": "CydiaGeek",
       "commercial": false,
-      "date": "2019-07-10T07:48:27Z",
+      "date": "2018-06-06T17:46:14Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2",
+          "tweakVersion": "1.0.1",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-18T22:16:27Z",
+          "repository": "CydiaGeek Source - YouRepo",
+          "date": "2019-08-20T14:50:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5833,22 +5833,22 @@
       ]
     },
     {
-      "id": "com.yourepo.cydiageek.byebreadcrumbs",
+      "id": "com.cydiageek.byebreadcrumbs",
       "name": "ByeBreadcrumbs",
-      "latest": "1.0.1",
-      "repository": "CydiaGeek Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.cydiageek.byebreadcrumbs/",
-      "shortDescription": "Get Rid of the Breadcrumbs on your iOS 11StatusBar! BarFade Feature! Tip thanks sinfool for iOS 11 working.",
+      "latest": "1.0.2",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.cydiageek.byebreadcrumbs/",
+      "shortDescription": "Get Rid of the Breadcrumbs on StatusBar!",
       "category": "Tweaks",
       "author": "CydiaGeek",
       "commercial": false,
-      "date": "2018-06-06T17:46:14Z",
+      "date": "2019-07-10T07:48:27Z",
       "versions": [
         {
-          "tweakVersion": "1.0.1",
+          "tweakVersion": "1.0.2",
           "iOSVersion": "12.4",
-          "repository": "CydiaGeek Source - YouRepo",
-          "date": "2019-08-20T14:50:31Z",
+          "repository": "BigBoss",
+          "date": "2019-08-18T22:16:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6016,6 +6016,40 @@
           "iOSVersion": "12.4",
           "repository": "Pix' Repo",
           "date": "2019-08-19T03:07:12Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "bzip2",
+      "name": "bzip2",
+      "latest": "1.0.6-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/bzip2/",
+      "shortDescription": "compression that's slightly better than gzip",
+      "category": "Archiving",
+      "author": "(null)",
+      "commercial": false,
+      "date": "2018-03-04T19:00:31Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.6-1",
+          "iOSVersion": "12.4",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-08-21T18:33:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10267,22 +10301,22 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.cydown",
+      "id": "ru.rejail.cydown",
       "name": "CyDown",
-      "latest": "6.9.7",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cydown/",
-      "shortDescription": "Cydia Download Manager & Extra Features!",
-      "category": "iOS 12",
+      "latest": "6.9.7r",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.rejail.cydown/",
+      "shortDescription": "Установка платных пакетов в Cydia бесплатно!",
+      "category": "Utilities",
       "author": "julioverne",
       "commercial": false,
-      "date": "2019-07-04T11:33:16Z",
+      "date": "2019-02-24T12:29:14Z",
       "versions": [
         {
-          "tweakVersion": "6.9.7",
+          "tweakVersion": "6.9.7r",
           "iOSVersion": "12.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-08-21T04:39:24Z",
+          "repository": "ReJail Repo",
+          "date": "2019-08-19T17:12:55Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10301,22 +10335,22 @@
       ]
     },
     {
-      "id": "ru.rejail.cydown",
+      "id": "cydia.kiiimo.org.cydown",
       "name": "CyDown",
-      "latest": "6.9.7r",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.rejail.cydown/",
-      "shortDescription": "Установка платных пакетов в Cydia бесплатно!",
-      "category": "Utilities",
+      "latest": "6.9.7",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cydown/",
+      "shortDescription": "Cydia Download Manager & Extra Features!",
+      "category": "iOS 12",
       "author": "julioverne",
       "commercial": false,
-      "date": "2019-02-24T12:29:14Z",
+      "date": "2019-07-04T11:33:16Z",
       "versions": [
         {
-          "tweakVersion": "6.9.7r",
+          "tweakVersion": "6.9.7",
           "iOSVersion": "12.4",
-          "repository": "ReJail Repo",
-          "date": "2019-08-19T17:12:55Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-08-21T04:39:24Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13975,6 +14009,40 @@
       ]
     },
     {
+      "id": "ru.rejail.filza",
+      "name": "Filza File Manager",
+      "latest": "3.6.2k",
+      "repository": "ReJail Repo",
+      "url": "http://cydia.saurik.com/package/ru.rejail.filza/",
+      "shortDescription": "Файловый менеджер для iOS",
+      "category": "Utilities",
+      "author": "TIGI Software",
+      "commercial": false,
+      "date": "2019-08-20T10:06:45Z",
+      "versions": [
+        {
+          "tweakVersion": "3.6.2k",
+          "iOSVersion": "12.4",
+          "repository": "ReJail Repo",
+          "date": "2019-08-20T10:06:45Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
       "latest": "3.7.0-18",
@@ -14016,40 +14084,6 @@
             "good": 2,
             "bad": 0,
             "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.rejail.filza",
-      "name": "Filza File Manager",
-      "latest": "3.6.2k",
-      "repository": "ReJail Repo",
-      "url": "http://cydia.saurik.com/package/ru.rejail.filza/",
-      "shortDescription": "Файловый менеджер для iOS",
-      "category": "Utilities",
-      "author": "TIGI Software",
-      "commercial": false,
-      "date": "2019-08-20T10:06:45Z",
-      "versions": [
-        {
-          "tweakVersion": "3.6.2k",
-          "iOSVersion": "12.4",
-          "repository": "ReJail Repo",
-          "date": "2019-08-20T10:06:45Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -15063,40 +15097,6 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
-      "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
-      "category": "Tweaks",
-      "author": "SpicaT",
-      "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "12.4",
-          "repository": "Spica T Repo",
-          "date": "2019-08-20T05:48:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
       "latest": "0.0.1-2",
@@ -15119,6 +15119,40 @@
             "good": 2,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.spicat.forceinpicture",
+      "name": "ForceInPicture",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "category": "Tweaks",
+      "author": "SpicaT",
+      "commercial": false,
+      "date": "2018-07-18T14:45:11Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "12.4",
+          "repository": "Spica T Repo",
+          "date": "2019-08-20T05:48:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -18100,39 +18134,6 @@
       ]
     },
     {
-      "id": "com.exile90.icleanerpro",
-      "name": "iCleaner Pro",
-      "latest": "7.7.5",
-      "repository": "Karen's Repo",
-      "url": "http://ib-soft.net/icleaner",
-      "shortDescription": "The first real iOS system cleaner & optimizer",
-      "category": "Utilities",
-      "author": "Ivano Bilenchi",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "7.7.5",
-          "iOSVersion": "12.4",
-          "repository": "Ivano Bilenchi's Repo",
-          "date": "2019-08-18T18:12:45Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 7,
-            "bad": 0,
-            "total": 7,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.rejail.icleanerpro",
       "name": "iCleaner Pro",
       "latest": "7.7.5",
@@ -18155,6 +18156,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.exile90.icleanerpro",
+      "name": "iCleaner Pro",
+      "latest": "7.7.5",
+      "repository": "Karen's Repo",
+      "url": "http://ib-soft.net/icleaner",
+      "shortDescription": "The first real iOS system cleaner & optimizer",
+      "category": "Utilities",
+      "author": "Ivano Bilenchi",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "7.7.5",
+          "iOSVersion": "12.4",
+          "repository": "Ivano Bilenchi's Repo",
+          "date": "2019-08-18T18:12:45Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 7,
+            "bad": 0,
+            "total": 7,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -20512,6 +20546,39 @@
       ]
     },
     {
+      "id": "org.thebigboss.libcolorpicker",
+      "name": "libcolorpicker",
+      "latest": "1.6.3-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/",
+      "shortDescription": "color picker library for developers",
+      "category": "Development",
+      "author": "PixelFire",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.6.3-1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T17:34:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.nepeta.libcolorpicker",
       "name": "libcolorpicker",
       "latest": "1.6.2-2",
@@ -20534,39 +20601,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "org.thebigboss.libcolorpicker",
-      "name": "libcolorpicker",
-      "latest": "1.6.3-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/",
-      "shortDescription": "color picker library for developers",
-      "category": "Development",
-      "author": "PixelFire",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.6.3-1",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T17:34:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -24028,21 +24062,22 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
+      "id": "mterminal",
       "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "latest": "1.4-6",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
+      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5",
+          "tweakVersion": "1.4-6",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-18T23:31:50Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-08-18T22:12:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -24061,22 +24096,21 @@
       ]
     },
     {
-      "id": "mterminal",
+      "id": "com.officialscheduler.mterminal",
       "name": "MTerminal",
-      "latest": "1.4-6",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/mterminal/",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
-      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-6",
+          "tweakVersion": "1.4-5",
           "iOSVersion": "12.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-08-18T22:12:28Z",
+          "repository": "BigBoss",
+          "date": "2019-08-18T23:31:50Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -33700,21 +33734,22 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2",
+      "id": "com.jontelang.snapper2.packix",
       "name": "Snapper 2",
-      "latest": "1.2.6",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
+      "latest": "2.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger Lang",
+      "author": "Jonathan Winger-lang",
       "commercial": true,
+      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "1.4.2",
+          "tweakVersion": "2.1",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T04:31:42Z",
+          "repository": "Packix",
+          "date": "2019-08-19T04:27:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -33733,22 +33768,21 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2.packix",
+      "id": "com.jontelang.snapper2",
       "name": "Snapper 2",
-      "latest": "2.1",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
+      "latest": "1.2.6",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger-lang",
+      "author": "Jonathan Winger Lang",
       "commercial": true,
-      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "2.1",
+          "tweakVersion": "1.4.2",
           "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-19T04:27:09Z",
+          "repository": "BigBoss",
+          "date": "2019-08-19T04:31:42Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -35829,6 +35863,39 @@
       ]
     },
     {
+      "id": "com.iky1e.swipeselection-pro",
+      "name": "SwipeSelection Pro",
+      "latest": "1.0.3-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection-pro/",
+      "shortDescription": "Swipe along the keyboard to move cursor & select text.",
+      "category": "Tweaks",
+      "author": "iKy1e (Kyle Howells)",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.0.3-1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T10:19:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "vn.ftios.swipeselection",
       "name": "SwipeSelection Pro",
       "latest": "1.0.3-1",
@@ -35851,39 +35918,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.iky1e.swipeselection-pro",
-      "name": "SwipeSelection Pro",
-      "latest": "1.0.3-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection-pro/",
-      "shortDescription": "Swipe along the keyboard to move cursor & select text.",
-      "category": "Tweaks",
-      "author": "iKy1e (Kyle Howells)",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.0.3-1",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T10:19:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -39026,22 +39060,21 @@
       ]
     },
     {
-      "id": "ru.rejail.veexillum",
+      "id": "com.macciti.veexillum",
       "name": "Veexillum",
       "latest": "2.7",
-      "repository": "ReJail Repo",
-      "url": "http://cydia.saurik.com/package/ru.rejail.veexillum/",
-      "shortDescription": "Тема для WinterBoard",
-      "category": "Themes",
+      "repository": "ZodTTD & MacCiti (Archive)",
+      "url": "http://cydia.saurik.com/package/com.macciti.veexillum/",
+      "shortDescription": "True Simplicity",
+      "category": "Themes (SpringBoard)",
       "author": "veerklempt",
-      "commercial": false,
-      "date": "2019-08-21T16:49:50Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "2.7",
           "iOSVersion": "12.4",
-          "repository": "ReJail Repo",
-          "date": "2019-08-21T16:49:50Z",
+          "repository": "ZodTTD & MacCiti (Archive)",
+          "date": "2019-08-19T02:59:38Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -39060,21 +39093,22 @@
       ]
     },
     {
-      "id": "com.macciti.veexillum",
+      "id": "ru.rejail.veexillum",
       "name": "Veexillum",
       "latest": "2.7",
-      "repository": "ZodTTD & MacCiti (Archive)",
-      "url": "http://cydia.saurik.com/package/com.macciti.veexillum/",
-      "shortDescription": "True Simplicity",
-      "category": "Themes (SpringBoard)",
+      "repository": "ReJail Repo",
+      "url": "http://cydia.saurik.com/package/ru.rejail.veexillum/",
+      "shortDescription": "Тема для WinterBoard",
+      "category": "Themes",
       "author": "veerklempt",
-      "commercial": true,
+      "commercial": false,
+      "date": "2019-08-21T16:49:50Z",
       "versions": [
         {
           "tweakVersion": "2.7",
           "iOSVersion": "12.4",
-          "repository": "ZodTTD & MacCiti (Archive)",
-          "date": "2019-08-19T02:59:38Z",
+          "repository": "ReJail Repo",
+          "date": "2019-08-21T16:49:50Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -40656,6 +40690,39 @@
       ]
     },
     {
+      "id": "com.justinpetkovic.youtubetools",
+      "name": "YouTube Tools",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
+      "shortDescription": "Essential toolbox for YouTube app.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.4",
+          "repository": "(null)",
+          "date": "2019-08-18T18:45:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.jpet26.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
@@ -40678,39 +40745,6 @@
             "good": 3,
             "bad": 0,
             "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.justinpetkovic.youtubetools",
-      "name": "YouTube Tools",
-      "latest": "2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
-      "shortDescription": "Essential toolbox for YouTube app.",
-      "category": "Tweaks",
-      "author": "Justin Petkovic",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-18T18:45:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
