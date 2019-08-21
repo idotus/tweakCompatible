@@ -2919,10 +2919,10 @@
       "date": "2019-08-19T11:38:34Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 92,
         "good": 13,
         "bad": 0,
-        "total": 13,
+        "total": 14,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3047,6 +3047,15 @@
           "date": "2019-08-21T12:26:36Z",
           "userName": "j0k3r",
           "issueNumber": 96253,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPod7,1",
+          "issues": "Denies me to respring",
+          "date": "2019-08-21T21:46:05Z",
+          "userName": "DaveSwitch",
+          "issueNumber": 96618,
           "arch32": false
         }
       ]
