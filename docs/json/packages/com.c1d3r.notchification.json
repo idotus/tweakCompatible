@@ -1,10 +1,10 @@
 {
   "id": "com.c1d3r.notchification",
   "name": "Notchification",
-  "latest": "1.4.2",
+  "latest": "1.7-5",
   "repository": "C1d3r Repo",
   "url": "http://cydia.saurik.com/package/com.c1d3r.notchification/",
-  "shortDescription": "Beautiful animated notifications for all device;",
+  "shortDescription": "Beautiful animated notifications for all device",
   "category": "System",
   "author": "c1d3r",
   "commercial": false,
@@ -1908,9 +1908,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1927,6 +1927,15 @@
           "date": "2019-08-19T03:57:20Z",
           "userName": "flyplt",
           "issueNumber": 94468,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-21T05:01:26Z",
+          "userName": "MichaeLondon116",
+          "issueNumber": 96173,
           "arch32": false
         }
       ]
