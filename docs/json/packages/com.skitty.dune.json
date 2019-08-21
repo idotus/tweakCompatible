@@ -1,7 +1,7 @@
 {
   "id": "com.skitty.dune",
   "name": "Dune",
-  "latest": "1.0-3+debug",
+  "latest": "1.2.1",
   "repository": "Skitty's Repo",
   "url": "http://cydia.saurik.com/package/com.skitty.dune/",
   "shortDescription": "A free, open-source iOS dark mode.",
@@ -1282,9 +1282,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1319,6 +1319,15 @@
           "date": "2019-08-19T17:27:27Z",
           "userName": "nogoyev",
           "issueNumber": 95169,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-21T13:34:19Z",
+          "userName": "steezyprodz",
+          "issueNumber": 96293,
           "arch32": false
         }
       ]
