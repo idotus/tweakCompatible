@@ -1,7 +1,7 @@
 {
   "id": "com.samgisaninja.successionrestore",
   "name": "Succession [beta]",
-  "latest": "1.3.6",
+  "latest": "1.4-b5",
   "repository": "Samg_is_a_Ninja Repo",
   "url": "http://cydia.saurik.com/package/com.samgisaninja.successionrestore/",
   "shortDescription": "Restore without updating via rootfilesystem DMG",
@@ -1300,6 +1300,37 @@
           "date": "2019-08-21T16:40:58Z",
           "userName": "zdevcon",
           "issueNumber": 96377,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4-b5",
+      "iOSVersion": "12.4",
+      "repository": "Samg_is_a_Ninja unstable",
+      "date": "2019-08-21T22:59:52Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-21T22:59:52Z",
+          "userName": "Samgisaninja",
+          "issueNumber": 96640,
           "arch32": false
         }
       ]
