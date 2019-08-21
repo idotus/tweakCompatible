@@ -1,10 +1,10 @@
 {
   "id": "com.bytafont.bytafonttm",
   "name": "BytaFont Tweak Mode",
-  "latest": "3.6",
+  "latest": "1.1.7",
   "repository": "BytaFont",
   "url": "http://repo.bytafont.com/latest/",
-  "shortDescription": "BytaFont Tweak Mode for BytaFont 3.",
+  "shortDescription": "BytaFont Tweak Mode",
   "category": "Tweaks",
   "author": "BytaFont.com",
   "commercial": false,
@@ -851,6 +851,37 @@
           "date": "2019-08-19T03:07:12Z",
           "userName": "MKhaliiFa",
           "issueNumber": 94433,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.7",
+      "iOSVersion": "12.2",
+      "repository": "BytaFont",
+      "date": "2019-08-21T16:29:27Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-21T16:29:27Z",
+          "userName": "Skodal99",
+          "issueNumber": 96357,
           "arch32": false
         }
       ]
