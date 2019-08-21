@@ -1950,11 +1950,11 @@
       "repository": "BigBoss",
       "date": "2019-08-19T04:27:44Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1971,6 +1971,15 @@
           "date": "2019-08-19T04:27:44Z",
           "userName": "maestronix",
           "issueNumber": 94499,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Show Daemons doesn’t work and the graphic can’t be used now.",
+          "date": "2019-08-21T07:14:27Z",
+          "userName": "alexPNG",
+          "issueNumber": 96213,
           "arch32": false
         }
       ]
