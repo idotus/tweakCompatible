@@ -922,10 +922,10 @@
       "date": "2019-08-18T18:50:19Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -960,6 +960,15 @@
           "date": "2019-08-20T05:18:06Z",
           "userName": "AndrewHocking",
           "issueNumber": 95632,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-08-21T20:50:06Z",
+          "userName": "robonxt",
+          "issueNumber": 96571,
           "arch32": false
         }
       ]
