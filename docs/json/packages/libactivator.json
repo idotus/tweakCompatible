@@ -5845,10 +5845,10 @@
       "date": "2019-07-16T17:07:23Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 80,
-        "good": 4,
+        "percentage": 83,
+        "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5901,6 +5901,15 @@
           "date": "2019-08-03T19:44:15Z",
           "userName": "indimaha",
           "issueNumber": 93451,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-08-21T21:04:48Z",
+          "userName": "heyimayra",
+          "issueNumber": 96579,
           "arch32": false
         }
       ]
