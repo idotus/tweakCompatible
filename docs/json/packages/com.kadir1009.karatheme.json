@@ -1,7 +1,7 @@
 {
   "id": "com.kadir1009.karatheme",
   "name": "Kara",
-  "latest": "1.1.9",
+  "latest": "1.2.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.kadir1009.karatheme/",
   "shortDescription": "Dark theme for dark lovers.",
@@ -37,6 +37,37 @@
           "date": "2019-08-02T06:51:06Z",
           "userName": "gokmenecer",
           "issueNumber": 93364,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-21T04:46:47Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-21T04:46:47Z",
+          "userName": "Barny13",
+          "issueNumber": 96169,
           "arch32": false
         }
       ]
