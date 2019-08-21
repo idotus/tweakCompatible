@@ -1643,11 +1643,11 @@
       "repository": "Dynastic Repo",
       "date": "2019-08-18T22:11:40Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 2,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1691,6 +1691,15 @@
           "date": "2019-08-20T17:11:45Z",
           "userName": "RubenHenriques7",
           "issueNumber": 95960,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Causes safe-mode on every refresh",
+          "date": "2019-08-21T05:31:15Z",
+          "userName": "Knogobert",
+          "issueNumber": 96183,
           "arch32": false
         }
       ]
