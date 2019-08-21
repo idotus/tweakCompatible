@@ -1,10 +1,10 @@
 {
   "id": "me.gmoran.fiveicondockxi",
   "name": "FiveIconDockXI",
-  "latest": "0.0.5",
+  "latest": "1.0",
   "repository": "GMoran Beta Software",
   "url": "http://cydia.saurik.com/package/me.gmoran.fiveicondockxi/",
-  "shortDescription": "Five icon dock for iOS 11 AND 12!",
+  "shortDescription": "Five Icon Dock for iOS 11 AND 12!",
   "category": "Tweaks",
   "author": "Guillermo Moran",
   "commercial": false,
@@ -1561,9 +1561,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1589,6 +1589,15 @@
           "date": "2019-07-16T12:33:44Z",
           "userName": "Reiza1993",
           "issueNumber": 91575,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-21T07:24:07Z",
+          "userName": "Skodal99",
+          "issueNumber": 96217,
           "arch32": false
         }
       ]
