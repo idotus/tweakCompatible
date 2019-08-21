@@ -4253,10 +4253,10 @@
       "date": "2019-08-19T03:08:40Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -4282,6 +4282,15 @@
           "date": "2019-08-21T08:46:41Z",
           "userName": "STANDERDEAD",
           "issueNumber": 96224,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "",
+          "date": "2019-08-21T10:16:01Z",
+          "userName": "Johnpartyk",
+          "issueNumber": 96240,
           "arch32": false
         }
       ]
