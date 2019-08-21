@@ -1644,10 +1644,10 @@
       "date": "2019-08-18T22:11:40Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 40,
+        "percentage": 33,
         "good": 2,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1700,6 +1700,15 @@
           "date": "2019-08-21T05:31:15Z",
           "userName": "Knogobert",
           "issueNumber": 96183,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-21T07:15:40Z",
+          "userName": "TheLegendaryNighthawk",
+          "issueNumber": 96214,
           "arch32": false
         }
       ]
