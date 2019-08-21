@@ -5318,8 +5318,8 @@
       "date": "2019-08-18T23:05:29Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 19,
-        "good": 4,
+        "percentage": 14,
+        "good": 3,
         "bad": 0,
         "total": 21,
         "arch32": {
@@ -5392,15 +5392,6 @@
           "date": "2019-08-19T02:30:21Z",
           "userName": "MoeSivo",
           "issueNumber": 94401,
-          "arch32": false
-        },
-        {
-          "status": "working",
-          "device": "iPhone10,6",
-          "issues": "",
-          "date": "2019-08-19T13:34:44Z",
-          "userName": "jaskiratgazal",
-          "issueNumber": 94991,
           "arch32": false
         },
         {
@@ -5518,6 +5509,15 @@
           "date": "2019-08-21T00:59:34Z",
           "userName": "SpicyCoding",
           "issueNumber": 96102,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-21T18:10:17Z",
+          "userName": "jaskiratgazal",
+          "issueNumber": 96464,
           "arch32": false
         }
       ]
