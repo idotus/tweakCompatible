@@ -5318,10 +5318,10 @@
       "date": "2019-08-18T23:05:29Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 20,
+        "percentage": 19,
         "good": 4,
         "bad": 0,
-        "total": 20,
+        "total": 21,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5509,6 +5509,15 @@
           "date": "2019-08-20T16:01:53Z",
           "userName": "chris15joseph",
           "issueNumber": 95929,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "iPhone 8 Plus, unc0ver",
+          "date": "2019-08-21T00:59:34Z",
+          "userName": "SpicyCoding",
+          "issueNumber": 96102,
           "arch32": false
         }
       ]
