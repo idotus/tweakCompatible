@@ -4252,11 +4252,11 @@
       "repository": "julioverne's Repo",
       "date": "2019-08-19T03:08:40Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -4300,6 +4300,15 @@
           "date": "2019-08-21T15:43:58Z",
           "userName": "oneking99",
           "issueNumber": 96331,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-21T16:48:56Z",
+          "userName": "ar2rjke",
+          "issueNumber": 96392,
           "arch32": false
         }
       ]
