@@ -991,6 +991,46 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.2",
+      "iOSVersion": "12.4",
+      "repository": "rpetrich repo",
+      "date": "2019-08-20T06:30:40Z",
+      "outcome": {
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
+        "bad": 0,
+        "total": 2,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPod7,1",
+          "issues": "Not tested - Tweak info saying iOS 12 not supported yet",
+          "date": "2019-08-20T06:30:40Z",
+          "userName": "DaveSwitch",
+          "issueNumber": 95714,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-21T04:16:28Z",
+          "userName": "S4MT3K",
+          "issueNumber": 96157,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
