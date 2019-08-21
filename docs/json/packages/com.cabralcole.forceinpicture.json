@@ -1141,10 +1141,10 @@
       "date": "2019-08-20T02:24:42Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1170,6 +1170,15 @@
           "date": "2019-08-20T14:51:10Z",
           "userName": "hsggdvdv",
           "issueNumber": 95894,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "Working for me",
+          "date": "2019-08-21T15:35:00Z",
+          "userName": "CuzImInside",
+          "issueNumber": 96327,
           "arch32": false
         }
       ]
