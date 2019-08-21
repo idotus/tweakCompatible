@@ -1,7 +1,7 @@
 {
   "id": "org.hacx.superrecorderxplus",
   "name": "Super Recorder X+ (iOS 12)",
-  "latest": "3.05-2",
+  "latest": "3.06",
   "repository": "hAcx Repository",
   "url": "http://cydia.saurik.com/package/org.hacx.superrecorderxplus/",
   "shortDescription": "Call Recorder & Voice Amplifier",
@@ -192,6 +192,37 @@
           "date": "2019-08-19T02:33:10Z",
           "userName": "75Y",
           "issueNumber": 94412,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "3.06",
+      "iOSVersion": "12.4",
+      "repository": "hAcx Repo",
+      "date": "2019-08-21T20:00:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-21T20:00:31Z",
+          "userName": "ar2rjke",
+          "issueNumber": 96567,
           "arch32": false
         }
       ]
