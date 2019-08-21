@@ -1,10 +1,10 @@
 {
   "id": "com.niro.kik8",
   "name": "K8",
-  "latest": "4.2-562+debug",
+  "latest": "4.1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.niro.kik8/",
-  "shortDescription": "kik8 brings the user the very best experience from fake camera to being 'hidden' v1.2 will have custom text color, and much more ;)",
+  "shortDescription": "enhancement tweaks for Kik app",
   "category": "Tweaks",
   "author": "K8Team",
   "commercial": false,
@@ -157,6 +157,37 @@
           "date": "2018-09-04T12:46:00Z",
           "userName": "xrouk",
           "issueNumber": 49158,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "4.1",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-21T02:15:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-08-21T02:15:57Z",
+          "userName": "Hockeyplayer46",
+          "issueNumber": 96122,
           "arch32": false
         }
       ]
