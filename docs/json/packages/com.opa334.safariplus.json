@@ -5690,9 +5690,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 5,
+        "good": 6,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5745,6 +5745,15 @@
           "date": "2019-08-21T02:50:12Z",
           "userName": "fosterd",
           "issueNumber": 96130,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-21T16:11:07Z",
+          "userName": "steezyprodz",
+          "issueNumber": 96352,
           "arch32": false
         }
       ]
