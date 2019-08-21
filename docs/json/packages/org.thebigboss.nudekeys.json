@@ -2707,10 +2707,10 @@
       "date": "2019-08-20T05:22:05Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2736,6 +2736,15 @@
           "date": "2019-08-20T06:36:27Z",
           "userName": "Unquieterpig",
           "issueNumber": 95715,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-21T15:23:10Z",
+          "userName": "neoncarnation",
+          "issueNumber": 96322,
           "arch32": false
         }
       ]
