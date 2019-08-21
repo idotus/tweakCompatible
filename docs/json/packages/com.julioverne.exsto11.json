@@ -516,9 +516,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -535,6 +535,15 @@
           "date": "2019-08-20T05:20:37Z",
           "userName": "AndrewHocking",
           "issueNumber": 95643,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "May glitch (rarely, 1/200 opens?)",
+          "date": "2019-08-21T20:53:29Z",
+          "userName": "robonxt",
+          "issueNumber": 96574,
           "arch32": false
         }
       ]
