@@ -213,9 +213,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -232,6 +232,15 @@
           "date": "2019-08-21T14:01:20Z",
           "userName": "steezyprodz",
           "issueNumber": 96311,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "Not compatible with SendDelay, crashes messages app after pressing send",
+          "date": "2019-08-21T17:47:21Z",
+          "userName": "starmega",
+          "issueNumber": 96458,
           "arch32": false
         }
       ]
