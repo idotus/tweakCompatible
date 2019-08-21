@@ -195,6 +195,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.16.0-6",
+      "iOSVersion": "12.4",
+      "repository": "cokepokes.github.io",
+      "date": "2019-08-21T18:27:53Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-21T18:27:53Z",
+          "userName": "ar2rjke",
+          "issueNumber": 96474,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
