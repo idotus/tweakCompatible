@@ -1,7 +1,7 @@
 {
   "id": "dpkg",
   "name": "Debian Packager",
-  "latest": "1.19.7-1",
+  "latest": "1.18.25-11",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/dpkg/",
   "shortDescription": "package maintainance tools from Debian",
@@ -2924,6 +2924,37 @@
           "date": "2019-08-19T10:36:49Z",
           "userName": "delon5",
           "issueNumber": 94773,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.18.25-11",
+      "iOSVersion": "12.4",
+      "repository": "Bingner/Elucubratus",
+      "date": "2019-08-21T18:45:02Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-21T18:45:02Z",
+          "userName": "ar2rjke",
+          "issueNumber": 96531,
           "arch32": false
         }
       ]
