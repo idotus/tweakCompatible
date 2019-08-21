@@ -5690,9 +5690,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 5,
         "bad": 0,
-        "total": 3,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5727,6 +5727,24 @@
           "date": "2019-08-20T21:12:55Z",
           "userName": "percyjk23",
           "issueNumber": 96017,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "Setting are little buggy",
+          "date": "2019-08-20T21:31:46Z",
+          "userName": "CuzImInside",
+          "issueNumber": 96036,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-08-21T02:50:12Z",
+          "userName": "fosterd",
+          "issueNumber": 96130,
           "arch32": false
         }
       ]
