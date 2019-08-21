@@ -2438,10 +2438,10 @@
       "date": "2019-08-18T23:02:15Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 85,
         "good": 6,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2503,6 +2503,15 @@
           "date": "2019-08-19T17:39:43Z",
           "userName": "shepgoba",
           "issueNumber": 95191,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Appstore crashing",
+          "date": "2019-08-21T13:56:53Z",
+          "userName": "CuzImInside",
+          "issueNumber": 96309,
           "arch32": false
         }
       ]
