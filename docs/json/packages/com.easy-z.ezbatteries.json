@@ -433,11 +433,11 @@
       "repository": "Nepeta",
       "date": "2019-08-19T23:20:47Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -454,6 +454,15 @@
           "date": "2019-08-19T23:20:47Z",
           "userName": "FunnyBunnyKeK",
           "issueNumber": 95454,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Crashes phone into safe mode all the Time ",
+          "date": "2019-08-21T18:35:32Z",
+          "userName": "josef403",
+          "issueNumber": 96510,
           "arch32": false
         }
       ]
