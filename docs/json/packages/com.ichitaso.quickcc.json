@@ -377,9 +377,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 6,
+        "good": 7,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -441,6 +441,15 @@
           "date": "2019-08-21T15:22:05Z",
           "userName": "maximusprimate",
           "issueNumber": 96319,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "Animations are not that fluid",
+          "date": "2019-08-21T17:16:32Z",
+          "userName": "CuzImInside",
+          "issueNumber": 96452,
           "arch32": false
         }
       ]
