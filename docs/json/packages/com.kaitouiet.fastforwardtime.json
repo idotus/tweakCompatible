@@ -1037,9 +1037,9 @@
       "repository": "BigBoss",
       "date": "2019-08-20T17:14:00Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 2,
         "bad": 0,
         "total": 2,
         "arch32": {
@@ -1052,21 +1052,21 @@
       },
       "users": [
         {
-          "status": "not working",
-          "device": "iPhone10,5",
-          "issues": "Respring loop",
-          "date": "2019-08-20T17:14:00Z",
-          "userName": "oneking99",
-          "issueNumber": 95961,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone8,1",
           "issues": "",
           "date": "2019-08-21T02:18:12Z",
           "userName": "EvelioOrnelas",
           "issueNumber": 96123,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-21T07:04:13Z",
+          "userName": "oneking99",
+          "issueNumber": 96211,
           "arch32": false
         }
       ]
