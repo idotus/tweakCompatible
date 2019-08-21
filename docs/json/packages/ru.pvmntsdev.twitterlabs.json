@@ -718,10 +718,10 @@
       "date": "2019-08-19T13:07:33Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 25,
+        "good": 1,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -756,6 +756,15 @@
           "date": "2019-08-21T15:41:53Z",
           "userName": "oneking99",
           "issueNumber": 96330,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "some feature on thistweak may not working. in my case; 1. multiple timeline option. but indon't know about the others feature, a new way to view profile still working",
+          "date": "2019-08-21T16:37:05Z",
+          "userName": "abheizthe",
+          "issueNumber": 96366,
           "arch32": false
         }
       ]
