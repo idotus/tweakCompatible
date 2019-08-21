@@ -1155,10 +1155,10 @@
       "date": "2019-08-18T19:59:14Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1193,6 +1193,15 @@
           "date": "2019-08-20T10:59:53Z",
           "userName": "iCosy",
           "issueNumber": 95799,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-21T13:51:08Z",
+          "userName": "steezyprodz",
+          "issueNumber": 96307,
           "arch32": false
         }
       ]
