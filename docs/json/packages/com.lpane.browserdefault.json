@@ -758,6 +758,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.9.4",
+      "iOSVersion": "12.1.1",
+      "repository": "Packix",
+      "date": "2019-08-21T12:25:16Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "Not with url http://192.168.2.14:9900/stream/svp.m3u8",
+          "date": "2019-08-21T12:25:16Z",
+          "userName": "xuefer",
+          "issueNumber": 96252,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
