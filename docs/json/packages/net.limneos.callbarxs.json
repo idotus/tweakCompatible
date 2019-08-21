@@ -2221,9 +2221,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2240,6 +2240,15 @@
           "date": "2019-08-21T06:54:49Z",
           "userName": "alexismrni",
           "issueNumber": 96207,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "Little buggy",
+          "date": "2019-08-21T15:35:41Z",
+          "userName": "CuzImInside",
+          "issueNumber": 96328,
           "arch32": false
         }
       ]
