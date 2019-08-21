@@ -1,10 +1,10 @@
 {
   "id": "com.joka.quickietweak",
   "name": "Quickie",
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.joka.quickietweak/",
-  "shortDescription": "Quickie disables all SpringBoard & folder animations. Compatible with A12 and iOS 12 devices. New features will be released in future updates.",
+  "shortDescription": "Quickie speeds up your device by disabling all SpringBoard & folder animations. Compatible with A12 and iOS 12 devices. New features will be released in future updates.",
   "category": "Tweaks",
   "author": "Joka",
   "commercial": false,
@@ -99,6 +99,37 @@
           "date": "2019-08-14T01:34:30Z",
           "userName": "hsgeekz",
           "issueNumber": 93900,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-21T01:04:07Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-21T01:04:07Z",
+          "userName": "RAFIDD",
+          "issueNumber": 96113,
           "arch32": false
         }
       ]
