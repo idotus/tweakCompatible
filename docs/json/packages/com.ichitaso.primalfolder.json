@@ -1,7 +1,7 @@
 {
   "id": "com.ichitaso.primalfolder",
   "name": "PrimalFolder",
-  "latest": "0.0.6",
+  "latest": "0.0.9",
   "repository": "ichitaso repository",
   "url": "http://cydia.saurik.com/package/com.ichitaso.primalfolder/",
   "shortDescription": "Display to folder as icon and launch action for Folders",
@@ -937,9 +937,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -956,6 +956,15 @@
           "date": "2019-08-20T10:57:38Z",
           "userName": "iCosy",
           "issueNumber": 95796,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-21T16:07:08Z",
+          "userName": "steezyprodz",
+          "issueNumber": 96344,
           "arch32": false
         }
       ]
