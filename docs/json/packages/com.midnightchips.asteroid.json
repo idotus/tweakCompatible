@@ -1644,10 +1644,10 @@
       "date": "2019-08-18T22:11:40Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 33,
+        "percentage": 28,
         "good": 2,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1709,6 +1709,15 @@
           "date": "2019-08-21T07:15:40Z",
           "userName": "TheLegendaryNighthawk",
           "issueNumber": 96214,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,3",
+          "issues": "Causes crash when receiving notifications",
+          "date": "2019-08-21T09:17:44Z",
+          "userName": "MindScape00",
+          "issueNumber": 96227,
           "arch32": false
         }
       ]
