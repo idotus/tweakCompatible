@@ -5451,9 +5451,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5479,6 +5479,15 @@
           "date": "2019-07-18T04:34:23Z",
           "userName": "ROK5TAR",
           "issueNumber": 91838,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-08-21T21:11:13Z",
+          "userName": "heyimayra",
+          "issueNumber": 96590,
           "arch32": false
         }
       ]
