@@ -1047,11 +1047,11 @@
       "repository": "LonestarX's repo",
       "date": "2019-08-19T10:49:20Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 2,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1095,6 +1095,15 @@
           "date": "2019-08-20T19:13:50Z",
           "userName": "starmega",
           "issueNumber": 95981,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Immediately crashes Safari",
+          "date": "2019-08-21T03:50:32Z",
+          "userName": "tdubwv",
+          "issueNumber": 96154,
           "arch32": false
         }
       ]
