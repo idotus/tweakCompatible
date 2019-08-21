@@ -1,10 +1,10 @@
 {
   "id": "ch.mdaus.latchkey",
   "name": "LatchKey",
-  "latest": "1.1.1-1+debug",
+  "latest": "2.0",
   "repository": "Maxwell Dausch's Repo",
   "url": "http://cydia.saurik.com/package/ch.mdaus.latchkey/",
-  "shortDescription": "Customize the iPhone X LockGlyph",
+  "shortDescription": "Move the Face-ID lock glyph to the status bar for a cleaner look.",
   "category": "Tweaks",
   "author": "Maxwell Dausch",
   "commercial": false,
@@ -486,6 +486,37 @@
           "date": "2019-07-21T11:16:45Z",
           "userName": "PencilNotPen",
           "issueNumber": 92120,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0",
+      "iOSVersion": "12.2",
+      "repository": "(null)",
+      "date": "2019-08-21T16:39:31Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-21T16:39:31Z",
+          "userName": "zdevcon",
+          "issueNumber": 96370,
           "arch32": false
         }
       ]

@@ -7357,22 +7357,22 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.cocoatop64",
+      "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cocoatop64/",
+      "latest": "2.0.2-1+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2019-07-31T23:15:46Z",
+      "date": "2018-03-13T11:14:04Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2",
+          "tweakVersion": "2.0.2-1+debug",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-31T23:15:46Z",
+          "repository": "(null)",
+          "date": "2019-07-23T18:04:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7391,22 +7391,22 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop64",
+      "id": "cydia.kiiimo.org.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2-1+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
+      "latest": "2.0.2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2018-03-13T11:14:04Z",
+      "date": "2019-07-31T23:15:46Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2-1+debug",
+          "tweakVersion": "2.0.2",
           "iOSVersion": "12.2",
-          "repository": "(null)",
-          "date": "2019-07-23T18:04:03Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-31T23:15:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17164,10 +17164,10 @@
     {
       "id": "ch.mdaus.latchkey",
       "name": "LatchKey",
-      "latest": "1.1.1-1+debug",
+      "latest": "2.0",
       "repository": "Maxwell Dausch's Repo",
       "url": "http://cydia.saurik.com/package/ch.mdaus.latchkey/",
-      "shortDescription": "Customize the iPhone X LockGlyph",
+      "shortDescription": "Move the Face-ID lock glyph to the status bar for a cleaner look.",
       "category": "Tweaks",
       "author": "Maxwell Dausch",
       "commercial": false,
@@ -17182,6 +17182,26 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.2",
+          "repository": "(null)",
+          "date": "2019-08-21T16:39:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -26389,40 +26409,6 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.reprovision",
-      "name": "ReProvision",
-      "latest": "0.4.2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.reprovision/",
-      "shortDescription": "Re-sign applications on your device",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-07-16T12:33:13Z",
-      "versions": [
-        {
-          "tweakVersion": "0.4.2",
-          "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-16T12:33:13Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.matchstic.reprovision",
       "name": "ReProvision",
       "latest": "0.4.2",
@@ -26445,6 +26431,40 @@
             "good": 12,
             "bad": 0,
             "total": 12,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.cydia.kiimo.reprovision",
+      "name": "ReProvision",
+      "latest": "0.4.2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.reprovision/",
+      "shortDescription": "Re-sign applications on your device",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-07-16T12:33:13Z",
+      "versions": [
+        {
+          "tweakVersion": "0.4.2",
+          "iOSVersion": "12.2",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-16T12:33:13Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
