@@ -3244,10 +3244,10 @@
       "date": "2019-08-19T11:25:35Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 72,
-        "good": 8,
+        "percentage": 75,
+        "good": 9,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3354,6 +3354,15 @@
           "date": "2019-08-21T09:42:22Z",
           "userName": "Johnpartyk",
           "issueNumber": 96238,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-21T12:27:11Z",
+          "userName": "j0k3r",
+          "issueNumber": 96254,
           "arch32": false
         }
       ]
