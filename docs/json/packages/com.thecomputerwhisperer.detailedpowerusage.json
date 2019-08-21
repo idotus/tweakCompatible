@@ -1900,7 +1900,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1926,6 +1926,15 @@
           "date": "2019-08-20T22:28:34Z",
           "userName": "nightgawker",
           "issueNumber": 96062,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,3",
+          "issues": "Clicking the “Battery” section crashes the Settings app immediately",
+          "date": "2019-08-21T21:59:45Z",
+          "userName": "davchun",
+          "issueNumber": 96622,
           "arch32": false
         }
       ]
