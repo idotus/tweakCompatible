@@ -1,7 +1,7 @@
 {
   "id": "cydia-lproj",
   "name": "Cydia Translations",
-  "latest": "1.1.32~b1",
+  "latest": "1.9.3~chimera5",
   "repository": "Cydia/Telesphoreo",
   "url": "http://cydia.saurik.com/package/cydia-lproj/",
   "shortDescription": "languages and translations for Cydia",
@@ -1595,6 +1595,37 @@
           "date": "2019-08-19T01:24:20Z",
           "userName": "gatekeeper1122",
           "issueNumber": 94346,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.9.3~chimera5",
+      "iOSVersion": "12.0.1",
+      "repository": "diatr.us",
+      "date": "2019-08-21T10:20:46Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPod7,1",
+          "issues": "",
+          "date": "2019-08-21T10:20:46Z",
+          "userName": "playhappyy",
+          "issueNumber": 96241,
           "arch32": false
         }
       ]
