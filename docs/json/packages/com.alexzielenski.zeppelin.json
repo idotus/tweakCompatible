@@ -3244,10 +3244,10 @@
       "date": "2019-08-19T11:25:35Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 75,
+        "percentage": 66,
         "good": 6,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3327,6 +3327,15 @@
           "date": "2019-08-21T00:31:39Z",
           "userName": "Ferchurito1803",
           "issueNumber": 96091,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,1",
+          "issues": "Downloads but can not inject tweak",
+          "date": "2019-08-21T02:38:52Z",
+          "userName": "Misterflipster",
+          "issueNumber": 96126,
           "arch32": false
         }
       ]
