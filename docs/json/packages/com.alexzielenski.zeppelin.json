@@ -3243,11 +3243,11 @@
       "repository": "ModMyi (Archive)",
       "date": "2019-08-19T11:25:35Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 9,
+        "calculatedStatus": "Working",
+        "percentage": 76,
+        "good": 10,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3363,6 +3363,15 @@
           "date": "2019-08-21T12:27:11Z",
           "userName": "j0k3r",
           "issueNumber": 96254,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-21T17:49:57Z",
+          "userName": "rekenerd",
+          "issueNumber": 96462,
           "arch32": false
         }
       ]
