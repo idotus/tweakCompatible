@@ -1,10 +1,10 @@
 {
   "id": "com.tigisoftware.appdatamanager",
   "name": "Apps Manager",
-  "latest": "1.5.0-12",
+  "latest": "1.4.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.tigisoftware.appdatamanager/",
-  "shortDescription": "This tool provides the way to WIPE, BACKUP, RESTORE AppData for installed Apps",
+  "shortDescription": "tool to WIPE, BACKUP, RESTORE AppData for installed Apps",
   "category": "Utilities",
   "author": "TIGI Software",
   "commercial": false,
@@ -3711,6 +3711,37 @@
           "date": "2019-08-19T13:42:55Z",
           "userName": "Mattesackboy",
           "issueNumber": 95009,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.2",
+      "iOSVersion": "10.2",
+      "repository": "BigBoss",
+      "date": "2019-08-21T17:16:00Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "When installing with Cydia, gives \"uicache: injection failed\" error. Then the app it not on home screen",
+          "date": "2019-08-21T17:16:00Z",
+          "userName": "HackerPide",
+          "issueNumber": 96451,
           "arch32": false
         }
       ]
