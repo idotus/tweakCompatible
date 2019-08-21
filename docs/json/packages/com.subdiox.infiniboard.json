@@ -40,6 +40,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.0.0",
+      "iOSVersion": "12.4",
+      "repository": "subdiox's Repo",
+      "date": "2019-08-21T04:03:07Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,1",
+          "issues": "Will put you into a respring loop every time you swipe on the springboard. To fix, swipe down after a respring then open cydia and uninstall",
+          "date": "2019-08-21T04:03:07Z",
+          "userName": "Grovre",
+          "issueNumber": 96156,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
