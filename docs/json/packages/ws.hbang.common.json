@@ -1876,9 +1876,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1913,6 +1913,15 @@
           "date": "2019-08-19T05:54:18Z",
           "userName": "jmd-aKBar",
           "issueNumber": 94604,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-21T15:22:25Z",
+          "userName": "maximusprimate",
+          "issueNumber": 96320,
           "arch32": false
         }
       ]
