@@ -1434,9 +1434,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1462,6 +1462,15 @@
           "date": "2019-08-21T03:20:13Z",
           "userName": "fillupontacos",
           "issueNumber": 96150,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,4",
+          "issues": "The weather icon is not showing up.",
+          "date": "2019-08-21T11:51:28Z",
+          "userName": "karnikornis",
+          "issueNumber": 96250,
           "arch32": false
         }
       ]
