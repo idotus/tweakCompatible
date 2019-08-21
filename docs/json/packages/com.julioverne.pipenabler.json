@@ -474,11 +474,11 @@
       "repository": "julioverne's Repo",
       "date": "2019-08-20T07:30:33Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -504,6 +504,15 @@
           "date": "2019-08-21T19:20:05Z",
           "userName": "umarmasroor",
           "issueNumber": 96557,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "Making safe mode struck,dont install",
+          "date": "2019-08-21T18:43:46Z",
+          "userName": "hakeem2905",
+          "issueNumber": 96523,
           "arch32": false
         }
       ]
