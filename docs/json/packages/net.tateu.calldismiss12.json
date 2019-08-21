@@ -159,10 +159,10 @@
       "date": "2019-08-19T12:20:58Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -197,6 +197,15 @@
           "date": "2019-08-20T01:38:16Z",
           "userName": "iPhone-Gentoo",
           "issueNumber": 95493,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-08-21T19:18:25Z",
+          "userName": "obs0lete",
+          "issueNumber": 96556,
           "arch32": false
         }
       ]
