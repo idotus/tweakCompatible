@@ -3223,9 +3223,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3251,6 +3251,15 @@
           "date": "2019-07-25T12:41:02Z",
           "userName": "SentientEnigma",
           "issueNumber": 92715,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,1",
+          "issues": "",
+          "date": "2019-08-21T21:06:22Z",
+          "userName": "heyimayra",
+          "issueNumber": 96581,
           "arch32": false
         }
       ]
