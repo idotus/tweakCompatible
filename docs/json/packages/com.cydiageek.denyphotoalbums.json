@@ -1,7 +1,7 @@
 {
   "id": "com.cydiageek.denyphotoalbums",
   "name": "DenyPhotoAlbums",
-  "latest": "1.1.1",
+  "latest": "1.1.2",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.cydiageek.denyphotoalbums/",
   "shortDescription": "Hide Needless Photo Albums & More!",
@@ -1010,6 +1010,37 @@
           "date": "2019-04-28T12:15:12Z",
           "userName": "BotchedBortion",
           "issueNumber": 85785,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.2",
+      "iOSVersion": "12.4",
+      "repository": "BigBoss",
+      "date": "2019-08-22T19:08:14Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "Hides albums synced from computer with no way to disable that while still using its other features. ",
+          "date": "2019-08-22T19:08:14Z",
+          "userName": "sdschramm",
+          "issueNumber": 96882,
           "arch32": false
         }
       ]
