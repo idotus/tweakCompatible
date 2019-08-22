@@ -1141,10 +1141,10 @@
       "date": "2019-08-20T02:24:42Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1179,6 +1179,15 @@
           "date": "2019-08-21T15:35:00Z",
           "userName": "CuzImInside",
           "issueNumber": 96327,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-22T14:47:24Z",
+          "userName": "FUNGAMEFR",
+          "issueNumber": 96828,
           "arch32": false
         }
       ]
