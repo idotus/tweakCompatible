@@ -2994,10 +2994,10 @@
         {
           "status": "not working",
           "device": "iPhone10,6",
-          "issues": "",
-          "date": "2019-08-22T04:32:34Z",
+          "issues": "Crashes after opening CC",
+          "date": "2019-08-22T04:31:42Z",
           "userName": "subiefa20",
-          "issueNumber": 96706,
+          "issueNumber": 96705,
           "arch32": false
         }
       ]
