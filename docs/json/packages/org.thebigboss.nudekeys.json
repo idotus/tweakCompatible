@@ -2707,10 +2707,10 @@
       "date": "2019-08-20T05:22:05Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2745,6 +2745,15 @@
           "date": "2019-08-21T15:23:10Z",
           "userName": "neoncarnation",
           "issueNumber": 96322,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone9,1",
+          "issues": "i can enable and disable blur and background, but changing the colors like i like doesn't work. i'll try the beauty of NK with the beauty black given in bloard.",
+          "date": "2019-08-22T22:56:19Z",
+          "userName": "michadd",
+          "issueNumber": 96907,
           "arch32": false
         }
       ]
