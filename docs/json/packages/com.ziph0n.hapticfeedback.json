@@ -1154,11 +1154,11 @@
       "repository": "BigBoss",
       "date": "2019-08-18T19:59:14Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1202,6 +1202,15 @@
           "date": "2019-08-21T13:51:08Z",
           "userName": "steezyprodz",
           "issueNumber": 96307,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-08-22T18:07:06Z",
+          "userName": "arashaan",
+          "issueNumber": 96870,
           "arch32": false
         }
       ]
