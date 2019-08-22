@@ -184,10 +184,10 @@
         {
           "status": "working",
           "device": "iPhone8,1",
-          "issues": "",
-          "date": "2019-08-20T14:42:34Z",
+          "issues": "requires libmoorecon, but not libmoorecon12 ",
+          "date": "2019-08-22T17:00:25Z",
           "userName": "ryu16",
-          "issueNumber": 95872,
+          "issueNumber": 96845,
           "arch32": false
         }
       ]
