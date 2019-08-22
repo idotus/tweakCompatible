@@ -9292,11 +9292,11 @@
       "repository": "tigisoftware.com",
       "date": "2019-08-20T00:44:46Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -9340,6 +9340,15 @@
           "date": "2019-08-22T05:08:18Z",
           "userName": "Bigredd7",
           "issueNumber": 96718,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-22T23:21:17Z",
+          "userName": "Jacobwalton86",
+          "issueNumber": 96913,
           "arch32": false
         }
       ]
