@@ -9293,10 +9293,10 @@
       "date": "2019-08-20T00:44:46Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -9331,6 +9331,15 @@
           "date": "2019-08-21T17:48:38Z",
           "userName": "rekenerd",
           "issueNumber": 96461,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-22T05:08:18Z",
+          "userName": "Bigredd7",
+          "issueNumber": 96718,
           "arch32": false
         }
       ]
