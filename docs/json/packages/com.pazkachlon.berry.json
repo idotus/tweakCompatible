@@ -1,7 +1,7 @@
 {
   "id": "com.pazkachlon.berry",
   "name": "Berry",
-  "latest": "1.4.2",
+  "latest": "1.5",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.pazkachlon.berry/",
   "shortDescription": "A Berry good theme",
@@ -99,6 +99,37 @@
           "date": "2019-03-31T17:44:23Z",
           "userName": "ethanm10",
           "issueNumber": 82104,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-22T03:51:37Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-22T03:51:37Z",
+          "userName": "Faaatman",
+          "issueNumber": 96693,
           "arch32": false
         }
       ]
