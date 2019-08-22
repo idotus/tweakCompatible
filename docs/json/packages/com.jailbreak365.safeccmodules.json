@@ -4,7 +4,7 @@
   "latest": "1.4-3",
   "repository": "jailbreak365's Repo",
   "url": "http://cydia.saurik.com/package/com.jailbreak365.safeccmodules/",
-  "shortDescription": "Control center modules for iOS 11/12. New in v1.4-3: Added SBReload, LDRestart, Sileo, and Zebra modules.",
+  "shortDescription": "More control center modules for iOS 11/12",
   "category": "Tweaks",
   "author": "jailbreak365",
   "commercial": false,
@@ -3077,9 +3077,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 12,
+        "good": 13,
         "bad": 0,
-        "total": 12,
+        "total": 13,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3195,6 +3195,15 @@
           "date": "2019-08-21T16:58:04Z",
           "userName": "burkybang",
           "issueNumber": 96429,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-22T13:59:39Z",
+          "userName": "sadalhayat",
+          "issueNumber": 96821,
           "arch32": false
         }
       ]
