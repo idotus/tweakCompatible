@@ -1,10 +1,10 @@
 {
   "id": "com.noisyflake.wificarrier",
   "name": "WiFiCarrier",
-  "latest": "1.1.1",
+  "latest": "1.1.0",
   "repository": "NoisyFlake",
   "url": "http://cydia.saurik.com/package/com.noisyflake.wificarrier/",
-  "shortDescription": "Display the WiFi name as Carrier",
+  "shortDescription": "Display the WiFi SSID as Carrier",
   "category": "Tweaks",
   "author": "NoisyFlake",
   "commercial": false,
@@ -575,6 +575,37 @@
           "date": "2019-08-20T06:09:15Z",
           "userName": "TheNoim",
           "issueNumber": 95700,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.1.0",
+      "iOSVersion": "12.4",
+      "repository": "NoisyFlake",
+      "date": "2019-08-22T16:10:11Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,1",
+          "issues": "",
+          "date": "2019-08-22T16:10:11Z",
+          "userName": "hostolis",
+          "issueNumber": 96840,
           "arch32": false
         }
       ]
