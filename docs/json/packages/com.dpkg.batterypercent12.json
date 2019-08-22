@@ -689,10 +689,10 @@
       "date": "2019-08-18T19:48:12Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 6,
+        "percentage": 70,
+        "good": 7,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -781,6 +781,15 @@
           "date": "2019-08-22T14:46:56Z",
           "userName": "FUNGAMEFR",
           "issueNumber": 96827,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-22T17:48:38Z",
+          "userName": "bamsii",
+          "issueNumber": 96868,
           "arch32": false
         }
       ]
