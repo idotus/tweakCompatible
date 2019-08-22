@@ -689,10 +689,10 @@
       "date": "2019-08-18T19:48:12Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 57,
-        "good": 4,
+        "percentage": 62,
+        "good": 5,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -763,6 +763,15 @@
           "date": "2019-08-21T12:03:28Z",
           "userName": "riotard",
           "issueNumber": 96251,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-22T04:34:28Z",
+          "userName": "subiefa20",
+          "issueNumber": 96708,
           "arch32": false
         }
       ]
