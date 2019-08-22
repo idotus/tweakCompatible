@@ -1,7 +1,7 @@
 {
   "id": "com.imkpatil.floatingdock",
   "name": "FloatingDock",
-  "latest": "1.5",
+  "latest": "1.5.1",
   "repository": "Kiran Patil's Repo",
   "url": "http://cydia.saurik.com/package/com.imkpatil.floatingdock/",
   "shortDescription": "iPad like dock for iPhone!",
@@ -2686,6 +2686,37 @@
           "date": "2019-08-19T09:48:44Z",
           "userName": "atombayoglu",
           "issueNumber": 94720,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5.1",
+      "iOSVersion": "12.4",
+      "repository": "A Main Repo",
+      "date": "2019-08-22T13:44:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-22T13:44:00Z",
+          "userName": "sadalhayat",
+          "issueNumber": 96796,
           "arch32": false
         }
       ]
