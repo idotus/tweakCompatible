@@ -618,7 +618,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -635,6 +635,15 @@
           "date": "2019-08-19T19:54:42Z",
           "userName": "disco-coder",
           "issueNumber": 95331,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-08-22T04:39:30Z",
+          "userName": "Sorahaaoi",
+          "issueNumber": 96709,
           "arch32": false
         }
       ]
