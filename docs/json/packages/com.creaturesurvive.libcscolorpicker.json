@@ -1,7 +1,7 @@
 {
   "id": "com.creaturesurvive.libcscolorpicker",
   "name": "libCSColorPicker",
-  "latest": "1.0",
+  "latest": "1.0.3",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/com.creaturesurvive.libcscolorpicker/",
   "shortDescription": "A minimal color picker library for developers",
@@ -2424,9 +2424,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2452,6 +2452,15 @@
           "date": "2019-08-20T05:59:17Z",
           "userName": "azfaryusof171",
           "issueNumber": 95689,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-22T13:47:56Z",
+          "userName": "sadalhayat",
+          "issueNumber": 96801,
           "arch32": false
         }
       ]
