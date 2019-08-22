@@ -1180,10 +1180,10 @@
       "date": "2019-08-19T14:43:38Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1218,6 +1218,15 @@
           "date": "2019-08-22T14:59:20Z",
           "userName": "Sonsum",
           "issueNumber": 96830,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "Working fine along with BrowserChanger",
+          "date": "2019-08-22T18:26:10Z",
+          "userName": "mebeim",
+          "issueNumber": 96873,
           "arch32": false
         }
       ]
