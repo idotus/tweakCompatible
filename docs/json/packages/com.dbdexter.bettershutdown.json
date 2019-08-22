@@ -1524,10 +1524,10 @@
       "date": "2019-08-19T13:08:22Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1562,6 +1562,15 @@
           "date": "2019-08-20T14:53:49Z",
           "userName": "gatekeeper1122",
           "issueNumber": 95901,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "Offers the options, but only respring actually works. Off and restart cause Safe Mode. ",
+          "date": "2019-08-22T03:00:05Z",
+          "userName": "TheseUserNamesAreMakingMeThirsty",
+          "issueNumber": 96678,
           "arch32": false
         }
       ]
