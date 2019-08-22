@@ -1,7 +1,7 @@
 {
   "id": "net.limneos.nfcwriterx",
   "name": "NFCWriter X",
-  "latest": "2.0-7",
+  "latest": "2.0-8",
   "repository": "limneos.net",
   "url": "http://cydia.saurik.com/package/net.limneos.nfcwriterx/",
   "shortDescription": "NFCWriter XS for iOS 11/12",
@@ -2278,6 +2278,37 @@
           "date": "2019-08-21T06:51:40Z",
           "userName": "alexismrni",
           "issueNumber": 96206,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2.0-8",
+      "iOSVersion": "12.4",
+      "repository": "Limneos Repo",
+      "date": "2019-08-22T02:11:54Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "can’t scan/emulate tags",
+          "date": "2019-08-22T02:11:54Z",
+          "userName": "tom0034",
+          "issueNumber": 96668,
           "arch32": false
         }
       ]
