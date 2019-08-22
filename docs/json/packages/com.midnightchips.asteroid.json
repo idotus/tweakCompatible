@@ -1644,10 +1644,10 @@
       "date": "2019-08-18T22:11:40Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 28,
-        "good": 2,
+        "percentage": 37,
+        "good": 3,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1718,6 +1718,15 @@
           "date": "2019-08-21T09:17:44Z",
           "userName": "MindScape00",
           "issueNumber": 96227,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-22T14:45:23Z",
+          "userName": "cydiareviews",
+          "issueNumber": 96826,
           "arch32": false
         }
       ]
