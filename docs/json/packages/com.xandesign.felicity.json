@@ -1,10 +1,10 @@
 {
   "id": "com.xandesign.felicity",
   "name": "Felicity",
-  "latest": "3.3",
+  "latest": "4.2",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.xandesign.felicity/",
-  "shortDescription": "An Intense and Happy theme.",
+  "shortDescription": "Felicity - The Perfect Theme For Your Device.",
   "category": "Themes",
   "author": "XanDesign",
   "commercial": false,
@@ -1451,9 +1451,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1470,6 +1470,15 @@
           "date": "2019-07-23T18:12:45Z",
           "userName": "Night-Raider",
           "issueNumber": 92428,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-22T10:15:19Z",
+          "userName": "Skodal99",
+          "issueNumber": 96762,
           "arch32": false
         }
       ]
