@@ -1009,6 +1009,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.2.2",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-22T00:28:20Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "Load ok, but any programmee sms doesn't get in the delay list and the activation option is not working (replace app store icon per exemple) and each send action popup the selection dialog",
+          "date": "2019-08-22T00:28:20Z",
+          "userName": "jffortier249",
+          "issueNumber": 96655,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
