@@ -1,7 +1,7 @@
 {
   "id": "com.creaturecoding.control-center.toothmodule",
   "name": "ToothModule",
-  "latest": "1.0.1b",
+  "latest": "1.0.3",
   "repository": "CreatureSurvive's Repo",
   "url": "http://cydia.saurik.com/package/com.creaturecoding.control-center.toothmodule/",
   "shortDescription": "A Bluetooth Quick Toggle CCModule",
@@ -108,6 +108,37 @@
           "date": "2019-04-01T02:10:51Z",
           "userName": "archaik",
           "issueNumber": 82197,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "12.4",
+      "repository": "CreatureCoding",
+      "date": "2019-08-22T01:46:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-08-22T01:46:15Z",
+          "userName": "Unkn0wnM4n",
+          "issueNumber": 96664,
           "arch32": false
         }
       ]
