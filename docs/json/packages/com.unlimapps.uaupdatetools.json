@@ -5318,10 +5318,10 @@
       "date": "2019-08-18T23:05:29Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 14,
+        "percentage": 13,
         "good": 3,
         "bad": 0,
-        "total": 21,
+        "total": 22,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5518,6 +5518,15 @@
           "date": "2019-08-21T18:10:17Z",
           "userName": "jaskiratgazal",
           "issueNumber": 96464,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "AppStore crashes ",
+          "date": "2019-08-22T04:10:25Z",
+          "userName": "angelogomez",
+          "issueNumber": 96701,
           "arch32": false
         }
       ]
