@@ -7479,22 +7479,22 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.cocoatop64",
+      "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cocoatop64/",
+      "latest": "2.0.2-1+debug",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2019-07-31T23:15:46Z",
+      "date": "2018-03-13T11:14:04Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2",
+          "tweakVersion": "2.0.2-1+debug",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-31T23:15:46Z",
+          "repository": "(null)",
+          "date": "2019-07-23T18:04:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -7513,22 +7513,22 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop64",
+      "id": "cydia.kiiimo.org.cocoatop64",
       "name": "CocoaTop",
-      "latest": "2.0.2-1+debug",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop64/",
+      "latest": "2.0.2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cocoatop64/",
       "shortDescription": "Process Viewer for iOS GUI (64-bit)",
       "category": "Utilities",
       "author": "Domo",
       "commercial": false,
-      "date": "2018-03-13T11:14:04Z",
+      "date": "2019-07-31T23:15:46Z",
       "versions": [
         {
-          "tweakVersion": "2.0.2-1+debug",
+          "tweakVersion": "2.0.2",
           "iOSVersion": "12.2",
-          "repository": "(null)",
-          "date": "2019-07-23T18:04:03Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-31T23:15:46Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -11495,7 +11495,7 @@
     {
       "id": "me.gmoran.eclipse12",
       "name": "Eclipse 12 Beta (iOS 12)",
-      "latest": "6.1.2",
+      "latest": "6.1.2-1",
       "repository": "Eclipse 12 Beta Repo",
       "url": "http://cydia.saurik.com/package/me.gmoran.eclipse12/",
       "shortDescription": "Customizable Dark Mode for iOS 12!",
@@ -11515,6 +11515,26 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "6.1.2-1",
+          "iOSVersion": "12.2",
+          "repository": "Packix",
+          "date": "2019-08-22T00:43:28Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -17979,21 +17999,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.libcolorpicker",
+      "id": "me.nepeta.libcolorpicker",
       "name": "libcolorpicker",
-      "latest": "1.6.3-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/",
-      "shortDescription": "color picker library for developers",
-      "category": "Development",
-      "author": "PixelFire",
+      "latest": "1.6.2-2",
+      "repository": "Nepeta",
+      "url": "http://cydia.saurik.com/package/me.nepeta.libcolorpicker/",
+      "shortDescription": "libcolorpicker with arm64e (A12) support",
+      "category": "System",
+      "author": "Bailey Seymour",
       "commercial": false,
+      "date": "2019-04-23T12:35:57Z",
       "versions": [
         {
-          "tweakVersion": "1.6.3-1",
+          "tweakVersion": "1.6.2-3",
           "iOSVersion": "12.2",
           "repository": "BigBoss",
-          "date": "2019-07-19T04:05:54Z",
+          "date": "2019-07-23T22:31:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18012,22 +18033,21 @@
       ]
     },
     {
-      "id": "me.nepeta.libcolorpicker",
+      "id": "org.thebigboss.libcolorpicker",
       "name": "libcolorpicker",
-      "latest": "1.6.2-2",
-      "repository": "Nepeta",
-      "url": "http://cydia.saurik.com/package/me.nepeta.libcolorpicker/",
-      "shortDescription": "libcolorpicker with arm64e (A12) support",
-      "category": "System",
-      "author": "Bailey Seymour",
+      "latest": "1.6.3-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/",
+      "shortDescription": "color picker library for developers",
+      "category": "Development",
+      "author": "PixelFire",
       "commercial": false,
-      "date": "2019-04-23T12:35:57Z",
       "versions": [
         {
-          "tweakVersion": "1.6.2-3",
+          "tweakVersion": "1.6.3-1",
           "iOSVersion": "12.2",
           "repository": "BigBoss",
-          "date": "2019-07-23T22:31:52Z",
+          "date": "2019-07-19T04:05:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -23770,22 +23790,22 @@
       ]
     },
     {
-      "id": "com.yourepo.exfoliate.nudekeysios12",
+      "id": "com.orangebananaspy.nudekeysios12",
       "name": "NudeKeys (iOS 12)",
-      "latest": "eta1.0",
-      "repository": "Exfoliate Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.exfoliate.nudekeysios12/",
-      "shortDescription": "Strip those sexy keys! But now supported for iOS 12! This is not a modified version of NudeKeys in anyway, it’s the direct DEB from OBS twitter. All credit goes to him",
+      "latest": "1.0.0~b8",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.orangebananaspy.nudekeysios12/",
+      "shortDescription": "Strip those sexy keys!",
       "category": "Tweaks",
       "author": "Orangebananaspy",
       "commercial": false,
-      "date": "2019-03-14T03:58:12Z",
+      "date": "2019-03-07T05:51:01Z",
       "versions": [
         {
-          "tweakVersion": "eta1.0",
+          "tweakVersion": "1.0.0~b8",
           "iOSVersion": "12.2",
-          "repository": "Exfoliate Source - YouRepo",
-          "date": "2019-08-01T06:24:44Z",
+          "repository": "Orangebananaspy",
+          "date": "2019-07-23T14:30:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -23804,22 +23824,22 @@
       ]
     },
     {
-      "id": "com.orangebananaspy.nudekeysios12",
+      "id": "com.yourepo.exfoliate.nudekeysios12",
       "name": "NudeKeys (iOS 12)",
-      "latest": "1.0.0~b8",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.orangebananaspy.nudekeysios12/",
-      "shortDescription": "Strip those sexy keys!",
+      "latest": "eta1.0",
+      "repository": "Exfoliate Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.exfoliate.nudekeysios12/",
+      "shortDescription": "Strip those sexy keys! But now supported for iOS 12! This is not a modified version of NudeKeys in anyway, it’s the direct DEB from OBS twitter. All credit goes to him",
       "category": "Tweaks",
       "author": "Orangebananaspy",
       "commercial": false,
-      "date": "2019-03-07T05:51:01Z",
+      "date": "2019-03-14T03:58:12Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0~b8",
+          "tweakVersion": "eta1.0",
           "iOSVersion": "12.2",
-          "repository": "Orangebananaspy",
-          "date": "2019-07-23T14:30:27Z",
+          "repository": "Exfoliate Source - YouRepo",
+          "date": "2019-08-01T06:24:44Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27031,40 +27051,6 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.rocket",
-      "name": "Rocket for Instagram",
-      "latest": "3.3.5k",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.rocket/",
-      "shortDescription": "Save posts and view stories anonymously and do much more",
-      "category": "iOS 12",
-      "author": "Majd Alfhaily",
-      "commercial": false,
-      "date": "2019-07-26T14:51:33Z",
-      "versions": [
-        {
-          "tweakVersion": "3.3.5k",
-          "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-26T14:51:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
       "latest": "3.5.3",
@@ -27161,6 +27147,40 @@
           "iOSVersion": "12.2",
           "repository": "Alfhaily APT",
           "date": "2019-08-12T08:43:39Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cydia.kiiimo.org.rocket",
+      "name": "Rocket for Instagram",
+      "latest": "3.3.5k",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.rocket/",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
+      "category": "iOS 12",
+      "author": "Majd Alfhaily",
+      "commercial": false,
+      "date": "2019-07-26T14:51:33Z",
+      "versions": [
+        {
+          "tweakVersion": "3.3.5k",
+          "iOSVersion": "12.2",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-26T14:51:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -32202,22 +32222,22 @@
       ]
     },
     {
-      "id": "com.donbytyqi.tinybanners",
+      "id": "org.cydia.kiimo.tinybanners",
       "name": "TinyBanners",
-      "latest": "0.4",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.donbytyqi.tinybanners/",
-      "shortDescription": "Unobtrusive yet useful notification banners!",
-      "category": "Tweaks",
+      "latest": "0.3.1",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.tinybanners/",
+      "shortDescription": "TinyBanners\r",
+      "category": "iOS 12",
       "author": "Don",
-      "commercial": true,
-      "date": "2019-03-21T07:14:10Z",
+      "commercial": false,
+      "date": "2019-07-30T05:45:36Z",
       "versions": [
         {
           "tweakVersion": "0.3.1",
           "iOSVersion": "12.2",
-          "repository": "Packix",
-          "date": "2019-07-13T09:23:26Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-30T05:45:36Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -32236,22 +32256,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.tinybanners",
+      "id": "com.donbytyqi.tinybanners",
       "name": "TinyBanners",
-      "latest": "0.3.1",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.tinybanners/",
-      "shortDescription": "TinyBanners\r",
-      "category": "iOS 12",
+      "latest": "0.4",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.donbytyqi.tinybanners/",
+      "shortDescription": "Unobtrusive yet useful notification banners!",
+      "category": "Tweaks",
       "author": "Don",
-      "commercial": false,
-      "date": "2019-07-30T05:45:36Z",
+      "commercial": true,
+      "date": "2019-03-21T07:14:10Z",
       "versions": [
         {
           "tweakVersion": "0.3.1",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-30T05:45:36Z",
+          "repository": "Packix",
+          "date": "2019-07-13T09:23:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -35240,40 +35260,6 @@
       ]
     },
     {
-      "id": "com.yourepo.jpet26.youtubetools",
-      "name": "YouTube Tools",
-      "latest": "2.0",
-      "repository": "jpet26 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
-      "shortDescription": "Essential toolbox for YouTube app.",
-      "category": "Tweaks",
-      "author": "Justin Petkovic",
-      "commercial": false,
-      "date": "2019-05-25T17:07:36Z",
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.2",
-          "repository": "jpet26 Source - YouRepo",
-          "date": "2019-07-19T16:30:21Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.justinpetkovic.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
@@ -35335,6 +35321,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.yourepo.jpet26.youtubetools",
+      "name": "YouTube Tools",
+      "latest": "2.0",
+      "repository": "jpet26 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
+      "shortDescription": "Essential toolbox for YouTube app.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "date": "2019-05-25T17:07:36Z",
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.2",
+          "repository": "jpet26 Source - YouRepo",
+          "date": "2019-07-19T16:30:21Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
