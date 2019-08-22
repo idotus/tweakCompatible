@@ -949,9 +949,9 @@
       "repository": "UnlimApps",
       "date": "2019-08-19T07:13:43Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 33,
-        "good": 1,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
         "total": 3,
         "arch32": {
@@ -963,15 +963,6 @@
         }
       },
       "users": [
-        {
-          "status": "not working",
-          "device": "iPhone9,1",
-          "issues": "",
-          "date": "2019-08-19T07:13:43Z",
-          "userName": "Frannyjg",
-          "issueNumber": 94661,
-          "arch32": false
-        },
         {
           "status": "not working",
           "device": "iPhone10,2",
@@ -988,6 +979,15 @@
           "date": "2019-08-22T03:48:11Z",
           "userName": "Faaatman",
           "issueNumber": 96683,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,1",
+          "issues": "",
+          "date": "2019-08-22T15:41:02Z",
+          "userName": "Frannyjg",
+          "issueNumber": 96836,
           "arch32": false
         }
       ]
