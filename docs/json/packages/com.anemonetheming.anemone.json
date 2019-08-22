@@ -6250,7 +6250,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -6276,6 +6276,15 @@
           "date": "2019-08-19T23:50:35Z",
           "userName": "Danski718",
           "issueNumber": 95466,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,2",
+          "issues": "Restart loop",
+          "date": "2019-08-22T04:19:35Z",
+          "userName": "TRD360",
+          "issueNumber": 96703,
           "arch32": false
         }
       ]
