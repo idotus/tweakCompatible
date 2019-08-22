@@ -1,7 +1,7 @@
 {
   "id": "com.rpgfarm.a-font",
   "name": "A-Font",
-  "latest": "1.5.2",
+  "latest": "1.5.5",
   "repository": "Baw Repo",
   "url": "http://cydia.saurik.com/package/com.rpgfarm.a-font/",
   "shortDescription": "Change your font!",
@@ -471,6 +471,37 @@
           "date": "2019-08-19T11:36:46Z",
           "userName": "AhmedNazmi",
           "issueNumber": 94873,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.5.5",
+      "iOSVersion": "12.4",
+      "repository": "Baw Repo",
+      "date": "2019-08-22T22:56:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "it's work but if this app had a font preview before user want to set the font thats so helpfully than want to respring",
+          "date": "2019-08-22T22:56:01Z",
+          "userName": "abheizthe",
+          "issueNumber": 96906,
           "arch32": false
         }
       ]
