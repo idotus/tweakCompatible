@@ -950,10 +950,10 @@
       "date": "2019-08-19T07:13:43Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -979,6 +979,15 @@
           "date": "2019-08-19T21:24:14Z",
           "userName": "Harash23",
           "issueNumber": 95391,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-22T03:48:11Z",
+          "userName": "Faaatman",
+          "issueNumber": 96683,
           "arch32": false
         }
       ]
