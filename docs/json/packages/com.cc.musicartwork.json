@@ -4,7 +4,7 @@
   "latest": "1.6",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/com.cc.musicartwork/",
-  "shortDescription": "Replace now playing apps icon with currently now playing artwork.",
+  "shortDescription": "Replace now playing apps icon with currently now playing artwork",
   "category": "Tweaks",
   "author": "cole cabral",
   "commercial": true,
@@ -99,6 +99,37 @@
           "date": "2019-03-31T17:43:50Z",
           "userName": "ethanm10",
           "issueNumber": 82101,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.6",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-22T16:58:28Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-22T16:58:28Z",
+          "userName": "Gohan4870",
+          "issueNumber": 96844,
           "arch32": false
         }
       ]
