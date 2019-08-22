@@ -1071,6 +1071,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.2.6",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-22T23:10:56Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "When call comes in, you can hear nothing from other end.",
+          "date": "2019-08-22T23:10:56Z",
+          "userName": "iRyanKGT",
+          "issueNumber": 96908,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
