@@ -1123,9 +1123,9 @@
       "repository": "Packix",
       "date": "2019-08-19T21:16:22Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 3,
         "bad": 0,
         "total": 3,
         "arch32": {
@@ -1147,21 +1147,21 @@
           "arch32": false
         },
         {
-          "status": "not working",
-          "device": "iPhone10,2",
-          "issues": "",
-          "date": "2019-08-20T06:11:01Z",
-          "userName": "Gorillakev",
-          "issueNumber": 95702,
-          "arch32": false
-        },
-        {
           "status": "working",
           "device": "iPhone10,5",
           "issues": "",
           "date": "2019-08-20T19:15:44Z",
           "userName": "bernaction",
           "issueNumber": 95984,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,2",
+          "issues": "",
+          "date": "2019-08-22T03:27:46Z",
+          "userName": "Gorillakev",
+          "issueNumber": 96682,
           "arch32": false
         }
       ]
