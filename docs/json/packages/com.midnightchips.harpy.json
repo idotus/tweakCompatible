@@ -340,11 +340,11 @@
       "repository": "Chariz",
       "date": "2019-08-21T13:05:04Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -361,6 +361,15 @@
           "date": "2019-08-21T13:05:04Z",
           "userName": "shurk1986",
           "issueNumber": 96265,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPad7,5",
+          "issues": "Tweak crashes instantly when opening on iPad 6th gen (iOS 12.4)",
+          "date": "2019-08-22T03:13:32Z",
+          "userName": "AlmCoder",
+          "issueNumber": 96680,
           "arch32": false
         }
       ]
