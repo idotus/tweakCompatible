@@ -652,9 +652,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -671,6 +671,15 @@
           "date": "2019-08-20T02:29:06Z",
           "userName": "tuannguyen2689",
           "issueNumber": 95552,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,2",
+          "issues": "It’s not switching the IPad style dock back to the original style for the landscape view. Also the settings won’t reset either when I uninstall this tweak. ",
+          "date": "2019-08-22T07:58:11Z",
+          "userName": "hotstunna80",
+          "issueNumber": 96740,
           "arch32": false
         }
       ]
