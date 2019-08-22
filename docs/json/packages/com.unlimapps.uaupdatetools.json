@@ -5321,7 +5321,7 @@
         "percentage": 13,
         "good": 3,
         "bad": 0,
-        "total": 22,
+        "total": 23,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5527,6 +5527,15 @@
           "date": "2019-08-22T04:10:25Z",
           "userName": "angelogomez",
           "issueNumber": 96701,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "If you long press on update the App Store just crashes",
+          "date": "2019-08-22T22:45:25Z",
+          "userName": "slmny",
+          "issueNumber": 96903,
           "arch32": false
         }
       ]
