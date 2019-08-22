@@ -1763,6 +1763,39 @@
       ]
     },
     {
+      "id": "com.unlimapps.uaupdatetools",
+      "name": "App Admin",
+      "latest": "1.0r-102",
+      "repository": "beta.unlimapps.com",
+      "url": "https://beta.unlimapps.com/",
+      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
+      "category": "System",
+      "author": "UnlimApps Inc.",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.0r-102",
+          "iOSVersion": "12.4",
+          "repository": "UnlimApps",
+          "date": "2019-08-18T23:05:29Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 13,
+            "good": 3,
+            "bad": 0,
+            "total": 22,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.rejail.uaupdatetools",
       "name": "App Admin",
       "latest": "1.0r-101",
@@ -1785,39 +1818,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.unlimapps.uaupdatetools",
-      "name": "App Admin",
-      "latest": "1.0r-102",
-      "repository": "beta.unlimapps.com",
-      "url": "https://beta.unlimapps.com/",
-      "shortDescription": "Downgrade iOS apps to any previous version! No AppSync needed!!!",
-      "category": "System",
-      "author": "UnlimApps Inc.",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.0r-102",
-          "iOSVersion": "12.4",
-          "repository": "UnlimApps",
-          "date": "2019-08-18T23:05:29Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 13,
-            "good": 3,
-            "bad": 0,
-            "total": 22,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -1863,40 +1863,6 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.appcake6",
-      "name": "AppCake",
-      "latest": "6.1.3",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.appcake6/",
-      "shortDescription": "The new AppCake 6! For iOS 11 & 12 Jailbreak.\r",
-      "category": "Utilities",
-      "author": "hotsjf",
-      "commercial": false,
-      "date": "2019-08-20T10:28:57Z",
-      "versions": [
-        {
-          "tweakVersion": "6.1.3",
-          "iOSVersion": "12.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-08-20T10:28:57Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.iphonecake.appcake6",
       "name": "AppCake",
       "latest": "6.1.3",
@@ -1917,6 +1883,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.cydia.kiimo.appcake6",
+      "name": "AppCake",
+      "latest": "6.1.3",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.appcake6/",
+      "shortDescription": "The new AppCake 6! For iOS 11 & 12 Jailbreak.\r",
+      "category": "Utilities",
+      "author": "hotsjf",
+      "commercial": false,
+      "date": "2019-08-20T10:28:57Z",
+      "versions": [
+        {
+          "tweakVersion": "6.1.3",
+          "iOSVersion": "12.4",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-08-20T10:28:57Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -4712,40 +4712,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.4.10",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11 & 12",
-      "category": "HYI - Tweaks",
-      "author": "ATWiiks",
-      "commercial": false,
-      "date": "2018-06-30T16:14:01Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.10",
-          "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-20T01:42:06Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.10",
@@ -4768,6 +4734,40 @@
             "good": 8,
             "bad": 0,
             "total": 8,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.4.10",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11 & 12",
+      "category": "HYI - Tweaks",
+      "author": "ATWiiks",
+      "commercial": false,
+      "date": "2018-06-30T16:14:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.10",
+          "iOSVersion": "12.4",
+          "repository": "(null)",
+          "date": "2019-08-20T01:42:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -5341,22 +5341,22 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.blankicons",
+      "id": "com.nrkvv.blankicons",
       "name": "BlankIcons",
-      "latest": "0.0.1",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.blankicons/",
+      "latest": "0.0.4",
+      "repository": "m156@nrkvv",
+      "url": "http://cydia.saurik.com/package/com.nrkvv.blankicons/",
       "shortDescription": "Create Blank Icons !!",
       "category": "Utilities",
       "author": "m156nrkvv",
       "commercial": false,
-      "date": "2019-08-22T00:58:16Z",
+      "date": "2018-07-14T22:27:40Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1",
+          "tweakVersion": "0.0.4",
           "iOSVersion": "12.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-08-22T00:58:16Z",
+          "repository": "m156nrkvv.g2.xrea.com",
+          "date": "2019-08-20T09:40:38Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5375,22 +5375,22 @@
       ]
     },
     {
-      "id": "com.nrkvv.blankicons",
+      "id": "cydia.kiiimo.org.blankicons",
       "name": "BlankIcons",
-      "latest": "0.0.4",
-      "repository": "m156@nrkvv",
-      "url": "http://cydia.saurik.com/package/com.nrkvv.blankicons/",
+      "latest": "0.0.1",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.blankicons/",
       "shortDescription": "Create Blank Icons !!",
       "category": "Utilities",
       "author": "m156nrkvv",
       "commercial": false,
-      "date": "2018-07-14T22:27:40Z",
+      "date": "2019-08-22T00:58:16Z",
       "versions": [
         {
-          "tweakVersion": "0.0.4",
+          "tweakVersion": "0.0.1",
           "iOSVersion": "12.4",
-          "repository": "m156nrkvv.g2.xrea.com",
-          "date": "2019-08-20T09:40:38Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-08-22T00:58:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6737,22 +6737,22 @@
       ]
     },
     {
-      "id": "com.pulandres.callbarxs",
+      "id": "org.cydia.kiimo.callbarxs",
       "name": "CallBar XS Cracked",
-      "latest": "2.2-5",
-      "repository": "Packager",
-      "url": "http://cydia.saurik.com/package/com.pulandres.callbarxs/",
-      "shortDescription": "Change style of your calls",
-      "category": "Tweaks",
+      "latest": "2.2-5k",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.callbarxs/",
+      "shortDescription": "Don't let incoming calls interrupt you for Cracked!",
+      "category": "iOS 12",
       "author": "Elias Limneos",
       "commercial": false,
-      "date": "2019-08-18T21:05:55Z",
+      "date": "2019-08-19T18:33:16Z",
       "versions": [
         {
-          "tweakVersion": "2.2-5",
+          "tweakVersion": "2.2-5k",
           "iOSVersion": "12.4",
-          "repository": "Packager",
-          "date": "2019-08-18T21:05:55Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-08-19T18:33:16Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -6771,22 +6771,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.callbarxs",
+      "id": "com.pulandres.callbarxs",
       "name": "CallBar XS Cracked",
-      "latest": "2.2-5k",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.callbarxs/",
-      "shortDescription": "Don't let incoming calls interrupt you for Cracked!",
-      "category": "iOS 12",
+      "latest": "2.2-5",
+      "repository": "Packager",
+      "url": "http://cydia.saurik.com/package/com.pulandres.callbarxs/",
+      "shortDescription": "Change style of your calls",
+      "category": "Tweaks",
       "author": "Elias Limneos",
       "commercial": false,
-      "date": "2019-08-19T18:33:16Z",
+      "date": "2019-08-18T21:05:55Z",
       "versions": [
         {
-          "tweakVersion": "2.2-5k",
+          "tweakVersion": "2.2-5",
           "iOSVersion": "12.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-08-19T18:33:16Z",
+          "repository": "Packager",
+          "date": "2019-08-18T21:05:55Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -9033,6 +9033,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T09:47:08Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -9053,39 +9086,6 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T09:47:08Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -16078,40 +16078,6 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
-      "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
-      "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
-      "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
-      "versions": [
-        {
-          "tweakVersion": "0.0.1-2",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-20T02:24:42Z",
-          "outcome": {
-            "calculatedStatus": "Likely working",
-            "percentage": 66,
-            "good": 2,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
       "latest": "1.1",
@@ -16134,6 +16100,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.cabralcole.forceinpicture",
+      "name": "ForceInPicture",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "category": "Tweaks",
+      "author": "cole cabral @ca13ra1",
+      "commercial": false,
+      "date": "2018-03-01T20:00:33Z",
+      "versions": [
+        {
+          "tweakVersion": "0.0.1-2",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-20T02:24:42Z",
+          "outcome": {
+            "calculatedStatus": "Likely working",
+            "percentage": 66,
+            "good": 2,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -26520,22 +26520,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "12.4",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-08-21T18:34:05Z",
+          "date": "2019-08-21T18:34:17Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -26554,22 +26554,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "12.4",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-08-21T18:34:17Z",
+          "date": "2019-08-21T18:34:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27443,40 +27443,6 @@
       ]
     },
     {
-      "id": "org.coolstar.nolargetitles",
-      "name": "NoLargeTitles",
-      "latest": "1.0-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
-      "shortDescription": "Remove the large titles system-wide on iOS 11",
-      "category": "Tweaks",
-      "author": "CoolStar",
-      "commercial": false,
-      "date": "2018-03-08T05:57:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0-1",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T11:25:52Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.adamseiter.nolargetitles",
       "name": "NoLargeTitles",
       "latest": "1.1",
@@ -27499,6 +27465,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.coolstar.nolargetitles",
+      "name": "NoLargeTitles",
+      "latest": "1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
+      "shortDescription": "Remove the large titles system-wide on iOS 11",
+      "category": "Tweaks",
+      "author": "CoolStar",
+      "commercial": false,
+      "date": "2018-03-08T05:57:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T11:25:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -35867,22 +35867,21 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2.packix",
+      "id": "com.jontelang.snapper2",
       "name": "Snapper 2",
-      "latest": "2.1",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
+      "latest": "1.2.6",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger-lang",
+      "author": "Jonathan Winger Lang",
       "commercial": true,
-      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "2.1",
+          "tweakVersion": "1.4.2",
           "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-19T04:27:09Z",
+          "repository": "BigBoss",
+          "date": "2019-08-19T04:31:42Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -35901,21 +35900,22 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2",
+      "id": "com.jontelang.snapper2.packix",
       "name": "Snapper 2",
-      "latest": "1.2.6",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
+      "latest": "2.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger Lang",
+      "author": "Jonathan Winger-lang",
       "commercial": true,
+      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "1.4.2",
+          "tweakVersion": "2.1",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T04:31:42Z",
+          "repository": "Packix",
+          "date": "2019-08-19T04:27:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -37878,7 +37878,7 @@
     {
       "id": "org.hacx.superrecorderxplus",
       "name": "Super Recorder X+ (iOS 12)",
-      "latest": "3.06",
+      "latest": "3.06-2",
       "repository": "hAcx Repository",
       "url": "http://cydia.saurik.com/package/org.hacx.superrecorderxplus/",
       "shortDescription": "Call Recorder & Voice Amplifier",
@@ -37912,6 +37912,26 @@
           "iOSVersion": "12.4",
           "repository": "hAcx Repo",
           "date": "2019-08-21T20:00:31Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "3.06-2",
+          "iOSVersion": "12.4",
+          "repository": "hAcx Repo",
+          "date": "2019-08-22T08:32:50Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -38069,40 +38089,6 @@
       ]
     },
     {
-      "id": "vn.ftios.swipeselection",
-      "name": "SwipeSelection Pro",
-      "latest": "1.0.3-1",
-      "repository": "ftios.vn",
-      "url": "http://cydia.saurik.com/package/vn.ftios.swipeselection/",
-      "shortDescription": "Tweaks are updated the fastest at ftCydia",
-      "category": "FTiOS Tools",
-      "author": "Cydia_kiiMO",
-      "commercial": false,
-      "date": "2019-08-20T13:23:24Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.3-1",
-          "iOSVersion": "12.4",
-          "repository": "ftios.vn",
-          "date": "2019-08-20T13:23:24Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.iky1e.swipeselection-pro",
       "name": "SwipeSelection Pro",
       "latest": "1.0.3-1",
@@ -38152,6 +38138,40 @@
           "iOSVersion": "12.4",
           "repository": "(null)",
           "date": "2019-08-20T20:04:20Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "vn.ftios.swipeselection",
+      "name": "SwipeSelection Pro",
+      "latest": "1.0.3-1",
+      "repository": "ftios.vn",
+      "url": "http://cydia.saurik.com/package/vn.ftios.swipeselection/",
+      "shortDescription": "Tweaks are updated the fastest at ftCydia",
+      "category": "FTiOS Tools",
+      "author": "Cydia_kiiMO",
+      "commercial": false,
+      "date": "2019-08-20T13:23:24Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.3-1",
+          "iOSVersion": "12.4",
+          "repository": "ftios.vn",
+          "date": "2019-08-20T13:23:24Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -43207,6 +43227,39 @@
       ]
     },
     {
+      "id": "com.justinpetkovic.youtubetools",
+      "name": "YouTube Tools",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
+      "shortDescription": "Essential toolbox for YouTube app.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.4",
+          "repository": "(null)",
+          "date": "2019-08-18T18:45:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.yourepo.jpet26.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
@@ -43229,39 +43282,6 @@
             "good": 3,
             "bad": 0,
             "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.justinpetkovic.youtubetools",
-      "name": "YouTube Tools",
-      "latest": "2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
-      "shortDescription": "Essential toolbox for YouTube app.",
-      "category": "Tweaks",
-      "author": "Justin Petkovic",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-18T18:45:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
