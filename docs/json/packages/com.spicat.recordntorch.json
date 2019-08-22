@@ -417,9 +417,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -436,6 +436,15 @@
           "date": "2019-08-21T22:46:18Z",
           "userName": "starmega",
           "issueNumber": 96628,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "Working as expected",
+          "date": "2019-08-22T05:14:59Z",
+          "userName": "iPhone-Gentoo",
+          "issueNumber": 96722,
           "arch32": false
         }
       ]
