@@ -2924,10 +2924,10 @@
       "date": "2019-08-18T20:06:53Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 71,
-        "good": 5,
+        "percentage": 75,
+        "good": 6,
         "bad": 0,
-        "total": 7,
+        "total": 8,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2998,6 +2998,15 @@
           "date": "2019-08-22T04:31:42Z",
           "userName": "subiefa20",
           "issueNumber": 96705,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-22T12:47:39Z",
+          "userName": "MKhaliiFa",
+          "issueNumber": 96787,
           "arch32": false
         }
       ]
