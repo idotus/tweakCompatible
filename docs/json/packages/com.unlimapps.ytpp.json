@@ -1,7 +1,7 @@
 {
   "id": "com.unlimapps.ytpp",
   "name": "YouTube ++",
-  "latest": "1.4r-98",
+  "latest": "1.4r-100",
   "repository": "beta.unlimapps.com",
   "url": "https://beta.unlimapps.com/",
   "shortDescription": "Download all YouTube Videos! Continue background playback and much more!!!",
@@ -388,6 +388,37 @@
           "date": "2019-08-22T12:57:27Z",
           "userName": "UA3",
           "issueNumber": 96792,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4r-100",
+      "iOSVersion": "12.4",
+      "repository": "UnlimApps",
+      "date": "2019-08-22T21:01:41Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,4",
+          "issues": "",
+          "date": "2019-08-22T21:01:41Z",
+          "userName": "naiminparadise",
+          "issueNumber": 96894,
           "arch32": false
         }
       ]
