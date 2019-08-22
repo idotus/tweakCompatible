@@ -2923,11 +2923,11 @@
       "repository": "SparkDev",
       "date": "2019-08-18T20:06:53Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 83,
+        "calculatedStatus": "Likely working",
+        "percentage": 71,
         "good": 5,
         "bad": 0,
-        "total": 6,
+        "total": 7,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2989,6 +2989,15 @@
           "date": "2019-08-20T01:41:28Z",
           "userName": "ekatuck",
           "issueNumber": 95499,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-22T04:32:34Z",
+          "userName": "subiefa20",
+          "issueNumber": 96706,
           "arch32": false
         }
       ]
