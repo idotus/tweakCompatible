@@ -801,9 +801,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -829,6 +829,15 @@
           "date": "2019-08-21T16:48:18Z",
           "userName": "burkybang",
           "issueNumber": 96388,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "work for me. but you should switch the tab before wishlist icon showup on the tweak want to add list. also, can't autodelete the list when you had done installing them. hope will fix on the next update. thank you",
+          "date": "2019-08-22T15:18:56Z",
+          "userName": "abheizthe",
+          "issueNumber": 96832,
           "arch32": false
         }
       ]
