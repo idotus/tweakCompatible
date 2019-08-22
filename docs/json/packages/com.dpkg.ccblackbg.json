@@ -173,9 +173,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -192,6 +192,15 @@
           "date": "2019-08-21T22:44:19Z",
           "userName": "starmega",
           "issueNumber": 96625,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone6,2",
+          "issues": "",
+          "date": "2019-08-22T00:25:37Z",
+          "userName": "tomhop99",
+          "issueNumber": 96654,
           "arch32": false
         }
       ]
