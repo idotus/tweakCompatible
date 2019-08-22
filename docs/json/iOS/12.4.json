@@ -3962,6 +3962,39 @@
       ]
     },
     {
+      "id": "com.cpdigitaldarkroom.barmoji",
+      "name": "Barmoji",
+      "latest": "1.9",
+      "repository": "CP Digital Darkroom Beta Repo",
+      "url": "http://beta.cpdigitaldarkroom.com/",
+      "shortDescription": "Quick emoji access for iPhone X",
+      "category": "Tweaks",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.9",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-18T21:24:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 5,
+            "bad": 0,
+            "total": 5,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.barmoji",
       "name": "Barmoji",
       "latest": "1.9",
@@ -3984,39 +4017,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.cpdigitaldarkroom.barmoji",
-      "name": "Barmoji",
-      "latest": "1.9",
-      "repository": "CP Digital Darkroom Beta Repo",
-      "url": "http://beta.cpdigitaldarkroom.com/",
-      "shortDescription": "Quick emoji access for iPhone X",
-      "category": "Tweaks",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.9",
-          "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-18T21:24:53Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 5,
-            "bad": 0,
-            "total": 5,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -4746,40 +4746,6 @@
       ]
     },
     {
-      "id": "com.atwiiks.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.4.10",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.atwiiks.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11 & 12",
-      "category": "Tweaks",
-      "author": "ATWiiks",
-      "commercial": true,
-      "date": "2018-06-28T13:55:34Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.10",
-          "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-18T18:52:08Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 8,
-            "bad": 0,
-            "total": 8,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.10",
@@ -4802,6 +4768,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.atwiiks.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.4.10",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.atwiiks.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11 & 12",
+      "category": "Tweaks",
+      "author": "ATWiiks",
+      "commercial": true,
+      "date": "2018-06-28T13:55:34Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.10",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-18T18:52:08Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 8,
+            "bad": 0,
+            "total": 8,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -13719,6 +13719,40 @@
             "calculatedStatus": "Working",
             "percentage": 100,
             "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.lacertosusrepo.einsteinvibes",
+      "name": "EinsteinVibes",
+      "latest": "1.0",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.lacertosusrepo.einsteinvibes/",
+      "shortDescription": "Add vibration to the Calculator app buttons...",
+      "category": "Tweaks",
+      "author": "LacertosusDeus",
+      "commercial": false,
+      "date": "2018-08-15T19:18:48Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-22T12:08:10Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -38448,6 +38482,40 @@
       ]
     },
     {
+      "id": "vn.ftios.swipeselection",
+      "name": "SwipeSelection Pro",
+      "latest": "1.0.3-1",
+      "repository": "ftios.vn",
+      "url": "http://cydia.saurik.com/package/vn.ftios.swipeselection/",
+      "shortDescription": "Tweaks are updated the fastest at ftCydia",
+      "category": "FTiOS Tools",
+      "author": "Cydia_kiiMO",
+      "commercial": false,
+      "date": "2019-08-20T13:23:24Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.3-1",
+          "iOSVersion": "12.4",
+          "repository": "ftios.vn",
+          "date": "2019-08-20T13:23:24Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.repo.xarold.com.swipeselection-pro",
       "name": "SwipeSelection Pro",
       "latest": "1.0.3-1",
@@ -38503,40 +38571,6 @@
             "good": 3,
             "bad": 0,
             "total": 3,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "vn.ftios.swipeselection",
-      "name": "SwipeSelection Pro",
-      "latest": "1.0.3-1",
-      "repository": "ftios.vn",
-      "url": "http://cydia.saurik.com/package/vn.ftios.swipeselection/",
-      "shortDescription": "Tweaks are updated the fastest at ftCydia",
-      "category": "FTiOS Tools",
-      "author": "Cydia_kiiMO",
-      "commercial": false,
-      "date": "2019-08-20T13:23:24Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0.3-1",
-          "iOSVersion": "12.4",
-          "repository": "ftios.vn",
-          "date": "2019-08-20T13:23:24Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -38944,7 +38978,7 @@
     {
       "id": "system-memory-reset-fix",
       "name": "System Memory Reset Fix",
-      "latest": "2.0-1",
+      "latest": "2.0",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/system-memory-reset-fix/",
       "shortDescription": "Prevent overnight userspace reboots triggered by mmaintenanced",
@@ -43654,39 +43688,6 @@
       ]
     },
     {
-      "id": "com.justinpetkovic.youtubetools",
-      "name": "YouTube Tools",
-      "latest": "2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
-      "shortDescription": "Essential toolbox for YouTube app.",
-      "category": "Tweaks",
-      "author": "Justin Petkovic",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0",
-          "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-18T18:45:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.yourepo.jpet26.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
@@ -43709,6 +43710,39 @@
             "good": 3,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.justinpetkovic.youtubetools",
+      "name": "YouTube Tools",
+      "latest": "2.0",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
+      "shortDescription": "Essential toolbox for YouTube app.",
+      "category": "Tweaks",
+      "author": "Justin Petkovic",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0",
+          "iOSVersion": "12.4",
+          "repository": "(null)",
+          "date": "2019-08-18T18:45:33Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
