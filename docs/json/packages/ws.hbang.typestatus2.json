@@ -2582,11 +2582,11 @@
       "repository": "Chariz",
       "date": "2019-08-19T14:14:04Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2612,6 +2612,15 @@
           "date": "2019-08-20T04:57:17Z",
           "userName": "Hockeyplayer46",
           "issueNumber": 95619,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "Causes crash when opening contact info",
+          "date": "2019-08-22T17:05:45Z",
+          "userName": "sdschramm",
+          "issueNumber": 96846,
           "arch32": false
         }
       ]
