@@ -37,7 +37,7 @@
     {
       "id": "com.rpgfarm.a-font",
       "name": "A-Font",
-      "latest": "1.5.2",
+      "latest": "1.5.5",
       "repository": "Baw Repo",
       "url": "http://cydia.saurik.com/package/com.rpgfarm.a-font/",
       "shortDescription": "Change your font!",
@@ -562,7 +562,7 @@
     {
       "id": "applist",
       "name": "AppList",
-      "latest": "1.5.14",
+      "latest": "1.5.15~beta1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/applist/",
       "shortDescription": "Allow extensions to read the list of installed apps",
@@ -1798,7 +1798,7 @@
     {
       "id": "net.limneos.bioprotectxs",
       "name": "BioProtect XS (iOS 12)",
-      "latest": "4.0-68",
+      "latest": "4.0-71",
       "repository": "limneos.net",
       "url": "http://cydia.saurik.com/package/net.limneos.bioprotectxs/",
       "shortDescription": "Protect your apps with Touch/Face ID!",
@@ -2088,7 +2088,7 @@
     {
       "id": "com.lpane.browserdefault",
       "name": "BrowserDefault",
-      "latest": "1.9.4",
+      "latest": "1.9.5",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.lpane.browserdefault/",
       "shortDescription": "BrowserDefault allows users to choose the browser links are opened in.",
@@ -2634,7 +2634,7 @@
       "latest": "1.4-3",
       "repository": "jailbreak365's Repo",
       "url": "http://cydia.saurik.com/package/com.jailbreak365.safeccmodules/",
-      "shortDescription": "Control center modules for iOS 11/12. New in v1.4-3: Added SBReload, LDRestart, Sileo, and Zebra modules.",
+      "shortDescription": "More control center modules for iOS 11/12",
       "category": "Tweaks",
       "author": "jailbreak365",
       "commercial": false,
@@ -3581,10 +3581,10 @@
     {
       "id": "mobilesubstrate",
       "name": "Cydia Substrate",
-      "latest": "0.9.7033",
+      "latest": "99.2",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/mobilesubstrate/",
-      "shortDescription": "powerful code insertion platform",
+      "shortDescription": "Compatibility wrapper for Substrate tweaks to work with Tweak Injector + Substitute",
       "category": "System",
       "author": "Jay Freeman (saurik)",
       "commercial": false,
@@ -3870,7 +3870,7 @@
     {
       "id": "dpkg",
       "name": "Debian Packager",
-      "latest": "1.19.7-1",
+      "latest": "1.18.25-11",
       "repository": "Cydia/Telesphoreo",
       "url": "http://cydia.saurik.com/package/dpkg/",
       "shortDescription": "package maintainance tools from Debian",
@@ -4348,7 +4348,7 @@
     {
       "id": "me.gmoran.eclipse12",
       "name": "Eclipse 12 Beta (iOS 12)",
-      "latest": "6.1.2",
+      "latest": "6.1.2-1",
       "repository": "Eclipse 12 Beta Repo",
       "url": "http://cydia.saurik.com/package/me.gmoran.eclipse12/",
       "shortDescription": "Customizable Dark Mode for iOS 12!",
@@ -5093,7 +5093,7 @@
     {
       "id": "com.imkpatil.floatingdock",
       "name": "FloatingDock",
-      "latest": "1.5",
+      "latest": "1.5.1",
       "repository": "Kiran Patil's Repo",
       "url": "http://cydia.saurik.com/package/com.imkpatil.floatingdock/",
       "shortDescription": "iPad like dock for iPhone!",
@@ -6924,7 +6924,7 @@
     {
       "id": "com.cemck.killx",
       "name": "KillX",
-      "latest": "0.1.2",
+      "latest": "0.1.3",
       "repository": "cemck's Repo",
       "url": "http://cydia.saurik.com/package/com.cemck.killx/",
       "shortDescription": "One swipe to kill them all!",
@@ -7262,7 +7262,7 @@
     {
       "id": "com.creaturesurvive.libcscolorpicker",
       "name": "libCSColorPicker",
-      "latest": "1.0",
+      "latest": "1.0.3",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.creaturesurvive.libcscolorpicker/",
       "shortDescription": "A minimal color picker library for developers",
@@ -7925,6 +7925,40 @@
           "iOSVersion": "12.1.4",
           "repository": "SparkDev",
           "date": "2019-07-23T17:07:14Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.evynw.lsew246",
+      "name": "LS EW246",
+      "latest": "1.0",
+      "repository": "Evelyn's Collection",
+      "url": "http://cydia.saurik.com/package/com.evynw.lsew246/",
+      "shortDescription": "I really should be focusing on widgets again T^T",
+      "category": "Lockscreen Widgets",
+      "author": "Evelyn (ev_ynw)",
+      "commercial": false,
+      "date": "2019-08-23T09:50:13Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0",
+          "iOSVersion": "12.1.4",
+          "repository": "Evelyn's Collection",
+          "date": "2019-08-23T09:50:13Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8641,21 +8675,22 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
+      "id": "mterminal",
       "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "latest": "1.4-6",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
+      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5",
+          "tweakVersion": "1.4-6",
           "iOSVersion": "12.1.4",
-          "repository": "BigBoss",
-          "date": "2019-07-13T13:39:06Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-07-12T15:09:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8674,22 +8709,21 @@
       ]
     },
     {
-      "id": "mterminal",
+      "id": "com.officialscheduler.mterminal",
       "name": "MTerminal",
-      "latest": "1.4-6",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/mterminal/",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
-      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-6",
+          "tweakVersion": "1.4-5",
           "iOSVersion": "12.1.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-07-12T15:09:03Z",
+          "repository": "BigBoss",
+          "date": "2019-07-13T13:39:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -10593,10 +10627,10 @@
     {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
-      "latest": "3.5.3",
+      "latest": "3.5.4",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/me.alfhaily.rocket/",
-      "shortDescription": "posts and view stories anonymously and do much more",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
       "category": "Tweaks",
       "author": "Majd Alfhaily",
       "commercial": false,
@@ -11936,10 +11970,10 @@
     {
       "id": "com.spos",
       "name": "Spos",
-      "latest": "1.1.5",
+      "latest": "2.0",
       "repository": "Dynastic Repo",
       "url": "http://cydia.saurik.com/package/com.spos/",
-      "shortDescription": "Unleash Your Spotify With Spos — - Artwork In Playlists",
+      "shortDescription": "Unleash Your Spotify With Spos — - Artists & Playlists New UI",
       "category": "Tweaks",
       "author": "aesthyrica",
       "commercial": false,
@@ -12275,7 +12309,7 @@
     {
       "id": "com.ioscreatix.sugarcane",
       "name": "SugarCane",
-      "latest": "1.0.0-1+debug",
+      "latest": "1.0.0",
       "repository": "iOS Creatix",
       "url": "http://cydia.saurik.com/package/com.ioscreatix.sugarcane/",
       "shortDescription": "Get percentages for the sliders in the Control Center on iOS 11",
@@ -12343,7 +12377,7 @@
     {
       "id": "org.hacx.superrecorderxplus",
       "name": "Super Recorder X+ (iOS 12)",
-      "latest": "3.05-2",
+      "latest": "3.06-3",
       "repository": "hAcx Repository",
       "url": "http://cydia.saurik.com/package/org.hacx.superrecorderxplus/",
       "shortDescription": "Call Recorder & Voice Amplifier",
@@ -12463,7 +12497,7 @@
     {
       "id": "xyz.xninja.systeminfo",
       "name": "System Info",
-      "latest": "2.0.0-1",
+      "latest": "2.2.1-10+debug",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/xyz.xninja.systeminfo/",
       "shortDescription": "System information in Settings app > General > About, and other sections. Set boot-nonce, save shsh, battery info etc",
@@ -12496,7 +12530,7 @@
     {
       "id": "system-memory-reset-fix",
       "name": "System Memory Reset Fix",
-      "latest": "2.0-1",
+      "latest": "2.0",
       "repository": "(null)",
       "url": "http://cydia.saurik.com/package/system-memory-reset-fix/",
       "shortDescription": "Prevent overnight userspace reboots triggered by mmaintenanced",
@@ -13104,7 +13138,7 @@
     {
       "id": "com.unlimapps.uasharedtools.nostash",
       "name": "uasharedtools (iOS 11)",
-      "latest": "2.2r-91",
+      "latest": "2.2r-94",
       "repository": "test.unlimapps.com",
       "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
       "shortDescription": "shared tools for unlimapps tweaks",
@@ -13539,6 +13573,40 @@
       ]
     },
     {
+      "id": "cydia.kiiimo.org.xenhtml",
+      "name": "Xen HTML",
+      "latest": "0.5-2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
+      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-07-28T21:20:26Z",
+      "versions": [
+        {
+          "tweakVersion": "0.5-2",
+          "iOSVersion": "12.1.4",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-28T21:20:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
       "latest": "0.5.5-6",
@@ -13581,40 +13649,6 @@
             "good": 1,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "cydia.kiiimo.org.xenhtml",
-      "name": "Xen HTML",
-      "latest": "0.5-2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
-      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-07-28T21:20:26Z",
-      "versions": [
-        {
-          "tweakVersion": "0.5-2",
-          "iOSVersion": "12.1.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-28T21:20:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
