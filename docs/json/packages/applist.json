@@ -1,7 +1,7 @@
 {
   "id": "applist",
   "name": "AppList",
-  "latest": "1.5.14",
+  "latest": "1.5.15~beta1",
   "repository": "BigBoss",
   "url": "http://cydia.saurik.com/package/applist/",
   "shortDescription": "Allow extensions to read the list of installed apps",
@@ -3121,9 +3121,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3149,6 +3149,15 @@
           "date": "2019-08-19T07:15:11Z",
           "userName": "jefro108",
           "issueNumber": 94664,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-23T05:25:28Z",
+          "userName": "Shadowgar",
+          "issueNumber": 96992,
           "arch32": false
         }
       ]
