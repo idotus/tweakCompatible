@@ -689,10 +689,10 @@
       "date": "2019-08-18T19:48:12Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 72,
-        "good": 8,
+        "percentage": 75,
+        "good": 9,
         "bad": 0,
-        "total": 11,
+        "total": 12,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -799,6 +799,15 @@
           "date": "2019-08-22T19:37:46Z",
           "userName": "AndreySu",
           "issueNumber": 96884,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-23T13:58:42Z",
+          "userName": "azfaryusof171",
+          "issueNumber": 97091,
           "arch32": false
         }
       ]
