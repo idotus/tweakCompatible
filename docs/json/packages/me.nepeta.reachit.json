@@ -296,10 +296,10 @@
       "date": "2019-08-19T17:30:08Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 33,
+        "percentage": 25,
         "good": 1,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -334,6 +334,15 @@
           "date": "2019-08-22T18:34:33Z",
           "userName": "jinwk00",
           "issueNumber": 96875,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,2",
+          "issues": "Unfortunately safe modes, hopefully we get an update to this lovely tweak! :)",
+          "date": "2019-08-23T10:38:21Z",
+          "userName": "fatpowaranga",
+          "issueNumber": 97041,
           "arch32": false
         }
       ]
