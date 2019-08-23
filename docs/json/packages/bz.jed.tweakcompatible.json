@@ -12578,9 +12578,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 25,
+        "good": 26,
         "bad": 0,
-        "total": 25,
+        "total": 26,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -12813,6 +12813,15 @@
           "date": "2019-08-21T23:56:58Z",
           "userName": "bigdaddyuk666",
           "issueNumber": 96647,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPad4,1",
+          "issues": "Ipad Air 12.4 work good",
+          "date": "2019-08-23T09:34:36Z",
+          "userName": "akeshma",
+          "issueNumber": 97010,
           "arch32": false
         }
       ]
