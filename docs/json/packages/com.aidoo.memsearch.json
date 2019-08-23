@@ -2013,10 +2013,10 @@
       "date": "2019-08-18T21:33:10Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2042,6 +2042,15 @@
           "date": "2019-08-20T14:59:57Z",
           "userName": "gatekeeper1122",
           "issueNumber": 95904,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPod7,1",
+          "issues": "Can boot, can’t search values",
+          "date": "2019-08-23T21:51:03Z",
+          "userName": "DaveSwitch",
+          "issueNumber": 97154,
           "arch32": false
         }
       ]
