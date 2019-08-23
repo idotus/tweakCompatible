@@ -512,9 +512,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -540,6 +540,15 @@
           "date": "2019-08-19T20:03:40Z",
           "userName": "r03n-d",
           "issueNumber": 95359,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Working on the last version Snapchat !",
+          "date": "2019-08-23T11:44:19Z",
+          "userName": "FUNGAMEFR",
+          "issueNumber": 97061,
           "arch32": false
         }
       ]
