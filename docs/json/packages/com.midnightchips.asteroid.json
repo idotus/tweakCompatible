@@ -1643,11 +1643,11 @@
       "repository": "Dynastic Repo",
       "date": "2019-08-18T22:11:40Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 44,
+        "calculatedStatus": "Not working",
+        "percentage": 40,
         "good": 4,
         "bad": 0,
-        "total": 9,
+        "total": 10,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1736,6 +1736,15 @@
           "date": "2019-08-22T21:00:55Z",
           "userName": "andrewdens",
           "issueNumber": 96893,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-23T03:38:21Z",
+          "userName": "parkerwalden",
+          "issueNumber": 96971,
           "arch32": false
         }
       ]
