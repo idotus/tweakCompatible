@@ -999,10 +999,10 @@
       "date": "2019-08-20T06:30:40Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1028,6 +1028,15 @@
           "date": "2019-08-21T04:16:28Z",
           "userName": "S4MT3K",
           "issueNumber": 96157,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-08-22T23:54:30Z",
+          "userName": "edsonqr",
+          "issueNumber": 96931,
           "arch32": false
         }
       ]
