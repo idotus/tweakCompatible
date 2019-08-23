@@ -5145,9 +5145,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 90,
-        "good": 9,
+        "good": 10,
         "bad": 0,
-        "total": 10,
+        "total": 11,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5245,6 +5245,15 @@
           "date": "2019-08-09T09:49:43Z",
           "userName": "Thoshuno",
           "issueNumber": 93708,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-23T02:30:07Z",
+          "userName": "jxh4138",
+          "issueNumber": 96956,
           "arch32": false
         }
       ]
@@ -5390,9 +5399,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 5,
+        "good": 6,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5445,6 +5454,15 @@
           "date": "2019-08-21T16:39:53Z",
           "userName": "CuzImInside",
           "issueNumber": 96373,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-23T10:13:13Z",
+          "userName": "Shadowgar",
+          "issueNumber": 97026,
           "arch32": false
         }
       ]
