@@ -13580,22 +13580,22 @@
       ]
     },
     {
-      "id": "com.cabralcole.forceinpicture",
+      "id": "com.spicat.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "0.0.1-2",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
-      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
+      "latest": "1.1",
+      "repository": "Spica T Repo",
+      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
+      "shortDescription": "Enable picture in picture feature with no crashes.",
       "category": "Tweaks",
-      "author": "cole cabral @ca13ra1",
+      "author": "SpicaT",
       "commercial": false,
-      "date": "2018-03-01T20:00:33Z",
+      "date": "2018-07-18T14:45:11Z",
       "versions": [
         {
-          "tweakVersion": "0.0.1-2",
+          "tweakVersion": "1.1",
           "iOSVersion": "12.2",
-          "repository": "BigBoss",
-          "date": "2019-08-05T05:22:04Z",
+          "repository": "Spica T Repo",
+          "date": "2019-07-19T06:54:11Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -13614,22 +13614,22 @@
       ]
     },
     {
-      "id": "com.spicat.forceinpicture",
+      "id": "com.cabralcole.forceinpicture",
       "name": "ForceInPicture",
-      "latest": "1.1",
-      "repository": "Spica T Repo",
-      "url": "http://cydia.saurik.com/package/com.spicat.forceinpicture/",
-      "shortDescription": "Enable picture in picture feature with no crashes.",
+      "latest": "0.0.1-2",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/com.cabralcole.forceinpicture/",
+      "shortDescription": "\"Programmatically\" enable picture in picture feature.",
       "category": "Tweaks",
-      "author": "SpicaT",
+      "author": "cole cabral @ca13ra1",
       "commercial": false,
-      "date": "2018-07-18T14:45:11Z",
+      "date": "2018-03-01T20:00:33Z",
       "versions": [
         {
-          "tweakVersion": "1.1",
+          "tweakVersion": "0.0.1-2",
           "iOSVersion": "12.2",
-          "repository": "Spica T Repo",
-          "date": "2019-07-19T06:54:11Z",
+          "repository": "BigBoss",
+          "date": "2019-08-05T05:22:04Z",
           "outcome": {
             "calculatedStatus": "Not working",
             "percentage": 0,
@@ -17303,22 +17303,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.konban",
+      "id": "me.nepeta.konban",
       "name": "Konban",
-      "latest": "0.1.1k1",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.konban/",
+      "latest": "0.2.1",
+      "repository": "Nepeta",
+      "url": "http://cydia.saurik.com/package/me.nepeta.konban/",
       "shortDescription": "Replaces the \"Today\" view with an app of your choice.",
-      "category": "iOS 12",
+      "category": "Tweaks",
       "author": "Nepeta",
       "commercial": false,
-      "date": "2019-07-16T22:39:41Z",
+      "date": "2019-04-20T17:58:36Z",
       "versions": [
         {
-          "tweakVersion": "0.1.1k1",
+          "tweakVersion": "0.2.1",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-16T22:39:41Z",
+          "repository": "Nepeta",
+          "date": "2019-07-31T22:34:34Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -17337,22 +17337,22 @@
       ]
     },
     {
-      "id": "me.nepeta.konban",
+      "id": "org.cydia.kiimo.konban",
       "name": "Konban",
-      "latest": "0.2.1",
-      "repository": "Nepeta",
-      "url": "http://cydia.saurik.com/package/me.nepeta.konban/",
+      "latest": "0.1.1k1",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.konban/",
       "shortDescription": "Replaces the \"Today\" view with an app of your choice.",
-      "category": "Tweaks",
+      "category": "iOS 12",
       "author": "Nepeta",
       "commercial": false,
-      "date": "2019-04-20T17:58:36Z",
+      "date": "2019-07-16T22:39:41Z",
       "versions": [
         {
-          "tweakVersion": "0.2.1",
+          "tweakVersion": "0.1.1k1",
           "iOSVersion": "12.2",
-          "repository": "Nepeta",
-          "date": "2019-07-31T22:34:34Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-16T22:39:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18067,21 +18067,22 @@
       ]
     },
     {
-      "id": "org.thebigboss.libcolorpicker",
+      "id": "me.nepeta.libcolorpicker",
       "name": "libcolorpicker",
-      "latest": "1.6.3-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/",
-      "shortDescription": "color picker library for developers",
-      "category": "Development",
-      "author": "PixelFire",
+      "latest": "1.6.2-2",
+      "repository": "Nepeta",
+      "url": "http://cydia.saurik.com/package/me.nepeta.libcolorpicker/",
+      "shortDescription": "libcolorpicker with arm64e (A12) support",
+      "category": "System",
+      "author": "Bailey Seymour",
       "commercial": false,
+      "date": "2019-04-23T12:35:57Z",
       "versions": [
         {
-          "tweakVersion": "1.6.3-1",
+          "tweakVersion": "1.6.2-3",
           "iOSVersion": "12.2",
           "repository": "BigBoss",
-          "date": "2019-07-19T04:05:54Z",
+          "date": "2019-07-23T22:31:52Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18100,22 +18101,21 @@
       ]
     },
     {
-      "id": "me.nepeta.libcolorpicker",
+      "id": "org.thebigboss.libcolorpicker",
       "name": "libcolorpicker",
-      "latest": "1.6.2-2",
-      "repository": "Nepeta",
-      "url": "http://cydia.saurik.com/package/me.nepeta.libcolorpicker/",
-      "shortDescription": "libcolorpicker with arm64e (A12) support",
-      "category": "System",
-      "author": "Bailey Seymour",
+      "latest": "1.6.3-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.libcolorpicker/",
+      "shortDescription": "color picker library for developers",
+      "category": "Development",
+      "author": "PixelFire",
       "commercial": false,
-      "date": "2019-04-23T12:35:57Z",
       "versions": [
         {
-          "tweakVersion": "1.6.2-3",
+          "tweakVersion": "1.6.3-1",
           "iOSVersion": "12.2",
           "repository": "BigBoss",
-          "date": "2019-07-23T22:31:52Z",
+          "date": "2019-07-19T04:05:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -18396,40 +18396,6 @@
       ]
     },
     {
-      "id": "com.ryleyangus.libertylite",
-      "name": "Liberty Lite",
-      "latest": "0.2.10",
-      "repository": "Ryley's Repo",
-      "url": "http://cydia.saurik.com/package/com.ryleyangus.libertylite/",
-      "shortDescription": "A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.",
-      "category": "Tweaks",
-      "author": "Ryley Angus",
-      "commercial": false,
-      "date": "2018-03-11T22:28:04Z",
-      "versions": [
-        {
-          "tweakVersion": "0.2.10",
-          "iOSVersion": "12.2",
-          "repository": "Ryley's Repo",
-          "date": "2019-07-12T20:11:30Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 2,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.s3ud.alshaman.libertylite",
       "name": "Liberty Lite",
       "latest": "0.2.10",
@@ -18452,6 +18418,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ryleyangus.libertylite",
+      "name": "Liberty Lite",
+      "latest": "0.2.10",
+      "repository": "Ryley's Repo",
+      "url": "http://cydia.saurik.com/package/com.ryleyangus.libertylite/",
+      "shortDescription": "A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.",
+      "category": "Tweaks",
+      "author": "Ryley Angus",
+      "commercial": false,
+      "date": "2018-03-11T22:28:04Z",
+      "versions": [
+        {
+          "tweakVersion": "0.2.10",
+          "iOSVersion": "12.2",
+          "repository": "Ryley's Repo",
+          "date": "2019-07-12T20:11:30Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 2,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -19475,22 +19475,22 @@
       ]
     },
     {
-      "id": "com.esquilli.lisa",
+      "id": "org.cydia.kiimo.lisa",
       "name": "Lisa",
-      "latest": "1.0.2",
-      "repository": "EsquilliDev",
-      "url": "http://cydia.saurik.com/package/com.esquilli.lisa/",
-      "shortDescription": "Customize your Lock Screen experience",
-      "category": "Tweaks",
+      "latest": "1.0.0",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.lisa/",
+      "shortDescription": "Customize your Lock Screen experience\r",
+      "category": "iOS 12",
       "author": "Esquilli",
       "commercial": false,
-      "date": "2019-05-15T14:39:34Z",
+      "date": "2019-07-17T21:32:54Z",
       "versions": [
         {
-          "tweakVersion": "1.0.2",
+          "tweakVersion": "1.0.0",
           "iOSVersion": "12.2",
-          "repository": "EsquilliDev",
-          "date": "2019-08-10T18:05:40Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-17T21:32:54Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -19509,22 +19509,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.lisa",
+      "id": "com.esquilli.lisa",
       "name": "Lisa",
-      "latest": "1.0.0",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.lisa/",
-      "shortDescription": "Customize your Lock Screen experience\r",
-      "category": "iOS 12",
+      "latest": "1.0.2",
+      "repository": "EsquilliDev",
+      "url": "http://cydia.saurik.com/package/com.esquilli.lisa/",
+      "shortDescription": "Customize your Lock Screen experience",
+      "category": "Tweaks",
       "author": "Esquilli",
       "commercial": false,
-      "date": "2019-07-17T21:32:54Z",
+      "date": "2019-05-15T14:39:34Z",
       "versions": [
         {
-          "tweakVersion": "1.0.0",
+          "tweakVersion": "1.0.2",
           "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-17T21:32:54Z",
+          "repository": "EsquilliDev",
+          "date": "2019-08-10T18:05:40Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -21094,6 +21094,40 @@
           "iOSVersion": "12.2",
           "repository": "Packix",
           "date": "2019-07-15T21:05:36Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.mtac.modernswitcher",
+      "name": "ModernSwitcher",
+      "latest": "1.0.0-3",
+      "repository": "MTAC's Repo",
+      "url": "http://cydia.saurik.com/package/com.mtac.modernswitcher/",
+      "shortDescription": "Add some extra features to your App Switcher",
+      "category": "Tweaks",
+      "author": "MTAC",
+      "commercial": false,
+      "date": "2019-08-23T03:43:27Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0.0-3",
+          "iOSVersion": "12.2",
+          "repository": "MTAC's Repo",
+          "date": "2019-08-23T03:43:27Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -22929,40 +22963,6 @@
       ]
     },
     {
-      "id": "org.coolstar.nolargetitles",
-      "name": "NoLargeTitles",
-      "latest": "1.0-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
-      "shortDescription": "Remove the large titles system-wide on iOS 11",
-      "category": "Tweaks",
-      "author": "CoolStar",
-      "commercial": false,
-      "date": "2018-03-08T05:57:18Z",
-      "versions": [
-        {
-          "tweakVersion": "1.0-1",
-          "iOSVersion": "12.2",
-          "repository": "BigBoss",
-          "date": "2019-08-02T00:27:28Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.adamseiter.nolargetitles",
       "name": "NoLargeTitles",
       "latest": "1.1",
@@ -22983,6 +22983,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.coolstar.nolargetitles",
+      "name": "NoLargeTitles",
+      "latest": "1.0-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.coolstar.nolargetitles/",
+      "shortDescription": "Remove the large titles system-wide on iOS 11",
+      "category": "Tweaks",
+      "author": "CoolStar",
+      "commercial": false,
+      "date": "2018-03-08T05:57:18Z",
+      "versions": [
+        {
+          "tweakVersion": "1.0-1",
+          "iOSVersion": "12.2",
+          "repository": "BigBoss",
+          "date": "2019-08-02T00:27:28Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -27221,40 +27255,6 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.rocket",
-      "name": "Rocket for Instagram",
-      "latest": "3.3.5k",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.rocket/",
-      "shortDescription": "Save posts and view stories anonymously and do much more",
-      "category": "iOS 12",
-      "author": "Majd Alfhaily",
-      "commercial": false,
-      "date": "2019-07-26T14:51:33Z",
-      "versions": [
-        {
-          "tweakVersion": "3.3.5k",
-          "iOSVersion": "12.2",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-26T14:51:33Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "me.alfhaily.rocket",
       "name": "Rocket for Instagram",
       "latest": "3.5.4",
@@ -27351,6 +27351,40 @@
           "iOSVersion": "12.2",
           "repository": "Alfhaily APT",
           "date": "2019-08-12T08:43:39Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "cydia.kiiimo.org.rocket",
+      "name": "Rocket for Instagram",
+      "latest": "3.3.5k",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.rocket/",
+      "shortDescription": "Save posts and view stories anonymously and do much more",
+      "category": "iOS 12",
+      "author": "Majd Alfhaily",
+      "commercial": false,
+      "date": "2019-07-26T14:51:33Z",
+      "versions": [
+        {
+          "tweakVersion": "3.3.5k",
+          "iOSVersion": "12.2",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-26T14:51:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -29706,9 +29740,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 90,
-            "good": 9,
+            "good": 10,
             "bad": 0,
-            "total": 10,
+            "total": 11,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -35362,22 +35396,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "4.32.7-2",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:52:23Z",
+          "date": "2019-07-23T22:36:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -35396,22 +35430,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "4.32.7-2",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.2",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-07-23T22:36:47Z",
+          "date": "2019-07-23T22:52:23Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
