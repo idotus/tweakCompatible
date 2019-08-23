@@ -1291,9 +1291,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 4,
+        "good": 5,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1337,6 +1337,15 @@
           "date": "2019-08-21T13:34:19Z",
           "userName": "steezyprodz",
           "issueNumber": 96293,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-23T06:48:18Z",
+          "userName": "TekkenEvolution",
+          "issueNumber": 97003,
           "arch32": false
         }
       ]
