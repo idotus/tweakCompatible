@@ -469,11 +469,11 @@
       "repository": "Nepeta",
       "date": "2019-08-19T15:29:58Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -490,6 +490,15 @@
           "date": "2019-08-19T15:29:58Z",
           "userName": "RexSonic",
           "issueNumber": 95103,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "Install is fine, but text are not copied after the list full",
+          "date": "2019-08-23T00:55:12Z",
+          "userName": "sadalhayat",
+          "issueNumber": 96935,
           "arch32": false
         }
       ]
