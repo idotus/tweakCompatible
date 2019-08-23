@@ -1074,11 +1074,11 @@
       "repository": "BigBoss",
       "date": "2019-08-19T05:39:31Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1113,6 +1113,15 @@
           "date": "2019-08-21T02:19:21Z",
           "userName": "75Y",
           "issueNumber": 96124,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-08-23T10:32:59Z",
+          "userName": "tsxcobra",
+          "issueNumber": 97036,
           "arch32": false
         }
       ]
