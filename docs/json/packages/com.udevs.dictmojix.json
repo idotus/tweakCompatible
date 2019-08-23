@@ -1,7 +1,7 @@
 {
   "id": "com.udevs.dictmojix",
   "name": "DictMojiX",
-  "latest": "1.4.1",
+  "latest": "1.4.2",
   "repository": "udevs",
   "url": "http://cydia.saurik.com/package/com.udevs.dictmojix/",
   "shortDescription": "Replace dictation key with emoji key on iPhone X/XS! Support iOS 11-12.",
@@ -272,6 +272,37 @@
           "date": "2019-08-19T17:38:24Z",
           "userName": "jdavidrpp",
           "issueNumber": 95188,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.4.2",
+      "iOSVersion": "12.4",
+      "repository": "udevs",
+      "date": "2019-08-23T12:52:24Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-23T12:52:24Z",
+          "userName": "hkunkun",
+          "issueNumber": 97079,
           "arch32": false
         }
       ]
