@@ -230,10 +230,10 @@
       "date": "2019-08-21T19:21:13Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -259,6 +259,15 @@
           "date": "2019-08-22T02:50:04Z",
           "userName": "mozbius",
           "issueNumber": 96677,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-23T04:54:42Z",
+          "userName": "FrostyNL",
+          "issueNumber": 96988,
           "arch32": false
         }
       ]
