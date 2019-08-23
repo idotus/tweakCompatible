@@ -5318,10 +5318,10 @@
       "date": "2019-08-18T23:05:29Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 13,
-        "good": 3,
+        "percentage": 16,
+        "good": 4,
         "bad": 0,
-        "total": 23,
+        "total": 24,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5536,6 +5536,15 @@
           "date": "2019-08-22T22:45:25Z",
           "userName": "slmny",
           "issueNumber": 96903,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone10,6",
+          "issues": "Blocking app updates works, I’m using my old prefs file. Holding Open buttons crashes.",
+          "date": "2019-08-23T09:49:30Z",
+          "userName": "Stoppels",
+          "issueNumber": 97018,
           "arch32": false
         }
       ]
