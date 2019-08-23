@@ -729,22 +729,22 @@
       ]
     },
     {
-      "id": "me.virulent.ios.tweaks.ast",
+      "id": "com.repo.xarold.com.ast",
       "name": "AdvancedStatusTime",
       "latest": "1.0",
-      "repository": "apt.thebigboss.org",
-      "url": "http://cydia.saurik.com/package/me.virulent.ios.tweaks.ast/",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.ast/",
       "shortDescription": "customize the time entry in status bar.",
       "category": "Tweaks",
       "author": "Maxwell Lang",
-      "commercial": true,
-      "date": "2018-03-31T09:12:29Z",
+      "commercial": false,
+      "date": "2019-08-20T20:05:57Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T05:40:29Z",
+          "repository": "(null)",
+          "date": "2019-08-20T20:05:57Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -763,22 +763,22 @@
       ]
     },
     {
-      "id": "com.repo.xarold.com.ast",
+      "id": "me.virulent.ios.tweaks.ast",
       "name": "AdvancedStatusTime",
       "latest": "1.0",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/com.repo.xarold.com.ast/",
+      "repository": "apt.thebigboss.org",
+      "url": "http://cydia.saurik.com/package/me.virulent.ios.tweaks.ast/",
       "shortDescription": "customize the time entry in status bar.",
       "category": "Tweaks",
       "author": "Maxwell Lang",
-      "commercial": false,
-      "date": "2019-08-20T20:05:57Z",
+      "commercial": true,
+      "date": "2018-03-31T09:12:29Z",
       "versions": [
         {
           "tweakVersion": "1.0",
           "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-20T20:05:57Z",
+          "repository": "BigBoss",
+          "date": "2019-08-19T05:40:29Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -15913,6 +15913,40 @@
       ]
     },
     {
+      "id": "ru.rejail.filza",
+      "name": "Filza File Manager",
+      "latest": "3.6.2k",
+      "repository": "ReJail Repo",
+      "url": "http://cydia.saurik.com/package/ru.rejail.filza/",
+      "shortDescription": "Файловый менеджер для iOS",
+      "category": "Utilities",
+      "author": "TIGI Software",
+      "commercial": false,
+      "date": "2019-08-20T10:06:45Z",
+      "versions": [
+        {
+          "tweakVersion": "3.6.2k",
+          "iOSVersion": "12.4",
+          "repository": "ReJail Repo",
+          "date": "2019-08-20T10:06:45Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.tigisoftware.filza",
       "name": "Filza File Manager",
       "latest": "3.7.0-18",
@@ -15954,40 +15988,6 @@
             "good": 4,
             "bad": 0,
             "total": 5,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.rejail.filza",
-      "name": "Filza File Manager",
-      "latest": "3.6.2k",
-      "repository": "ReJail Repo",
-      "url": "http://cydia.saurik.com/package/ru.rejail.filza/",
-      "shortDescription": "Файловый менеджер для iOS",
-      "category": "Utilities",
-      "author": "TIGI Software",
-      "commercial": false,
-      "date": "2019-08-20T10:06:45Z",
-      "versions": [
-        {
-          "tweakVersion": "3.6.2k",
-          "iOSVersion": "12.4",
-          "repository": "ReJail Repo",
-          "date": "2019-08-20T10:06:45Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -18473,6 +18473,39 @@
       ]
     },
     {
+      "id": "com.julioverne.goodwifi",
+      "name": "GoodWiFi",
+      "latest": "0.0~beta4",
+      "repository": "julioverne's Repo",
+      "url": "http://twitter.com/ijulioverne",
+      "shortDescription": "Better WiFi Preferences",
+      "category": "Tweaks",
+      "author": "julioverne",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "0.0~beta4",
+          "iOSVersion": "12.4",
+          "repository": "julioverne's Repo",
+          "date": "2019-08-19T10:15:52Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 9,
+            "bad": 0,
+            "total": 9,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.goodwifi",
       "name": "GoodWiFi",
       "latest": "0.0~beta4",
@@ -18495,39 +18528,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.julioverne.goodwifi",
-      "name": "GoodWiFi",
-      "latest": "0.0~beta4",
-      "repository": "julioverne's Repo",
-      "url": "http://twitter.com/ijulioverne",
-      "shortDescription": "Better WiFi Preferences",
-      "category": "Tweaks",
-      "author": "julioverne",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "0.0~beta4",
-          "iOSVersion": "12.4",
-          "repository": "julioverne's Repo",
-          "date": "2019-08-19T10:15:52Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 9,
-            "bad": 0,
-            "total": 9,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -27599,21 +27599,22 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
+      "id": "mterminal",
       "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "latest": "1.4-6",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
+      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5",
+          "tweakVersion": "1.4-6",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-18T23:31:50Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-08-18T22:12:28Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -27632,22 +27633,21 @@
       ]
     },
     {
-      "id": "mterminal",
+      "id": "com.officialscheduler.mterminal",
       "name": "MTerminal",
-      "latest": "1.4-6",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/mterminal/",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
-      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-6",
+          "tweakVersion": "1.4-5",
           "iOSVersion": "12.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-08-18T22:12:28Z",
+          "repository": "BigBoss",
+          "date": "2019-08-18T23:31:50Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -29266,40 +29266,6 @@
       ]
     },
     {
-      "id": "ru.rejail.noctis12",
-      "name": "Noctis12",
-      "latest": "1.7.3",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.rejail.noctis12/",
-      "shortDescription": "Темный режим для всей системы",
-      "category": "Tweaks",
-      "author": "LaughingQuoll",
-      "commercial": false,
-      "date": "2019-02-24T02:00:52Z",
-      "versions": [
-        {
-          "tweakVersion": "1.7.3",
-          "iOSVersion": "12.4",
-          "repository": "ReJail Repo",
-          "date": "2019-08-20T05:52:27Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.laughingquoll.noctis12",
       "name": "Noctis12",
       "latest": "1.7.4",
@@ -29342,6 +29308,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.rejail.noctis12",
+      "name": "Noctis12",
+      "latest": "1.7.3",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.rejail.noctis12/",
+      "shortDescription": "Темный режим для всей системы",
+      "category": "Tweaks",
+      "author": "LaughingQuoll",
+      "commercial": false,
+      "date": "2019-02-24T02:00:52Z",
+      "versions": [
+        {
+          "tweakVersion": "1.7.3",
+          "iOSVersion": "12.4",
+          "repository": "ReJail Repo",
+          "date": "2019-08-20T05:52:27Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -29422,40 +29422,6 @@
       ]
     },
     {
-      "id": "com.adamseiter.nolargetitles",
-      "name": "NoLargeTitles",
-      "latest": "1.1",
-      "repository": "SEITERSEITER's Repo",
-      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
-      "shortDescription": "Removes ugly large titles from apps.",
-      "category": "Tweaks",
-      "author": "Adam Seiter",
-      "commercial": false,
-      "date": "2018-03-01T19:59:25Z",
-      "versions": [
-        {
-          "tweakVersion": "1.1",
-          "iOSVersion": "12.4",
-          "repository": "eXqusic's Repo",
-          "date": "2019-08-19T17:00:29Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "org.coolstar.nolargetitles",
       "name": "NoLargeTitles",
       "latest": "1.0-1",
@@ -29478,6 +29444,40 @@
             "good": 3,
             "bad": 0,
             "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.adamseiter.nolargetitles",
+      "name": "NoLargeTitles",
+      "latest": "1.1",
+      "repository": "SEITERSEITER's Repo",
+      "url": "http://cydia.saurik.com/package/com.adamseiter.nolargetitles/",
+      "shortDescription": "Removes ugly large titles from apps.",
+      "category": "Tweaks",
+      "author": "Adam Seiter",
+      "commercial": false,
+      "date": "2018-03-01T19:59:25Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1",
+          "iOSVersion": "12.4",
+          "repository": "eXqusic's Repo",
+          "date": "2019-08-19T17:00:29Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -32561,7 +32561,7 @@
     {
       "id": "com.yourepo.kingmehu.perfecttimexs",
       "name": "PerfectTimeXS",
-      "latest": "0.1.4-13",
+      "latest": "0.2.0-1",
       "repository": "kingmehu Source - YouRepo",
       "url": "http://cydia.saurik.com/package/com.yourepo.kingmehu.perfecttimexs/",
       "shortDescription": "modif the status bar time format,just for iPhone X/S/MAX",
@@ -32578,9 +32578,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 1,
+            "good": 2,
             "bad": 0,
-            "total": 1,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -34675,40 +34675,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.recordntorch",
-      "name": "Record 'n' Torch",
-      "latest": "1.7.9",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.recordntorch/",
-      "shortDescription": "Toggle Torch while recording video.",
-      "category": "Tweaks",
-      "author": "PoomSmart",
-      "commercial": false,
-      "date": "2018-03-13T08:02:37Z",
-      "versions": [
-        {
-          "tweakVersion": "1.7.9",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-20T15:18:17Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.spicat.recordntorch",
       "name": "Record 'n' Torch",
       "latest": "1.7.12",
@@ -34731,6 +34697,40 @@
             "good": 2,
             "bad": 0,
             "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.recordntorch",
+      "name": "Record 'n' Torch",
+      "latest": "1.7.9",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.recordntorch/",
+      "shortDescription": "Toggle Torch while recording video.",
+      "category": "Tweaks",
+      "author": "PoomSmart",
+      "commercial": false,
+      "date": "2018-03-13T08:02:37Z",
+      "versions": [
+        {
+          "tweakVersion": "1.7.9",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-20T15:18:17Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -38342,21 +38342,22 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2",
+      "id": "com.jontelang.snapper2.packix",
       "name": "Snapper 2",
-      "latest": "1.2.6",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
+      "latest": "2.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger Lang",
+      "author": "Jonathan Winger-lang",
       "commercial": true,
+      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "1.4.2",
+          "tweakVersion": "2.1",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T04:31:42Z",
+          "repository": "Packix",
+          "date": "2019-08-19T04:27:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -38375,22 +38376,21 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2.packix",
+      "id": "com.jontelang.snapper2",
       "name": "Snapper 2",
-      "latest": "2.1",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
+      "latest": "1.2.6",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger-lang",
+      "author": "Jonathan Winger Lang",
       "commercial": true,
-      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "2.1",
+          "tweakVersion": "1.4.2",
           "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-19T04:27:09Z",
+          "repository": "BigBoss",
+          "date": "2019-08-19T04:31:42Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -40229,22 +40229,22 @@
       ]
     },
     {
-      "id": "com.i0stweak3r.stylish11",
+      "id": "com.yourepo.i0s-tweak3r-betas.stylish11",
       "name": "Stylish11",
-      "latest": "1.0.8-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.i0stweak3r.stylish11/",
-      "shortDescription": "colorful UI customization features",
+      "latest": "1.0.7-5",
+      "repository": "i0s-tweak3r-betas Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.i0s-tweak3r-betas.stylish11/",
+      "shortDescription": "A colorfully random way to customize the look and feel of your device, and add extra functionality. Color pickers for dock, open and closed folders plus many more new features. Tweak has over 40 buttons, sliders and colorpickers each for different options.",
       "category": "Tweaks",
       "author": "i0s_tweak3r",
       "commercial": false,
-      "date": "2018-07-31T14:52:56Z",
+      "date": "2018-07-07T03:52:47Z",
       "versions": [
         {
-          "tweakVersion": "1.0.8-1",
+          "tweakVersion": "1.0.7-5",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-22T10:49:41Z",
+          "repository": "i0s-tweak3r-betas Source - YouRepo",
+          "date": "2019-08-20T03:24:26Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -40263,22 +40263,22 @@
       ]
     },
     {
-      "id": "com.yourepo.i0s-tweak3r-betas.stylish11",
+      "id": "com.i0stweak3r.stylish11",
       "name": "Stylish11",
-      "latest": "1.0.7-5",
-      "repository": "i0s-tweak3r-betas Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.i0s-tweak3r-betas.stylish11/",
-      "shortDescription": "A colorfully random way to customize the look and feel of your device, and add extra functionality. Color pickers for dock, open and closed folders plus many more new features. Tweak has over 40 buttons, sliders and colorpickers each for different options.",
+      "latest": "1.0.8-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.i0stweak3r.stylish11/",
+      "shortDescription": "colorful UI customization features",
       "category": "Tweaks",
       "author": "i0s_tweak3r",
       "commercial": false,
-      "date": "2018-07-07T03:52:47Z",
+      "date": "2018-07-31T14:52:56Z",
       "versions": [
         {
-          "tweakVersion": "1.0.7-5",
+          "tweakVersion": "1.0.8-1",
           "iOSVersion": "12.4",
-          "repository": "i0s-tweak3r-betas Source - YouRepo",
-          "date": "2019-08-20T03:24:26Z",
+          "repository": "BigBoss",
+          "date": "2019-08-22T10:49:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -40759,6 +40759,39 @@
       ]
     },
     {
+      "id": "com.iky1e.swipeselection-pro",
+      "name": "SwipeSelection Pro",
+      "latest": "1.0.3-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection-pro/",
+      "shortDescription": "Swipe along the keyboard to move cursor & select text.",
+      "category": "Tweaks",
+      "author": "iKy1e (Kyle Howells)",
+      "commercial": true,
+      "versions": [
+        {
+          "tweakVersion": "1.0.3-1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T10:19:47Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 3,
+            "bad": 0,
+            "total": 3,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "vn.ftios.swipeselection",
       "name": "SwipeSelection Pro",
       "latest": "1.0.3-1",
@@ -40781,39 +40814,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.iky1e.swipeselection-pro",
-      "name": "SwipeSelection Pro",
-      "latest": "1.0.3-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection-pro/",
-      "shortDescription": "Swipe along the keyboard to move cursor & select text.",
-      "category": "Tweaks",
-      "author": "iKy1e (Kyle Howells)",
-      "commercial": true,
-      "versions": [
-        {
-          "tweakVersion": "1.0.3-1",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T10:19:47Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 3,
-            "bad": 0,
-            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -44336,21 +44336,22 @@
       ]
     },
     {
-      "id": "com.macciti.veexillum",
+      "id": "ru.rejail.veexillum",
       "name": "Veexillum",
       "latest": "2.7",
-      "repository": "ZodTTD & MacCiti (Archive)",
-      "url": "http://cydia.saurik.com/package/com.macciti.veexillum/",
-      "shortDescription": "True Simplicity",
-      "category": "Themes (SpringBoard)",
+      "repository": "ReJail Repo",
+      "url": "http://cydia.saurik.com/package/ru.rejail.veexillum/",
+      "shortDescription": "Тема для WinterBoard",
+      "category": "Themes",
       "author": "veerklempt",
-      "commercial": true,
+      "commercial": false,
+      "date": "2019-08-21T16:49:50Z",
       "versions": [
         {
           "tweakVersion": "2.7",
           "iOSVersion": "12.4",
-          "repository": "ZodTTD & MacCiti (Archive)",
-          "date": "2019-08-19T02:59:38Z",
+          "repository": "ReJail Repo",
+          "date": "2019-08-21T16:49:50Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -44369,22 +44370,21 @@
       ]
     },
     {
-      "id": "ru.rejail.veexillum",
+      "id": "com.macciti.veexillum",
       "name": "Veexillum",
       "latest": "2.7",
-      "repository": "ReJail Repo",
-      "url": "http://cydia.saurik.com/package/ru.rejail.veexillum/",
-      "shortDescription": "Тема для WinterBoard",
-      "category": "Themes",
+      "repository": "ZodTTD & MacCiti (Archive)",
+      "url": "http://cydia.saurik.com/package/com.macciti.veexillum/",
+      "shortDescription": "True Simplicity",
+      "category": "Themes (SpringBoard)",
       "author": "veerklempt",
-      "commercial": false,
-      "date": "2019-08-21T16:49:50Z",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "2.7",
           "iOSVersion": "12.4",
-          "repository": "ReJail Repo",
-          "date": "2019-08-21T16:49:50Z",
+          "repository": "ZodTTD & MacCiti (Archive)",
+          "date": "2019-08-19T02:59:38Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
