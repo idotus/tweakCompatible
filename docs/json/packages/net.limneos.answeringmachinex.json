@@ -4,7 +4,7 @@
   "latest": "1.0-6",
   "repository": "limneos.net",
   "url": "http://cydia.saurik.com/package/net.limneos.answeringmachinex/",
-  "shortDescription": "Receive voicemails on device!",
+  "shortDescription": "AnsweringMachine X",
   "category": "Tweaks",
   "author": "Elias Limneos",
   "commercial": false,
@@ -1619,10 +1619,10 @@
       "date": "2019-08-20T14:27:28Z",
       "outcome": {
         "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "percentage": 33,
+        "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1648,6 +1648,15 @@
           "date": "2019-08-21T13:02:11Z",
           "userName": "shurk1986",
           "issueNumber": 96264,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-23T09:43:56Z",
+          "userName": "huny320",
+          "issueNumber": 97016,
           "arch32": false
         }
       ]
