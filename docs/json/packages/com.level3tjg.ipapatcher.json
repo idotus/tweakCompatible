@@ -1,7 +1,7 @@
 {
   "id": "com.level3tjg.ipapatcher",
   "name": "IPAPatcher",
-  "latest": "1.0.5",
+  "latest": "1.0.6",
   "repository": "level3tjg",
   "url": "http://cydia.saurik.com/package/com.level3tjg.ipapatcher/",
   "shortDescription": "Sign IPA files with entitlements to fix some apps crashing on start on iOS 11 - 12.",
@@ -99,6 +99,37 @@
           "date": "2019-08-15T12:08:40Z",
           "userName": "vipzen",
           "issueNumber": 93948,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.6",
+      "iOSVersion": "12.4",
+      "repository": "level3tjg",
+      "date": "2019-08-23T16:22:43Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone8,1",
+          "issues": "",
+          "date": "2019-08-23T16:22:43Z",
+          "userName": "vipzen",
+          "issueNumber": 97109,
           "arch32": false
         }
       ]
