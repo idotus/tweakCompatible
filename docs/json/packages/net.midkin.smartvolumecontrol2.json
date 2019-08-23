@@ -1933,9 +1933,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 1,
+        "good": 2,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1952,6 +1952,15 @@
           "date": "2019-08-19T08:39:14Z",
           "userName": "soljd",
           "issueNumber": 94692,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "Preferences load but the stock volume doesn’t change ",
+          "date": "2019-08-23T19:17:11Z",
+          "userName": "shimbibitty",
+          "issueNumber": 97133,
           "arch32": false
         }
       ]
