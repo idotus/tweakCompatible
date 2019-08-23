@@ -2281,10 +2281,10 @@
       "date": "2019-08-19T12:14:52Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 83,
         "good": 5,
         "bad": 0,
-        "total": 5,
+        "total": 6,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2337,6 +2337,15 @@
           "date": "2019-08-20T16:44:52Z",
           "userName": "Stoppels",
           "issueNumber": 95944,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Crashes my phone when calling Siri. ",
+          "date": "2019-08-23T19:22:48Z",
+          "userName": "jdavidrpp",
+          "issueNumber": 97135,
           "arch32": false
         }
       ]
