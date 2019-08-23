@@ -583,7 +583,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -600,6 +600,15 @@
           "date": "2019-08-20T14:25:30Z",
           "userName": "LileAuTresor",
           "issueNumber": 95863,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Crashes Safari on Launch",
+          "date": "2019-08-23T15:02:00Z",
+          "userName": "FaisalBiyari",
+          "issueNumber": 97094,
           "arch32": false
         }
       ]
