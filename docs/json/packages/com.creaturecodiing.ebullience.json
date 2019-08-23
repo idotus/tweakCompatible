@@ -1,10 +1,10 @@
 {
   "id": "com.creaturecodiing.ebullience",
   "name": "ebullience",
-  "latest": "1.0.2",
+  "latest": "1.0.1b",
   "repository": "CreatureSurvive's Repo",
   "url": "http://cydia.saurik.com/package/com.creaturecodiing.ebullience/",
-  "shortDescription": "Animated Table View scrolling",
+  "shortDescription": "Animated UITableViews",
   "category": "Tweaks",
   "author": "CreatureSurvive",
   "commercial": false,
@@ -543,6 +543,37 @@
           "date": "2019-08-21T07:23:40Z",
           "userName": "RubenHenriques7",
           "issueNumber": 96216,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.1b",
+      "iOSVersion": "12.4",
+      "repository": "CreatureSurvive's Repo",
+      "date": "2019-08-23T09:39:01Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-23T09:39:01Z",
+          "userName": "huny320",
+          "issueNumber": 97012,
           "arch32": false
         }
       ]
