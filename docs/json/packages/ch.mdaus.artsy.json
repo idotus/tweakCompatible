@@ -3366,11 +3366,11 @@
       "repository": "Packix",
       "date": "2019-08-18T18:51:45Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 66,
         "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -3396,6 +3396,15 @@
           "date": "2019-08-19T23:36:00Z",
           "userName": "Danski718",
           "issueNumber": 95461,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone7,2",
+          "issues": "on Iphone 6 reboots you into safe mode after installing",
+          "date": "2019-08-23T11:48:55Z",
+          "userName": "Vezifer",
+          "issueNumber": 97062,
           "arch32": false
         }
       ]
