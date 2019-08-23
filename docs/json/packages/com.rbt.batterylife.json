@@ -2921,9 +2921,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 4,
+        "good": 5,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2967,6 +2967,15 @@
           "date": "2019-07-31T16:08:30Z",
           "userName": "Neosnc",
           "issueNumber": 93214,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-23T02:24:16Z",
+          "userName": "jxh4138",
+          "issueNumber": 96945,
           "arch32": false
         }
       ]
