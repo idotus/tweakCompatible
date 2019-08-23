@@ -1704,15 +1704,6 @@
         },
         {
           "status": "not working",
-          "device": "iPhone10,3",
-          "issues": "",
-          "date": "2019-08-21T07:15:40Z",
-          "userName": "TheLegendaryNighthawk",
-          "issueNumber": 96214,
-          "arch32": false
-        },
-        {
-          "status": "not working",
           "device": "iPhone9,3",
           "issues": "Causes crash when receiving notifications",
           "date": "2019-08-21T09:17:44Z",
@@ -1745,6 +1736,15 @@
           "date": "2019-08-23T03:38:21Z",
           "userName": "parkerwalden",
           "issueNumber": 96971,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-23T18:39:09Z",
+          "userName": "TheLegendaryNighthawk",
+          "issueNumber": 97131,
           "arch32": false
         }
       ]
