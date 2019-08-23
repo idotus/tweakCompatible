@@ -2595,9 +2595,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 2,
+        "good": 3,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2623,6 +2623,15 @@
           "date": "2019-07-23T20:46:26Z",
           "userName": "IOExeption",
           "issueNumber": 92458,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-23T02:24:49Z",
+          "userName": "jxh4138",
+          "issueNumber": 96946,
           "arch32": false
         }
       ]
