@@ -8709,21 +8709,22 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
+      "id": "mterminal",
       "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "latest": "1.4-6",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
+      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5",
+          "tweakVersion": "1.4-6",
           "iOSVersion": "12.1.4",
-          "repository": "BigBoss",
-          "date": "2019-07-13T13:39:06Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-07-12T15:09:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8742,22 +8743,21 @@
       ]
     },
     {
-      "id": "mterminal",
+      "id": "com.officialscheduler.mterminal",
       "name": "MTerminal",
-      "latest": "1.4-6",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/mterminal/",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
-      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-6",
+          "tweakVersion": "1.4-5",
           "iOSVersion": "12.1.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-07-12T15:09:03Z",
+          "repository": "BigBoss",
+          "date": "2019-07-13T13:39:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13203,22 +13203,22 @@
       ]
     },
     {
-      "id": "com.unlimapps.uasharedtools.nostash",
+      "id": "org.cydia.kiimo.nostash",
       "name": "uasharedtools (iOS 11)",
-      "latest": "2.2r-94",
-      "repository": "test.unlimapps.com",
-      "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
+      "latest": "2.2r-76",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.nostash/",
       "shortDescription": "shared tools for unlimapps tweaks",
       "category": "Development",
       "author": "UnlimApps Inc.",
       "commercial": false,
-      "date": "2018-07-22T22:24:24Z",
+      "date": "2019-07-14T06:59:22Z",
       "versions": [
         {
           "tweakVersion": "2.2r-76",
           "iOSVersion": "12.1.4",
-          "repository": "UnlimApps",
-          "date": "2019-07-23T17:25:03Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-14T06:59:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13237,22 +13237,22 @@
       ]
     },
     {
-      "id": "org.cydia.kiimo.nostash",
+      "id": "com.unlimapps.uasharedtools.nostash",
       "name": "uasharedtools (iOS 11)",
-      "latest": "2.2r-76",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/org.cydia.kiimo.nostash/",
+      "latest": "2.2r-94",
+      "repository": "test.unlimapps.com",
+      "url": "http://cydia.saurik.com/package/com.unlimapps.uasharedtools.nostash/",
       "shortDescription": "shared tools for unlimapps tweaks",
       "category": "Development",
       "author": "UnlimApps Inc.",
       "commercial": false,
-      "date": "2019-07-14T06:59:22Z",
+      "date": "2018-07-22T22:24:24Z",
       "versions": [
         {
           "tweakVersion": "2.2r-76",
           "iOSVersion": "12.1.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-14T06:59:22Z",
+          "repository": "UnlimApps",
+          "date": "2019-07-23T17:25:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -13645,10 +13645,10 @@
     {
       "id": "com.iarrays.whoozit",
       "name": "WhoozItPro",
-      "latest": "2.0.4-beta-8",
+      "latest": "2.0.8-beta-1",
       "repository": "IArrays",
       "url": "http://iarrays.com/",
-      "shortDescription": "Now with iOS 10 support. The all in one perfect caller ID solution for your iDevice. No clue who is calling you and don't know whom you missed? Don't worry, now this all in one perfect caller ID solution will make your life is more simple. Just install this and TrueCaller on your device and just start searchin the calls from you stack apps like Phone, Messages & Notification Center and even from the Recents (tweak).",
+      "shortDescription": "Now with iOS 12 support. The all in one perfect caller ID solution for your iDevice. No clue who is calling you and don't know whom you missed? Don't worry, now this all in one perfect caller ID solution will make your life is more simple. Just install this and TrueCaller on your device and just start searchin the calls from you stack apps like Phone, Messages & Notification Center and even from the Recents (tweak).",
       "category": "Utilities",
       "author": "IArrays",
       "commercial": false,
@@ -13658,6 +13658,26 @@
           "iOSVersion": "12.1.4",
           "repository": "IArrays",
           "date": "2019-07-16T10:33:39Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        },
+        {
+          "tweakVersion": "2.0.8-beta-1",
+          "iOSVersion": "12.1.4",
+          "repository": "IArrays",
+          "date": "2019-08-24T23:20:55Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
