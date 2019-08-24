@@ -689,10 +689,10 @@
       "date": "2019-08-18T19:48:12Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 76,
-        "good": 10,
+        "percentage": 78,
+        "good": 11,
         "bad": 0,
-        "total": 13,
+        "total": 14,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -817,6 +817,15 @@
           "date": "2019-08-24T13:52:07Z",
           "userName": "key215",
           "issueNumber": 97274,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-24T13:38:30Z",
+          "userName": "Killacon",
+          "issueNumber": 97268,
           "arch32": false
         }
       ]
