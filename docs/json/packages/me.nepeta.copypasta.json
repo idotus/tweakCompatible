@@ -470,10 +470,10 @@
       "date": "2019-08-19T15:29:58Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
+        "percentage": 50,
         "good": 2,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -508,6 +508,15 @@
           "date": "2019-08-24T01:16:33Z",
           "userName": "totte94l",
           "issueNumber": 97212,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "Installs and shows fine, however does not show copied text, and may prevent text from being copied.",
+          "date": "2019-08-24T11:56:42Z",
+          "userName": "FaisalBiyari",
+          "issueNumber": 97262,
           "arch32": false
         }
       ]
