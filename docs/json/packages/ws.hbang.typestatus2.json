@@ -2583,10 +2583,10 @@
       "date": "2019-08-19T14:14:04Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 66,
-        "good": 2,
+        "percentage": 75,
+        "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -2621,6 +2621,15 @@
           "date": "2019-08-22T17:05:45Z",
           "userName": "sdschramm",
           "issueNumber": 96846,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone8,2",
+          "issues": "",
+          "date": "2019-08-24T17:09:06Z",
+          "userName": "htb723",
+          "issueNumber": 97289,
           "arch32": false
         }
       ]
