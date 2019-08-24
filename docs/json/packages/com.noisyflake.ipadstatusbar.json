@@ -701,9 +701,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 3,
+        "good": 4,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -738,6 +738,15 @@
           "date": "2019-08-19T01:10:15Z",
           "userName": "shepgoba",
           "issueNumber": 94324,
+          "arch32": false
+        },
+        {
+          "status": "partial",
+          "device": "iPhone8,1",
+          "issues": "Do not disable battery percentage. It will put you in safe mode",
+          "date": "2019-08-24T20:06:49Z",
+          "userName": "cillbill74",
+          "issueNumber": 97304,
           "arch32": false
         }
       ]
