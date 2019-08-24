@@ -1,7 +1,7 @@
 {
   "id": "com.you.batchinstall",
   "name": "BatchInstall",
-  "latest": "2019.08.16-02.08.30",
+  "latest": "2019.08.23-00.19.15",
   "repository": "(null)",
   "url": "http://cydia.saurik.com/package/com.you.batchinstall/",
   "shortDescription": "Batch-install all of your tweaks for your setup! Created using Batchomatic v3.0.1",
@@ -130,6 +130,37 @@
           "date": "2019-08-23T09:38:32Z",
           "userName": "huny320",
           "issueNumber": 97011,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "2019.08.23-00.19.15",
+      "iOSVersion": "12.4",
+      "repository": "(null)",
+      "date": "2019-08-24T08:27:00Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-24T08:27:00Z",
+          "userName": "ultra360",
+          "issueNumber": 97237,
           "arch32": false
         }
       ]
