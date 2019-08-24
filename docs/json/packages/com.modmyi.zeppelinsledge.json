@@ -62,21 +62,21 @@
       },
       "users": [
         {
-          "status": "working",
-          "device": "iPhone9,2",
-          "issues": "",
-          "date": "2019-08-22T04:09:17Z",
-          "userName": "TRD360",
-          "issueNumber": 96698,
-          "arch32": false
-        },
-        {
           "status": "not working",
           "device": "iPhone10,1",
           "issues": "Can’t change carrier text and icons don’t change to the selected",
           "date": "2019-08-22T04:52:00Z",
           "userName": "Idahoes",
           "issueNumber": 96711,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,2",
+          "issues": "100% working ",
+          "date": "2019-08-24T15:10:59Z",
+          "userName": "TRD360",
+          "issueNumber": 97283,
           "arch32": false
         }
       ]
