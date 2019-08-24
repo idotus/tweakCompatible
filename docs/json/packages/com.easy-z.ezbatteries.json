@@ -434,10 +434,10 @@
       "date": "2019-08-19T23:20:47Z",
       "outcome": {
         "calculatedStatus": "Likely working",
-        "percentage": 50,
-        "good": 1,
+        "percentage": 66,
+        "good": 2,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -463,6 +463,15 @@
           "date": "2019-08-21T18:35:32Z",
           "userName": "josef403",
           "issueNumber": 96510,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-24T01:53:20Z",
+          "userName": "Danski718",
+          "issueNumber": 97214,
           "arch32": false
         }
       ]
