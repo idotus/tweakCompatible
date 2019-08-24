@@ -696,11 +696,11 @@
       "repository": "Packix",
       "date": "2019-08-22T11:21:53Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -726,6 +726,15 @@
           "date": "2019-08-23T11:30:07Z",
           "userName": "Zockerbeule",
           "issueNumber": 97060,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,6",
+          "issues": "",
+          "date": "2019-08-24T11:54:45Z",
+          "userName": "jdavidrpp",
+          "issueNumber": 97261,
           "arch32": false
         }
       ]
