@@ -332,11 +332,11 @@
       "repository": "BigBoss",
       "date": "2019-08-21T17:48:13Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -353,6 +353,15 @@
           "date": "2019-08-21T17:48:13Z",
           "userName": "ManiacMaxo",
           "issueNumber": 96459,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-24T20:35:54Z",
+          "userName": "chase-joel",
+          "issueNumber": 97309,
           "arch32": false
         }
       ]
