@@ -1201,11 +1201,11 @@
       "repository": "julioverne's Repo",
       "date": "2019-08-20T22:49:26Z",
       "outcome": {
-        "calculatedStatus": "Not working",
-        "percentage": 0,
-        "good": 0,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
+        "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1222,6 +1222,15 @@
           "date": "2019-08-20T22:49:26Z",
           "userName": "wildbirds",
           "issueNumber": 96067,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone7,2",
+          "issues": "",
+          "date": "2019-08-24T17:45:45Z",
+          "userName": "iCosy",
+          "issueNumber": 97291,
           "arch32": false
         }
       ]
