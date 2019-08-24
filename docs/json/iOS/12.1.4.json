@@ -932,10 +932,10 @@
     {
       "id": "com.midnightchips.asteroid",
       "name": "Asteroid",
-      "latest": "3.0.4",
+      "latest": "1.9.9",
       "repository": "Dynastic Repo",
       "url": "http://cydia.saurik.com/package/com.midnightchips.asteroid/",
-      "shortDescription": "System-Wide Weather — The Spiritual Successor to Forecast and Meteor, Asteroid allows displaying live animations of the weather on the Home Screen, Lock Screen and Weather App. Options configured in settings.",
+      "shortDescription": "System-Wide Weather.",
       "category": "Tweaks",
       "author": "MidnightChips",
       "commercial": false,
@@ -980,6 +980,40 @@
           "iOSVersion": "12.1.4",
           "repository": "Nepeta",
           "date": "2019-07-21T01:58:16Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.ichitaso.autobrightness11",
+      "name": "AutoBrightnessToggle (CCSupport)",
+      "latest": "0.1-4",
+      "repository": "ichitaso repository",
+      "url": "http://cydia.saurik.com/package/com.ichitaso.autobrightness11/",
+      "shortDescription": "Turn on / off Auto-Brightness from the control center.",
+      "category": "Addons (ControlCenter)",
+      "author": "ichitaso",
+      "commercial": false,
+      "date": "2018-05-24T18:05:38Z",
+      "versions": [
+        {
+          "tweakVersion": "0.1-4",
+          "iOSVersion": "12.1.4",
+          "repository": "BigBoss",
+          "date": "2019-08-24T22:24:58Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -3701,7 +3735,7 @@
     {
       "id": "com.r333d.cylinder",
       "name": "Cylinder",
-      "latest": "1.0.6",
+      "latest": "1.0.7~beta1",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/com.r333d.cylinder/",
       "shortDescription": "Make your icons dance",
@@ -8675,22 +8709,21 @@
       ]
     },
     {
-      "id": "mterminal",
+      "id": "com.officialscheduler.mterminal",
       "name": "MTerminal",
-      "latest": "1.4-6",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/mterminal/",
+      "latest": "1.4-5",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
-      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-6",
+          "tweakVersion": "1.4-5",
           "iOSVersion": "12.1.4",
-          "repository": "Bingner/Elucubratus",
-          "date": "2019-07-12T15:09:03Z",
+          "repository": "BigBoss",
+          "date": "2019-07-13T13:39:06Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -8709,21 +8742,22 @@
       ]
     },
     {
-      "id": "com.officialscheduler.mterminal",
+      "id": "mterminal",
       "name": "MTerminal",
-      "latest": "1.4-5",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.officialscheduler.mterminal/",
+      "latest": "1.4-6",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/mterminal/",
       "shortDescription": "A MobileTerminal fork",
       "category": "Utilities",
       "author": "lordscotland",
       "commercial": false,
+      "date": "2018-11-13T09:26:26Z",
       "versions": [
         {
-          "tweakVersion": "1.4-5",
+          "tweakVersion": "1.4-6",
           "iOSVersion": "12.1.4",
-          "repository": "BigBoss",
-          "date": "2019-07-13T13:39:06Z",
+          "repository": "Bingner/Elucubratus",
+          "date": "2019-07-12T15:09:03Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12699,7 +12733,7 @@
     {
       "id": "jp.ashikase.techsupport",
       "name": "TechSupport Framework",
-      "latest": "1.5.0.1-1",
+      "latest": "1.5.0.1-2",
       "repository": "BigBoss",
       "url": "http://cydia.saurik.com/package/jp.ashikase.techsupport/",
       "shortDescription": "Framework to assist in providing feedback to developers.",
@@ -12903,7 +12937,7 @@
     {
       "id": "com.foxfort.translomatic",
       "name": "Translomatic",
-      "latest": "1.2.9",
+      "latest": "1.2.10",
       "repository": "Packix",
       "url": "http://cydia.saurik.com/package/com.foxfort.translomatic/",
       "shortDescription": "Quickly translate any text",
@@ -13901,7 +13935,7 @@
     {
       "id": "xyz.willy.zebra",
       "name": "Zebra (BETA)",
-      "latest": "1.0~beta20-2",
+      "latest": "1.0~beta19",
       "repository": "xTM3x Repo",
       "url": "http://cydia.saurik.com/package/xyz.willy.zebra/",
       "shortDescription": "A Useful Package Manager",
