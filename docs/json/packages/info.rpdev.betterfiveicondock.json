@@ -818,11 +818,11 @@
       "repository": "BigBoss",
       "date": "2019-08-19T22:55:43Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 50,
+        "calculatedStatus": "Not working",
+        "percentage": 33,
         "good": 1,
         "bad": 0,
-        "total": 2,
+        "total": 3,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -848,6 +848,15 @@
           "date": "2019-08-21T01:00:08Z",
           "userName": "SpicyCoding",
           "issueNumber": 96104,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,5",
+          "issues": "",
+          "date": "2019-08-24T16:38:48Z",
+          "userName": "kuplion",
+          "issueNumber": 97288,
           "arch32": false
         }
       ]
