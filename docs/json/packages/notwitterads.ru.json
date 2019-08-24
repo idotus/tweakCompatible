@@ -387,6 +387,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0.0.1",
+      "iOSVersion": "12.4",
+      "repository": "Packix",
+      "date": "2019-08-24T09:37:22Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone7,1",
+          "issues": "Twitter crash at launch",
+          "date": "2019-08-24T09:37:22Z",
+          "userName": "Clem-",
+          "issueNumber": 97240,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
