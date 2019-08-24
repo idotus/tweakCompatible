@@ -1,7 +1,7 @@
 {
   "id": "com.golddavid.manila",
   "name": "Manila",
-  "latest": "1.0.2-1",
+  "latest": "1.0.3",
   "repository": "David Goldman's Repo",
   "url": "http://cydia.saurik.com/package/com.golddavid.manila/",
   "shortDescription": "Your folders are too plain",
@@ -228,6 +228,37 @@
           "date": "2019-03-02T19:22:58Z",
           "userName": "delon5",
           "issueNumber": 70913,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.0.3",
+      "iOSVersion": "12.4",
+      "repository": "David Goldman's Repo",
+      "date": "2019-08-24T00:46:57Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,4",
+          "issues": "",
+          "date": "2019-08-24T00:46:57Z",
+          "userName": "d8vedmg",
+          "issueNumber": 97176,
           "arch32": false
         }
       ]
