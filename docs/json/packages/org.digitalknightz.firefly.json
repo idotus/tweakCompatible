@@ -1,7 +1,7 @@
 {
   "id": "org.digitalknightz.firefly",
   "name": "Firefly",
-  "latest": "1.1.1-1",
+  "latest": "1.2.1-2",
   "repository": "Packix",
   "url": "http://cydia.saurik.com/package/org.digitalknightz.firefly/",
   "shortDescription": "Give your icons a nice glowing effect",
@@ -99,6 +99,37 @@
           "date": "2019-06-20T20:41:15Z",
           "userName": "AppleTweaker420",
           "issueNumber": 90435,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "1.2.1-2",
+      "iOSVersion": "12.2",
+      "repository": "Packix",
+      "date": "2019-08-25T08:00:25Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,3",
+          "issues": "",
+          "date": "2019-08-25T08:00:25Z",
+          "userName": "PappyDoseBro",
+          "issueNumber": 97442,
           "arch32": false
         }
       ]
