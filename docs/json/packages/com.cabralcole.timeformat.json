@@ -685,11 +685,11 @@
       "repository": "BigBoss",
       "date": "2019-08-23T11:18:49Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -706,6 +706,15 @@
           "date": "2019-08-23T11:18:49Z",
           "userName": "FrostyNL",
           "issueNumber": 97057,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,2",
+          "issues": "Safe mode, respring loops - BROKEN!",
+          "date": "2019-08-25T05:04:42Z",
+          "userName": "SentientEnigma",
+          "issueNumber": 97407,
           "arch32": false
         }
       ]
