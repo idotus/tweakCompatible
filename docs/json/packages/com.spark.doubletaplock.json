@@ -1749,11 +1749,11 @@
       "repository": "SparkDev",
       "date": "2019-08-19T09:48:27Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 75,
         "good": 3,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1788,6 +1788,15 @@
           "date": "2019-08-24T09:41:47Z",
           "userName": "Stoppels",
           "issueNumber": 97243,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Can’t double tap to lock",
+          "date": "2019-08-25T09:16:02Z",
+          "userName": "SpookyMoo",
+          "issueNumber": 97472,
           "arch32": false
         }
       ]
