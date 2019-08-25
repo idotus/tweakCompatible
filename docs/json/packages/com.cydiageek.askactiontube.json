@@ -64,10 +64,10 @@
         {
           "status": "working",
           "device": "iPhone7,2",
-          "issues": " {   \"packageId\": \"com.cydiageek.askactiontube\",   \"action\": \"working\",   \"userInfo\": {     \"arch32\": false,     \"packageId\": \"com.cydiageek.askactiontube\",     \"deviceId\": \"iPhone7,2\",     \"url\": \"http://cydia.saurik.com/package/com.cydiageek.askactiontube/\",     \"iOSVersion\": \"12.4\",     \"packageVersionIndexed\": true,     \"packageName\": \"AskActionTube\",     \"category\": \"Tweaks\",     \"repository\": \"BigBoss\",     \"name\": \"AskActionTube\",     \"installed\": \"1.0.0\",     \"packageIndexed\": true,     \"packageStatusExplaination\": \"A matching version of this tweak for this iOS version could not be found. Please submit a review if you choose to install.\",     \"id\": \"com.cydiageek.askactiontube\",     \"commercial\": false,     \"packageInstalled\": true,     \"tweakCompatVersion\": \"0.1.5\",     \"shortDescription\": \"Confirm Actions on YouTube Video Playing and More!\",     \"latest\": \"1.0.0\",     \"author\": \"CydiaGeek\",     \"packageStatus\": \"Unknown\"   },   \"base64\": \"eyJhcmNoMzIiOmZhbHNlLCJwYWNrYWdlSWQiOiJjb20uY3lkaWFnZWVrLmFza2FjdGlvbnR1YmUiLCJkZXZpY2VJZCI6ImlQaG9uZTcsMiIsInVybCI6Imh0dHA6XC9cL2N5ZGlhLnNhdXJpay5jb21cL3BhY2thZ2VcL2NvbS5jeWRpYWdlZWsuYXNrYWN0aW9udHViZVwvIiwiaU9TVmVyc2lvbiI6IjEyLjQiLCJwYWNrYWdlVmVyc2lvbkluZGV4ZWQiOnRydWUsInBhY2thZ2VOYW1lIjoiQXNrQWN0aW9uVHViZSIsImNhdGVnb3J5IjoiVHdlYWtzIiwicmVwb3NpdG9yeSI6IkJpZ0Jvc3MiLCJuYW1lIjoiQXNrQWN0aW9uVHViZSIsImluc3RhbGxlZCI6IjEuMC4wIiwicGFja2FnZUluZGV4ZWQiOnRydWUsInBhY2thZ2VTdGF0dXNFeHBsYWluYXRpb24iOiJBIG1hdGNoaW5nIHZlcnNpb24gb2YgdGhpcyB0d2VhayBmb3IgdGhpcyBpT1MgdmVyc2lvbiBjb3VsZCBub3QgYmUgZm91bmQuIFBsZWFzZSBzdWJtaXQgYSByZXZpZXcgaWYgeW91IGNob29zZSB0byBpbnN0YWxsLiIsImlkIjoiY29tLmN5ZGlhZ2Vlay5hc2thY3Rpb250dWJlIiwiY29tbWVyY2lhbCI6ZmFsc2UsInBhY2thZ2VJbnN0YWxsZWQiOnRydWUsInR3ZWFrQ29tcGF0VmVyc2lvbiI6IjAuMS41Iiwic2hvcnREZXNjcmlwdGlvbiI6IkNvbmZpcm0gQWN0aW9ucyBvbiBZb3VUdWJlIFZpZGVvIFBsYXlpbmcgYW5kIE1vcmUhIiwibGF0ZXN0IjoiMS4wLjAiLCJhdXRob3IiOiJDeWRpYUdlZWsiLCJwYWNrYWdlU3RhdHVzIjoiVW5rbm93biJ9\",   \"chosenStatus\": \"working\",   \"notes\": \"\" } ",
-          "date": "2019-08-25T06:16:08Z",
+          "issues": "",
+          "date": "2019-08-25T05:43:57Z",
           "userName": "naraenBo",
-          "issueNumber": 97418,
+          "issueNumber": 97413,
           "arch32": false
         }
       ]
