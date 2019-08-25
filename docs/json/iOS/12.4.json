@@ -4054,40 +4054,6 @@
       ]
     },
     {
-      "id": "ru.rejail.autotouch",
-      "name": "AutoTouch",
-      "latest": "5.1.5k",
-      "repository": "ReJail Repo",
-      "url": "http://cydia.saurik.com/package/ru.rejail.autotouch/",
-      "shortDescription": "Автокликер для iOS",
-      "category": "Utilities",
-      "author": "Kent Krantz",
-      "commercial": false,
-      "date": "2019-08-19T00:11:01Z",
-      "versions": [
-        {
-          "tweakVersion": "5.1.5k",
-          "iOSVersion": "12.4",
-          "repository": "ReJail Repo",
-          "date": "2019-08-19T00:11:01Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "me.autotouch.autotouch.ios8",
       "name": "AutoTouch",
       "latest": "5.1.5",
@@ -4123,6 +4089,40 @@
           "iOSVersion": "12.4",
           "repository": "AutoTouch",
           "date": "2019-08-25T00:25:19Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.rejail.autotouch",
+      "name": "AutoTouch",
+      "latest": "5.1.5k",
+      "repository": "ReJail Repo",
+      "url": "http://cydia.saurik.com/package/ru.rejail.autotouch/",
+      "shortDescription": "Автокликер для iOS",
+      "category": "Utilities",
+      "author": "Kent Krantz",
+      "commercial": false,
+      "date": "2019-08-19T00:11:01Z",
+      "versions": [
+        {
+          "tweakVersion": "5.1.5k",
+          "iOSVersion": "12.4",
+          "repository": "ReJail Repo",
+          "date": "2019-08-19T00:11:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -5406,40 +5406,6 @@
       ]
     },
     {
-      "id": "org.thebigboss.better3dmenus",
-      "name": "Better3DMenus",
-      "latest": "2.4",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
-      "shortDescription": "Better 3D-Touch Menus!",
-      "category": "Tweaks",
-      "author": "dpkg_",
-      "commercial": false,
-      "date": "2018-10-12T18:03:31Z",
-      "versions": [
-        {
-          "tweakVersion": "2.4",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T19:44:08Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.dpkg.better3dmenus",
       "name": "Better3DMenus",
       "latest": "2.4",
@@ -5460,6 +5426,40 @@
             "calculatedStatus": "Not working",
             "percentage": 0,
             "good": 0,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "org.thebigboss.better3dmenus",
+      "name": "Better3DMenus",
+      "latest": "2.4",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/org.thebigboss.better3dmenus/",
+      "shortDescription": "Better 3D-Touch Menus!",
+      "category": "Tweaks",
+      "author": "dpkg_",
+      "commercial": false,
+      "date": "2018-10-12T18:03:31Z",
+      "versions": [
+        {
+          "tweakVersion": "2.4",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T19:44:08Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
             "bad": 0,
             "total": 1,
             "arch32": {
@@ -5542,40 +5542,6 @@
       ]
     },
     {
-      "id": "com.hackyouriphone.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.4.10",
-      "repository": "HackYouriPhone",
-      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11 & 12",
-      "category": "HYI - Tweaks",
-      "author": "ATWiiks",
-      "commercial": false,
-      "date": "2018-06-30T16:14:01Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.10",
-          "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-20T01:42:06Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.atwiiks.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.10",
@@ -5598,6 +5564,40 @@
             "good": 9,
             "bad": 0,
             "total": 9,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.hackyouriphone.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.4.10",
+      "repository": "HackYouriPhone",
+      "url": "http://cydia.saurik.com/package/com.hackyouriphone.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11 & 12",
+      "category": "HYI - Tweaks",
+      "author": "ATWiiks",
+      "commercial": false,
+      "date": "2018-06-30T16:14:01Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.10",
+          "iOSVersion": "12.4",
+          "repository": "(null)",
+          "date": "2019-08-20T01:42:06Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -10499,6 +10499,39 @@
       ]
     },
     {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T09:47:08Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 2,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -10521,39 +10554,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T09:47:08Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -13996,6 +13996,40 @@
           "iOSVersion": "12.4",
           "repository": "BigBoss",
           "date": "2019-08-20T04:54:49Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.iarrays.deletecontact",
+      "name": "Delete Contact",
+      "latest": "1.5.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.iarrays.deletecontact/",
+      "shortDescription": "single or multi-delete contacts; trash icon",
+      "category": "Tweaks",
+      "author": "IArrays",
+      "commercial": false,
+      "date": "2018-03-01T05:43:58Z",
+      "versions": [
+        {
+          "tweakVersion": "1.5.1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-25T07:15:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31473,22 +31507,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "12.4",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-08-21T18:34:17Z",
+          "date": "2019-08-21T18:34:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31507,22 +31541,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "12.4",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-08-21T18:34:05Z",
+          "date": "2019-08-21T18:34:17Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -37608,22 +37642,22 @@
       ]
     },
     {
-      "id": "com.withertech.provenance",
+      "id": "com.provenance.provenance",
       "name": "Provenance",
-      "latest": "1.0",
-      "repository": "WitherTech",
-      "url": "http://cydia.saurik.com/package/com.withertech.provenance/",
-      "shortDescription": "Provenance for iOS 12",
-      "category": "Games",
-      "author": "WitherTech",
+      "latest": "1.5-2",
+      "repository": "nitosoft.com",
+      "url": "http://cydia.saurik.com/package/com.provenance.provenance/",
+      "shortDescription": "An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC, GBA and PSX",
+      "category": "Multimedia",
+      "author": "James Addyman",
       "commercial": false,
-      "date": "2019-08-23T15:39:30Z",
+      "date": "2019-01-01T05:01:07Z",
       "versions": [
         {
-          "tweakVersion": "1.0",
+          "tweakVersion": "1.5-2",
           "iOSVersion": "12.4",
-          "repository": "WitherTech",
-          "date": "2019-08-23T15:39:30Z",
+          "repository": "nitosoft beta testing repo",
+          "date": "2019-08-21T01:03:31Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -37642,22 +37676,22 @@
       ]
     },
     {
-      "id": "com.provenance.provenance",
+      "id": "com.withertech.provenance",
       "name": "Provenance",
-      "latest": "1.5-2",
-      "repository": "nitosoft.com",
-      "url": "http://cydia.saurik.com/package/com.provenance.provenance/",
-      "shortDescription": "An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC, GBA and PSX",
-      "category": "Multimedia",
-      "author": "James Addyman",
+      "latest": "1.0",
+      "repository": "WitherTech",
+      "url": "http://cydia.saurik.com/package/com.withertech.provenance/",
+      "shortDescription": "Provenance for iOS 12",
+      "category": "Games",
+      "author": "WitherTech",
       "commercial": false,
-      "date": "2019-01-01T05:01:07Z",
+      "date": "2019-08-23T15:39:30Z",
       "versions": [
         {
-          "tweakVersion": "1.5-2",
+          "tweakVersion": "1.0",
           "iOSVersion": "12.4",
-          "repository": "nitosoft beta testing repo",
-          "date": "2019-08-21T01:03:31Z",
+          "repository": "WitherTech",
+          "date": "2019-08-23T15:39:30Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -42774,22 +42808,21 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2.packix",
+      "id": "com.jontelang.snapper2",
       "name": "Snapper 2",
-      "latest": "2.1",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
+      "latest": "1.2.6",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger-lang",
+      "author": "Jonathan Winger Lang",
       "commercial": true,
-      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "2.1",
+          "tweakVersion": "1.4.2",
           "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-19T04:27:09Z",
+          "repository": "BigBoss",
+          "date": "2019-08-19T04:31:42Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -42808,21 +42841,22 @@
       ]
     },
     {
-      "id": "com.jontelang.snapper2",
+      "id": "com.jontelang.snapper2.packix",
       "name": "Snapper 2",
-      "latest": "1.2.6",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2/",
+      "latest": "2.1",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.jontelang.snapper2.packix/",
       "shortDescription": "Pin screenshots on the screen.",
       "category": "Tweaks",
-      "author": "Jonathan Winger Lang",
+      "author": "Jonathan Winger-lang",
       "commercial": true,
+      "date": "2019-04-18T08:16:28Z",
       "versions": [
         {
-          "tweakVersion": "1.4.2",
+          "tweakVersion": "2.1",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T04:31:42Z",
+          "repository": "Packix",
+          "date": "2019-08-19T04:27:09Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -51032,9 +51066,9 @@
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 5,
+            "good": 6,
             "bad": 0,
-            "total": 5,
+            "total": 6,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -51183,22 +51217,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "4.32.7-2",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.4",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-08-21T18:42:41Z",
+          "date": "2019-08-21T18:42:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -51217,22 +51251,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "4.32.7-2",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.4",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-08-21T18:42:15Z",
+          "date": "2019-08-21T18:42:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -51426,28 +51460,27 @@
       ]
     },
     {
-      "id": "com.yourepo.jpet26.youtubetools",
+      "id": "com.justinpetkovic.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
-      "repository": "jpet26 Source - YouRepo",
-      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
       "shortDescription": "Essential toolbox for YouTube app.",
       "category": "Tweaks",
       "author": "Justin Petkovic",
       "commercial": false,
-      "date": "2019-05-25T17:07:36Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "12.4",
-          "repository": "jpet26 Source - YouRepo",
-          "date": "2019-08-18T22:57:43Z",
+          "repository": "(null)",
+          "date": "2019-08-18T18:45:33Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 4,
+            "good": 1,
             "bad": 0,
-            "total": 4,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -51494,27 +51527,28 @@
       ]
     },
     {
-      "id": "com.justinpetkovic.youtubetools",
+      "id": "com.yourepo.jpet26.youtubetools",
       "name": "YouTube Tools",
       "latest": "2.0",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.justinpetkovic.youtubetools/",
+      "repository": "jpet26 Source - YouRepo",
+      "url": "http://cydia.saurik.com/package/com.yourepo.jpet26.youtubetools/",
       "shortDescription": "Essential toolbox for YouTube app.",
       "category": "Tweaks",
       "author": "Justin Petkovic",
       "commercial": false,
+      "date": "2019-05-25T17:07:36Z",
       "versions": [
         {
           "tweakVersion": "2.0",
           "iOSVersion": "12.4",
-          "repository": "(null)",
-          "date": "2019-08-18T18:45:33Z",
+          "repository": "jpet26 Source - YouRepo",
+          "date": "2019-08-18T22:57:43Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 1,
+            "good": 4,
             "bad": 0,
-            "total": 1,
+            "total": 4,
             "arch32": {
               "total": 0,
               "good": 0,
