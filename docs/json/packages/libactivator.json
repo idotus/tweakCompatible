@@ -5984,9 +5984,9 @@
       "outcome": {
         "calculatedStatus": "Working",
         "percentage": 100,
-        "good": 8,
+        "good": 9,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -6066,6 +6066,15 @@
           "date": "2019-08-21T18:50:17Z",
           "userName": "narwhaldc",
           "issueNumber": 96545,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-25T02:32:45Z",
+          "userName": "0V3RR1D3-Discord",
+          "issueNumber": 97374,
           "arch32": false
         }
       ]
