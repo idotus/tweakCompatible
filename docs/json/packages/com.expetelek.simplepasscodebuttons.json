@@ -769,11 +769,11 @@
       "repository": "apt.thebigboss.org",
       "date": "2019-08-19T04:53:59Z",
       "outcome": {
-        "calculatedStatus": "Working",
-        "percentage": 100,
+        "calculatedStatus": "Likely working",
+        "percentage": 50,
         "good": 1,
         "bad": 0,
-        "total": 1,
+        "total": 2,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -790,6 +790,15 @@
           "date": "2019-08-19T04:53:59Z",
           "userName": "SrKrong",
           "issueNumber": 94546,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-08-25T07:56:16Z",
+          "userName": "Xeecle",
+          "issueNumber": 97434,
           "arch32": false
         }
       ]
