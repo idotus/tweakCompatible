@@ -5689,10 +5689,10 @@
       "date": "2019-08-20T15:24:39Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 87,
-        "good": 7,
+        "percentage": 88,
+        "good": 8,
         "bad": 0,
-        "total": 8,
+        "total": 9,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -5772,6 +5772,15 @@
           "date": "2019-08-24T01:06:02Z",
           "userName": "baodiepp",
           "issueNumber": 97194,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,4",
+          "issues": "",
+          "date": "2019-08-25T04:44:57Z",
+          "userName": "r4zif",
+          "issueNumber": 97398,
           "arch32": false
         }
       ]
