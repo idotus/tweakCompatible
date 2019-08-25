@@ -537,6 +537,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "0v1.6.3-456-g6d0ed4ad0",
+      "iOSVersion": "12.4",
+      "repository": "PPSSPP Repo",
+      "date": "2019-08-25T05:46:46Z",
+      "outcome": {
+        "calculatedStatus": "Not working",
+        "percentage": 0,
+        "good": 0,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "not working",
+          "device": "iPhone8,4",
+          "issues": "Only opens once",
+          "date": "2019-08-25T05:46:46Z",
+          "userName": "bill88t",
+          "issueNumber": 97414,
+          "arch32": false
+        }
+      ]
     }
   ]
 }
