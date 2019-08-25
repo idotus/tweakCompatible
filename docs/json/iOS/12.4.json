@@ -4054,6 +4054,40 @@
       ]
     },
     {
+      "id": "ru.rejail.autotouch",
+      "name": "AutoTouch",
+      "latest": "5.1.5k",
+      "repository": "ReJail Repo",
+      "url": "http://cydia.saurik.com/package/ru.rejail.autotouch/",
+      "shortDescription": "Автокликер для iOS",
+      "category": "Utilities",
+      "author": "Kent Krantz",
+      "commercial": false,
+      "date": "2019-08-19T00:11:01Z",
+      "versions": [
+        {
+          "tweakVersion": "5.1.5k",
+          "iOSVersion": "12.4",
+          "repository": "ReJail Repo",
+          "date": "2019-08-19T00:11:01Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "me.autotouch.autotouch.ios8",
       "name": "AutoTouch",
       "latest": "5.1.5",
@@ -4089,40 +4123,6 @@
           "iOSVersion": "12.4",
           "repository": "AutoTouch",
           "date": "2019-08-25T00:25:19Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "ru.rejail.autotouch",
-      "name": "AutoTouch",
-      "latest": "5.1.5k",
-      "repository": "ReJail Repo",
-      "url": "http://cydia.saurik.com/package/ru.rejail.autotouch/",
-      "shortDescription": "Автокликер для iOS",
-      "category": "Utilities",
-      "author": "Kent Krantz",
-      "commercial": false,
-      "date": "2019-08-19T00:11:01Z",
-      "versions": [
-        {
-          "tweakVersion": "5.1.5k",
-          "iOSVersion": "12.4",
-          "repository": "ReJail Repo",
-          "date": "2019-08-19T00:11:01Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -4650,6 +4650,39 @@
       ]
     },
     {
+      "id": "com.cpdigitaldarkroom.barmoji",
+      "name": "Barmoji",
+      "latest": "1.9",
+      "repository": "CP Digital Darkroom Beta Repo",
+      "url": "http://beta.cpdigitaldarkroom.com/",
+      "shortDescription": "Quick emoji access for iPhone X",
+      "category": "Tweaks",
+      "author": "CP Digital Darkroom",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "1.9",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-18T21:24:53Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 6,
+            "bad": 0,
+            "total": 6,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.hackyouriphone.barmoji",
       "name": "Barmoji",
       "latest": "1.9",
@@ -4672,39 +4705,6 @@
             "good": 1,
             "bad": 0,
             "total": 1,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "com.cpdigitaldarkroom.barmoji",
-      "name": "Barmoji",
-      "latest": "1.9",
-      "repository": "CP Digital Darkroom Beta Repo",
-      "url": "http://beta.cpdigitaldarkroom.com/",
-      "shortDescription": "Quick emoji access for iPhone X",
-      "category": "Tweaks",
-      "author": "CP Digital Darkroom",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "1.9",
-          "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-18T21:24:53Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 6,
-            "bad": 0,
-            "total": 6,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -5542,40 +5542,6 @@
       ]
     },
     {
-      "id": "com.atwiiks.betterccxi",
-      "name": "BetterCCXI",
-      "latest": "1.4.10",
-      "repository": "Packix",
-      "url": "http://cydia.saurik.com/package/com.atwiiks.betterccxi/",
-      "shortDescription": "Enhance your control center on iOS 11 & 12",
-      "category": "Tweaks",
-      "author": "ATWiiks",
-      "commercial": true,
-      "date": "2018-06-28T13:55:34Z",
-      "versions": [
-        {
-          "tweakVersion": "1.4.10",
-          "iOSVersion": "12.4",
-          "repository": "Packix",
-          "date": "2019-08-18T18:52:08Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 9,
-            "bad": 0,
-            "total": 9,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "com.hackyouriphone.betterccxi",
       "name": "BetterCCXI",
       "latest": "1.4.10",
@@ -5598,6 +5564,40 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "com.atwiiks.betterccxi",
+      "name": "BetterCCXI",
+      "latest": "1.4.10",
+      "repository": "Packix",
+      "url": "http://cydia.saurik.com/package/com.atwiiks.betterccxi/",
+      "shortDescription": "Enhance your control center on iOS 11 & 12",
+      "category": "Tweaks",
+      "author": "ATWiiks",
+      "commercial": true,
+      "date": "2018-06-28T13:55:34Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4.10",
+          "iOSVersion": "12.4",
+          "repository": "Packix",
+          "date": "2019-08-18T18:52:08Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 9,
+            "bad": 0,
+            "total": 9,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -10499,39 +10499,6 @@
       ]
     },
     {
-      "id": "ru.domo.cocoatop",
-      "name": "CocoaTop",
-      "latest": "2.0.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
-      "shortDescription": "Process Viewer for iOS GUI",
-      "category": "Utilities",
-      "author": "Domo",
-      "commercial": false,
-      "versions": [
-        {
-          "tweakVersion": "2.0.1",
-          "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T09:47:08Z",
-          "outcome": {
-            "calculatedStatus": "Not working",
-            "percentage": 0,
-            "good": 0,
-            "bad": 0,
-            "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
       "id": "ru.domo.cocoatop64",
       "name": "CocoaTop",
       "latest": "2.0.2-1+debug",
@@ -10554,6 +10521,39 @@
             "good": 1,
             "bad": 0,
             "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "ru.domo.cocoatop",
+      "name": "CocoaTop",
+      "latest": "2.0.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/ru.domo.cocoatop/",
+      "shortDescription": "Process Viewer for iOS GUI",
+      "category": "Utilities",
+      "author": "Domo",
+      "commercial": false,
+      "versions": [
+        {
+          "tweakVersion": "2.0.1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-19T09:47:08Z",
+          "outcome": {
+            "calculatedStatus": "Not working",
+            "percentage": 0,
+            "good": 0,
+            "bad": 0,
+            "total": 2,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -12802,22 +12802,22 @@
       ]
     },
     {
-      "id": "ru.rejail.cydown",
+      "id": "cydia.kiiimo.org.cydown",
       "name": "CyDown",
-      "latest": "6.9.7r",
-      "repository": "(null)",
-      "url": "http://cydia.saurik.com/package/ru.rejail.cydown/",
-      "shortDescription": "Установка платных пакетов в Cydia бесплатно!",
-      "category": "Utilities",
+      "latest": "6.9.7",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cydown/",
+      "shortDescription": "Cydia Download Manager & Extra Features!",
+      "category": "iOS 12",
       "author": "julioverne",
       "commercial": false,
-      "date": "2019-02-24T12:29:14Z",
+      "date": "2019-07-04T11:33:16Z",
       "versions": [
         {
-          "tweakVersion": "6.9.7r",
+          "tweakVersion": "6.9.7",
           "iOSVersion": "12.4",
-          "repository": "ReJail Repo",
-          "date": "2019-08-19T17:12:55Z",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-08-21T04:39:24Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -12836,22 +12836,22 @@
       ]
     },
     {
-      "id": "cydia.kiiimo.org.cydown",
+      "id": "ru.rejail.cydown",
       "name": "CyDown",
-      "latest": "6.9.7",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.cydown/",
-      "shortDescription": "Cydia Download Manager & Extra Features!",
-      "category": "iOS 12",
+      "latest": "6.9.7r",
+      "repository": "(null)",
+      "url": "http://cydia.saurik.com/package/ru.rejail.cydown/",
+      "shortDescription": "Установка платных пакетов в Cydia бесплатно!",
+      "category": "Utilities",
       "author": "julioverne",
       "commercial": false,
-      "date": "2019-07-04T11:33:16Z",
+      "date": "2019-02-24T12:29:14Z",
       "versions": [
         {
-          "tweakVersion": "6.9.7",
+          "tweakVersion": "6.9.7r",
           "iOSVersion": "12.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-08-21T04:39:24Z",
+          "repository": "ReJail Repo",
+          "date": "2019-08-19T17:12:55Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14014,22 +14014,22 @@
       ]
     },
     {
-      "id": "com.iarrays.deletecontact",
+      "id": "com.iarrays.deletecontact10",
       "name": "Delete Contact",
-      "latest": "1.5.1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.iarrays.deletecontact/",
-      "shortDescription": "single or multi-delete contacts; trash icon",
-      "category": "Tweaks",
+      "latest": "1.5.1-beta-5",
+      "repository": "IArrays",
+      "url": "http://cydia.saurik.com/package/com.iarrays.deletecontact10/",
+      "shortDescription": "Now supports iOS 10 and also iPhone 7 & 7 Plus and iPad Air & iPad Air 2. Delete Contact allows to delete contacts from your address book. This little tweak adds a trash icon to Contact and Mobile Phone application's contacts screen. And also it allows group delete of contacts and works with all your iDevices.",
+      "category": "Utilities",
       "author": "IArrays",
       "commercial": false,
-      "date": "2018-03-01T05:43:58Z",
+      "date": "2018-03-16T18:10:35Z",
       "versions": [
         {
-          "tweakVersion": "1.5.1",
+          "tweakVersion": "1.5.1-beta-5",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-25T07:15:22Z",
+          "repository": "IArrays",
+          "date": "2019-08-21T18:26:50Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -14048,22 +14048,22 @@
       ]
     },
     {
-      "id": "com.iarrays.deletecontact10",
+      "id": "com.iarrays.deletecontact",
       "name": "Delete Contact",
-      "latest": "1.5.1-beta-5",
-      "repository": "IArrays",
-      "url": "http://cydia.saurik.com/package/com.iarrays.deletecontact10/",
-      "shortDescription": "Now supports iOS 10 and also iPhone 7 & 7 Plus and iPad Air & iPad Air 2. Delete Contact allows to delete contacts from your address book. This little tweak adds a trash icon to Contact and Mobile Phone application's contacts screen. And also it allows group delete of contacts and works with all your iDevices.",
-      "category": "Utilities",
+      "latest": "1.5.1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.iarrays.deletecontact/",
+      "shortDescription": "single or multi-delete contacts; trash icon",
+      "category": "Tweaks",
       "author": "IArrays",
       "commercial": false,
-      "date": "2018-03-16T18:10:35Z",
+      "date": "2018-03-01T05:43:58Z",
       "versions": [
         {
-          "tweakVersion": "1.5.1-beta-5",
+          "tweakVersion": "1.5.1",
           "iOSVersion": "12.4",
-          "repository": "IArrays",
-          "date": "2019-08-21T18:26:50Z",
+          "repository": "BigBoss",
+          "date": "2019-08-25T07:15:22Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -24070,6 +24070,40 @@
       ]
     },
     {
+      "id": "com.hiroshit.invisiblefolders",
+      "name": "InvisibleFolders",
+      "latest": "1.4-1",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.hiroshit.invisiblefolders/",
+      "shortDescription": "No folder backgrounds & mini icon grid",
+      "category": "Tweaks",
+      "author": "hiroshit",
+      "commercial": false,
+      "date": "2019-01-14T16:23:27Z",
+      "versions": [
+        {
+          "tweakVersion": "1.4-1",
+          "iOSVersion": "12.4",
+          "repository": "BigBoss",
+          "date": "2019-08-25T07:38:34Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "iokittools",
       "name": "IOKit Tools",
       "latest": "76-1",
@@ -31541,22 +31575,22 @@
       ]
     },
     {
-      "id": "ncurses5-libs",
+      "id": "ncurses",
       "name": "New Curses",
-      "latest": "5.9-1",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
+      "latest": "6.1-1",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/ncurses/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-14T00:25:17Z",
+      "date": "2018-03-04T19:02:12Z",
       "versions": [
         {
-          "tweakVersion": "5.9-1",
+          "tweakVersion": "6.1-1",
           "iOSVersion": "12.4",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-08-21T18:34:17Z",
+          "date": "2019-08-21T18:34:05Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -31575,22 +31609,22 @@
       ]
     },
     {
-      "id": "ncurses",
+      "id": "ncurses5-libs",
       "name": "New Curses",
-      "latest": "6.1-1",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/ncurses/",
+      "latest": "5.9-1",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/ncurses5-libs/",
       "shortDescription": "feature-complete terminal library",
       "category": "System",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:02:12Z",
+      "date": "2018-10-14T00:25:17Z",
       "versions": [
         {
-          "tweakVersion": "6.1-1",
+          "tweakVersion": "5.9-1",
           "iOSVersion": "12.4",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-08-21T18:34:05Z",
+          "date": "2019-08-21T18:34:17Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -45530,28 +45564,27 @@
       ]
     },
     {
-      "id": "vn.ftios.swipeselection",
+      "id": "com.iky1e.swipeselection-pro",
       "name": "SwipeSelection Pro",
       "latest": "1.0.3-1",
-      "repository": "ftios.vn",
-      "url": "http://cydia.saurik.com/package/vn.ftios.swipeselection/",
-      "shortDescription": "Tweaks are updated the fastest at ftCydia",
-      "category": "FTiOS Tools",
-      "author": "Cydia_kiiMO",
-      "commercial": false,
-      "date": "2019-08-20T13:23:24Z",
+      "repository": "BigBoss",
+      "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection-pro/",
+      "shortDescription": "Swipe along the keyboard to move cursor & select text.",
+      "category": "Tweaks",
+      "author": "iKy1e (Kyle Howells)",
+      "commercial": true,
       "versions": [
         {
           "tweakVersion": "1.0.3-1",
           "iOSVersion": "12.4",
-          "repository": "ftios.vn",
-          "date": "2019-08-20T13:23:24Z",
+          "repository": "BigBoss",
+          "date": "2019-08-19T10:19:47Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 1,
+            "good": 3,
             "bad": 0,
-            "total": 1,
+            "total": 3,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -45598,27 +45631,28 @@
       ]
     },
     {
-      "id": "com.iky1e.swipeselection-pro",
+      "id": "vn.ftios.swipeselection",
       "name": "SwipeSelection Pro",
       "latest": "1.0.3-1",
-      "repository": "BigBoss",
-      "url": "http://cydia.saurik.com/package/com.iky1e.swipeselection-pro/",
-      "shortDescription": "Swipe along the keyboard to move cursor & select text.",
-      "category": "Tweaks",
-      "author": "iKy1e (Kyle Howells)",
-      "commercial": true,
+      "repository": "ftios.vn",
+      "url": "http://cydia.saurik.com/package/vn.ftios.swipeselection/",
+      "shortDescription": "Tweaks are updated the fastest at ftCydia",
+      "category": "FTiOS Tools",
+      "author": "Cydia_kiiMO",
+      "commercial": false,
+      "date": "2019-08-20T13:23:24Z",
       "versions": [
         {
           "tweakVersion": "1.0.3-1",
           "iOSVersion": "12.4",
-          "repository": "BigBoss",
-          "date": "2019-08-19T10:19:47Z",
+          "repository": "ftios.vn",
+          "date": "2019-08-20T13:23:24Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
-            "good": 3,
+            "good": 1,
             "bad": 0,
-            "total": 3,
+            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
@@ -51319,22 +51353,22 @@
       ]
     },
     {
-      "id": "lzma",
+      "id": "xz",
       "name": "XZ Utils",
-      "latest": "4.32.7-2",
-      "repository": "Electra's iOS Utilities",
-      "url": "http://cydia.saurik.com/package/lzma/",
+      "latest": "5.2.4-4",
+      "repository": "Bingner/Elucubratus",
+      "url": "http://cydia.saurik.com/package/xz/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-03-04T19:03:45Z",
+      "date": "2018-10-24T08:16:57Z",
       "versions": [
         {
-          "tweakVersion": "4.32.7-2",
+          "tweakVersion": "5.2.4-4",
           "iOSVersion": "12.4",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-08-21T18:42:41Z",
+          "date": "2019-08-21T18:42:15Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
@@ -51353,22 +51387,22 @@
       ]
     },
     {
-      "id": "xz",
+      "id": "lzma",
       "name": "XZ Utils",
-      "latest": "5.2.4-4",
-      "repository": "Bingner/Elucubratus",
-      "url": "http://cydia.saurik.com/package/xz/",
+      "latest": "4.32.7-2",
+      "repository": "Electra's iOS Utilities",
+      "url": "http://cydia.saurik.com/package/lzma/",
       "shortDescription": "slower, but better, compression algorithm",
       "category": "Archiving",
       "author": "(null)",
       "commercial": false,
-      "date": "2018-10-24T08:16:57Z",
+      "date": "2018-03-04T19:03:45Z",
       "versions": [
         {
-          "tweakVersion": "5.2.4-4",
+          "tweakVersion": "4.32.7-2",
           "iOSVersion": "12.4",
           "repository": "Bingner/Elucubratus",
-          "date": "2019-08-21T18:42:15Z",
+          "date": "2019-08-21T18:42:41Z",
           "outcome": {
             "calculatedStatus": "Working",
             "percentage": 100,
