@@ -1412,6 +1412,37 @@
           "arch32": false
         }
       ]
+    },
+    {
+      "tweakVersion": "1.1-20b",
+      "iOSVersion": "12.1.4",
+      "repository": "julioverne's Repo",
+      "date": "2019-08-25T00:43:38Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "partial",
+          "device": "iPhone10,1",
+          "issues": "disables flashlight toggle on lock screen when used with LittleX",
+          "date": "2019-08-25T00:43:38Z",
+          "userName": "singergiant",
+          "issueNumber": 97351,
+          "arch32": false
+        }
+      ]
     }
   ]
 }

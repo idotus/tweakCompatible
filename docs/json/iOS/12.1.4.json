@@ -526,6 +526,40 @@
       ]
     },
     {
+      "id": "com.julioverne.appellancy11",
+      "name": "Appellancy (iOS 11)",
+      "latest": "1.1-20b",
+      "repository": "julioverne's Repo",
+      "url": "http://cydia.saurik.com/package/com.julioverne.appellancy11/",
+      "shortDescription": "Control your phone with your face!",
+      "category": "Tweaks",
+      "author": "Elijah Frederickson, julioverne",
+      "commercial": false,
+      "date": "2018-08-14T21:57:55Z",
+      "versions": [
+        {
+          "tweakVersion": "1.1-20b",
+          "iOSVersion": "12.1.4",
+          "repository": "julioverne's Repo",
+          "date": "2019-08-25T00:43:38Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.cannathea.afc2d-arm64",
       "name": "Apple File Conduit \"2\" (arm64/KPPLess)",
       "latest": "1.0.3",
@@ -13850,6 +13884,40 @@
       ]
     },
     {
+      "id": "cydia.kiiimo.org.xenhtml",
+      "name": "Xen HTML",
+      "latest": "0.5-2",
+      "repository": "A kiiimo Repository ",
+      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
+      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
+      "category": "System",
+      "author": "Matt Clarke",
+      "commercial": false,
+      "date": "2019-07-28T21:20:26Z",
+      "versions": [
+        {
+          "tweakVersion": "0.5-2",
+          "iOSVersion": "12.1.4",
+          "repository": "A kiiimo Repository ",
+          "date": "2019-07-28T21:20:26Z",
+          "outcome": {
+            "calculatedStatus": "Working",
+            "percentage": 100,
+            "good": 1,
+            "bad": 0,
+            "total": 1,
+            "arch32": {
+              "total": 0,
+              "good": 0,
+              "bad": 0,
+              "percentage": 0,
+              "calculatedStatus": "Unknown"
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "com.matchstic.xenhtml",
       "name": "Xen HTML",
       "latest": "0.5.5-6",
@@ -13892,40 +13960,6 @@
             "good": 1,
             "bad": 0,
             "total": 2,
-            "arch32": {
-              "total": 0,
-              "good": 0,
-              "bad": 0,
-              "percentage": 0,
-              "calculatedStatus": "Unknown"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "cydia.kiiimo.org.xenhtml",
-      "name": "Xen HTML",
-      "latest": "0.5-2",
-      "repository": "A kiiimo Repository ",
-      "url": "http://cydia.saurik.com/package/cydia.kiiimo.org.xenhtml/",
-      "shortDescription": "Unified HTML rendering; lockscreen and homescreen",
-      "category": "System",
-      "author": "Matt Clarke",
-      "commercial": false,
-      "date": "2019-07-28T21:20:26Z",
-      "versions": [
-        {
-          "tweakVersion": "0.5-2",
-          "iOSVersion": "12.1.4",
-          "repository": "A kiiimo Repository ",
-          "date": "2019-07-28T21:20:26Z",
-          "outcome": {
-            "calculatedStatus": "Working",
-            "percentage": 100,
-            "good": 1,
-            "bad": 0,
-            "total": 1,
             "arch32": {
               "total": 0,
               "good": 0,
