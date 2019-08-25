@@ -1749,11 +1749,11 @@
       "repository": "SparkDev",
       "date": "2019-08-19T09:48:27Z",
       "outcome": {
-        "calculatedStatus": "Likely working",
-        "percentage": 75,
-        "good": 3,
+        "calculatedStatus": "Working",
+        "percentage": 80,
+        "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1797,6 +1797,15 @@
           "date": "2019-08-25T09:16:02Z",
           "userName": "SpookyMoo",
           "issueNumber": 97472,
+          "arch32": false
+        },
+        {
+          "status": "working",
+          "device": "iPhone9,3",
+          "issues": "",
+          "date": "2019-08-25T13:29:23Z",
+          "userName": "vanshwason",
+          "issueNumber": 97503,
           "arch32": false
         }
       ]
