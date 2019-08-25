@@ -1015,10 +1015,10 @@
       "date": "2019-08-19T04:00:42Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 80,
         "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1062,6 +1062,15 @@
           "date": "2019-08-24T01:00:10Z",
           "userName": "Grapplerone",
           "issueNumber": 97185,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Causes Photos.app to crash around 3sec after opening",
+          "date": "2019-08-25T07:28:04Z",
+          "userName": "JamesBedwell",
+          "issueNumber": 97430,
           "arch32": false
         }
       ]
