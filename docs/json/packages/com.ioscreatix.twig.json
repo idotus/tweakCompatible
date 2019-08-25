@@ -1433,10 +1433,10 @@
       "date": "2019-08-19T12:39:00Z",
       "outcome": {
         "calculatedStatus": "Working",
-        "percentage": 100,
+        "percentage": 80,
         "good": 4,
         "bad": 0,
-        "total": 4,
+        "total": 5,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1480,6 +1480,15 @@
           "date": "2019-08-24T01:13:01Z",
           "userName": "Grapplerone",
           "issueNumber": 97211,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone8,1",
+          "issues": "No weather , just reposition my clock.   ",
+          "date": "2019-08-25T12:45:46Z",
+          "userName": "mixza2",
+          "issueNumber": 97500,
           "arch32": false
         }
       ]
