@@ -1900,7 +1900,7 @@
         "percentage": 0,
         "good": 0,
         "bad": 0,
-        "total": 3,
+        "total": 4,
         "arch32": {
           "total": 0,
           "good": 0,
@@ -1935,6 +1935,15 @@
           "date": "2019-08-21T21:59:45Z",
           "userName": "davchun",
           "issueNumber": 96622,
+          "arch32": false
+        },
+        {
+          "status": "not working",
+          "device": "iPhone10,3",
+          "issues": "Crashes when I tap battery usage ",
+          "date": "2019-08-25T00:24:51Z",
+          "userName": "Psych0h3ad",
+          "issueNumber": 97347,
           "arch32": false
         }
       ]
