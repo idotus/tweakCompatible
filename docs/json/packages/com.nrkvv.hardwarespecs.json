@@ -1,7 +1,7 @@
 {
   "id": "com.nrkvv.hardwarespecs",
   "name": "HardwareSpecs",
-  "latest": "0.1.6",
+  "latest": "0.2.1",
   "repository": "m156@nrkvv",
   "url": "http://cydia.saurik.com/package/com.nrkvv.hardwarespecs/",
   "shortDescription": "About Hardware Information.",
@@ -201,6 +201,37 @@
           "date": "2019-03-07T02:15:41Z",
           "userName": "reyj5",
           "issueNumber": 74153,
+          "arch32": false
+        }
+      ]
+    },
+    {
+      "tweakVersion": "0.2.1",
+      "iOSVersion": "12.4",
+      "repository": "m156@nrkvv",
+      "date": "2019-08-25T02:37:15Z",
+      "outcome": {
+        "calculatedStatus": "Working",
+        "percentage": 100,
+        "good": 1,
+        "bad": 0,
+        "total": 1,
+        "arch32": {
+          "total": 0,
+          "good": 0,
+          "bad": 0,
+          "percentage": 0,
+          "calculatedStatus": "Unknown"
+        }
+      },
+      "users": [
+        {
+          "status": "working",
+          "device": "iPhone10,6",
+          "issues": "To Access Hardware Information, Launch Settings App, go to General, second option: Hardware.",
+          "date": "2019-08-25T02:37:15Z",
+          "userName": "FaisalBiyari",
+          "issueNumber": 97379,
           "arch32": false
         }
       ]
